@@ -7,7 +7,7 @@ body
     font-family: "Myriad Pro","Helvetica Neue",Helvetica,Arial,Sans-Serif;
     background-color:#c2ccd6;
 }
-#header
+#header 
 {
     width:100%;
     margin:0px auto;
@@ -16,12 +16,10 @@ body
     height:70px;
     line-height:70px;
 }
-#header li
+#header h1
 {
-    display:inline-block;
-    margin-right:25px;
-    font-size:17px;
-    color:#084B8A;
+    text-align: center;
+    color:#1e252c;
     font-weight:bold;
     cursor:pointer;
 }
@@ -36,7 +34,7 @@ body
 {
     margin-top:100px;
     width:90%;
-    height:400px;
+    height:400px auto;
     margin-left:5%;
     padding:50px;
     box-sizing:border-box;
@@ -44,7 +42,7 @@ body
     border-radius:10px;
     color:white;
 }
-#home h1
+/* #home h1
 {
     font-size:40px;
 }
@@ -84,4 +82,4 @@ body
     background:none;
     color:white;
     border:1px solid white;
-}
+} */
