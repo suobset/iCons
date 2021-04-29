@@ -30,20 +30,22 @@
 
         <div id="about">
 
-            <h1>What aspect's data do you want to see?</h1>
+            <h1><a href="index.html">Return to Main Page</a></h1><br><br>
 
-            <div class="dropdown">
-                <button onclick="myFunction()" class="dropbtn">Choose an option ▼</button>
-                <div id="myDropdown" class="dropdown-content">
-                  <a href="hydroEfficiency.html">Efficiency for Hydrogen</a>
-                  <a href="hydroSafety.html">Safety for Hydrogen</a>
-                  <a href="allfuels.html">Data for all fuels</a>
-                  <a href = "hydroCost.html">Cost Factors for Hydrogen Fuel in the U.S.</a>
-                  <a href="about.html">How was this website made??</a>
+            <div id="afdc-stations">
+                <div id="afdc-stations-loading">
+                    Loading alternative fueling station locator...wait times may be long
                 </div>
             </div>
-            <script src = "js/dropDown.js"></script>
-
+            <script src="js/costMap1.js"></script>
+            <script async defer src="https://widgets.nrel.gov/afdc/station-locator/assets/embed.js"></script>
+            <noscript>Please enable JavaScript to view the alternative fueling station locator.</noscript>
+            <!-- <style>
+                .afdc-stations{
+                    width: 900px;
+                    margin: 0 auto;
+                }
+            </style> -->
         </div>
 
         <div id="footer">
