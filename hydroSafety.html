@@ -3,6 +3,12 @@
         <title>iCons 1: Team 6</title>
         <link rel="stylesheet" type="text/css" href="css/website_style.css">
         <script type="text/javascript" src="jquery.js"></script>
+        <script src="https://www.desmos.com/api/v1.6/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
+        <script>
+            var elt = document.getElementById('calculator');
+            var calculator = Desmos.GraphingCalculator(elt);
+            calculator.setExpression({ id: 'graph1', latex: 'y=x^2' });
+        </script>
 
         <script type="text/javascript">
             function scrollto(div)
@@ -29,11 +35,9 @@
         </div> -->
 
         <div id="about">
-
             <h1><a href="index.html">Return to Main Page</a></h1>
-
-            <p>Safety Data will be showcased here interactively</p>
         </div>
+        <div id="calculator" style="width: 600px; height: 400px;"></div>
 
         <div id="footer">
              <p>Made by Kush for Team 6 of CS2.</p>
