@@ -1,4 +1,5 @@
 # iCons Case Study 2: Team 6 extended data
+<a href="https://suobset.github.io/iCons1-CS2/">Link to Website</a>
 
 ## Created as an extension to the data plotted on our poster
 ### Team 6: Kush, Ben, Aadit, Bryan
