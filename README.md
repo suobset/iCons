@@ -9,6 +9,6 @@ A website which was created as an extension to our Poster. Our Research was "Fil
 
 <a href="https://suobset.github.io/iCons/iCons1-CS2/">Click here for the website</a>
 
-All the code for the website is in the "iCons1-CS2" folder of the parent Github repository of this website, or alternatively you can also <a href="https://suobset.github.io/iCons1-CS2">Click Here</a>
+All the code for the website is in the "iCons1-CS2" folder of the parent Github repository of this website, or alternatively you can also <a href="https://github.com/suobset/iCons">Click Here</a>
 
 -Kush
