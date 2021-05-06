@@ -5,7 +5,7 @@ This is a repository to hold all Code/Software related contributions to projects
 
 ## iCons 1: Case Study 2 (Team 6 Hydrogen Viewer)
 
-A website which was created as an extension to our Poster. Our Research was "Filling in gap of ways to make Hydrogen Energy more Accessible and Reliable". The website was created as an interactive means for the audience to view the data and the future scope of the project in an interactove manner. 
+A website which was created as an extension to our Poster. Our Research was "Filling in gap of ways to make Hydrogen Energy more Accessible and Reliable". The website was created as an interactive means for the audience to view the data and the future scope of the project. 
 
 <a href="https://suobset.github.io/iCons/iCons1-CS2/">Click here for the website</a>
 
