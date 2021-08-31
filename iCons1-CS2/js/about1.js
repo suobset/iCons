@@ -13,7 +13,7 @@
    var data = google.visualization.arrayToDataTable([
      ['Name', 'Donuts eaten'],
      ['Michael' , 5],
-     ['Elisa', 7],
+     ['Elisa', 7] 
      ['Robert', 3],
      ['John', 2],
      ['Jessica', 6],
