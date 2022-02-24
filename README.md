@@ -1,10 +1,9 @@
-# iCons: Apollo 11
-## Kushagra Srivastava
+# Apollo 11 | Kush Srivastava
 ### <a href="https://skushagra.com/">Know more about me!!!</a>
 
 <hr>
 
-This is a repository to hold all Code/Software related contributions to projects I have done under the Integrated Concentration in Science (iCons) Program along with the College of Natural Sciences at University of Massachusetts, Amherst. Mostly Web Dev. 
+This is a repository to hold all Code/Software related contributions to projects I have done under the <b>Integrated Concentration in Science (iCons)</b> Program along with the College of Natural Sciences at University of Massachusetts, Amherst. Mostly Web Dev. 
 
 ## iCons 1: Case Study 2 (Team 6 Hydrogen Viewer)
 
