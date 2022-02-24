@@ -5,7 +5,7 @@ body
     text-align:center;
     width:100%;
     font-family: "Myriad Pro","Helvetica Neue",Helvetica,Arial,Sans-Serif;
-    background-color:#c2ccd6;
+    background-color: #bacddc;
 }
 #header
 {
@@ -38,7 +38,7 @@ body
     margin-left:5%;
     padding:50px;
     box-sizing:border-box;
-    background-color:#677d92;
+    background-color: #8896a9;
     border-radius:10px;
     color:white;
 }
