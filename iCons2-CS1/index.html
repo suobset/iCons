@@ -1,0 +1,57 @@
+<html>
+<head>
+    <title>iCons</title>
+    <link rel="shortcut icon" href="https://raw.githubusercontent.com/suobset/suobset.github.io/main/favIcon.jpg" type="image/vnd.microsoft.icon">
+    <link rel="stylesheet" type="text/css" href="../css/website_style.css">
+    <script type="text/javascript" src="jquery.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+        function scrollto(div)
+        {
+            $('html,body').animate(
+                {
+                    scrollTop: $("#"+div).offset().top
+                },'slow');
+        }
+    </script>
+    <script type="text/javascript" src="js/energyStoragePieChart.js"></script>
+    <script type="text/javascript" src="js/flowEfficiency.js"></script>
+</head>
+
+<body>
+
+
+<div id="header">
+    <h1>i2E: Renewable Energy</h1>
+    <p>Assessing the Rate of Development for New Technologies in Renewable Energy</p>
+</div>
+
+<div id="home">
+    <h1>Introduction</h1>
+    <p>This Interactive Graphic aims to showcase some new technologies that have lately been under development in the past 20 years, and their subsequent rates of development. There are two key aspects: generating energy, and storing energy.</p><br>
+    <p>For generating energy, we have taken into account the development of Offshore Wind Farms in the West Coast of the United States. For Storing Energy, Flow Batteries have been studied upon and examined.</p>
+</div>
+<h1>Part 1: Examining New Technologies to Store Energy</h1>
+<div id="about">
+    <h1>Flow Batteries</h1>
+    <p>Flow Batteries, or Vanadium Redox Flow Batteries, are a type of electrochemical cell where energy is provided by two chemical components dissolved in liquids that are pumped through the system on separate sides of a membrane. They provided a longer cycle life than typical Lithium-Ion batteries used widely today, they are safe to dispose off, and the technology is relatively easy to set up and manufacture.</p>
+    <p>Under a report in Information Technology and Innovation Foundation, Anna Goldstein Reports that Flow Batteries were first developed years ago, but have since moved slowly towards commercialization.</p>
+    <p>For example, here is the efficiency of flow batteries in the U.S., as compared to other types of cells:</p>
+    <div id="flow-charts-1" style="width: 900px; height: 500px;"></div>
+    <p>Source: <a href="https://www.eesi.org/papers/view/energy-storage-2019">The World Energy Council</a></p><br><br>
+    <p>According to the <a href="https://css.umich.edu/factsheets/us-grid-energy-storage-factsheet">Center for Sustainable System at University of Michigan</a>, the current trends for energy storage in the U.S. are as such:</p>
+    <div id="energy-pie" style="width: 900px; height: 500px;"></div>
+    <p>While it may seem like Electro-Chemical energy types (of which flow batteries are a type), are relatively lesser than their counterparts, </p>
+</div>
+
+<!--<div id="about">-->
+
+<!--</div>-->
+
+<div id="footer">
+    <p>Made by Kush. <a href="https://skushagra.com/">Personal Website</a>.</p>
+    <p>This is an Open Source Project. <a href="https://github.com/suobset/iCons">Contribute Here!!</a></p>
+</div>
+
+</body>
+</html>
