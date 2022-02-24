@@ -18,24 +18,6 @@ function drawStuff() {
         ['Flywheel',  40, 70],
         ['Flow Battery',  50, 60]
     ]);
-    //
-    // var materialOptions = {
-    //     width: 900,
-    //     chart: {
-    //         title: 'Gasoline Gallon Equivalent, and Energy Content of Various Fuels',
-    //         subtitle: 'GGE on the left, EC on the right'
-    //     },
-    //     series: {
-    //         0: { axis: 'GGE' }, // Bind series 0 to an axis named 'distance'.
-    //         1: { axis: 'EC' } // Bind series 1 to an axis named 'brightness'.
-    //     },
-    //     axes: {
-    //         y: {
-    //             distance: {label: 'GGE'}, // Left y-axis.
-    //             brightness: {side: 'right', label: 'Btu/gal'} // Right y-axis.
-    //         }
-    //     }
-    // };
 
     var classicOptions = {
         width: 900,
@@ -50,13 +32,6 @@ function drawStuff() {
             1: {title: 'Efficiency (%)'}
         }
     };
-
-//   function drawMaterialChart() {
-//     var materialChart = new google.charts.Bar(chartDiv);
-//     materialChart.draw(data, google.charts.Bar.convertOptions(materialOptions));
-//     button.innerText = 'Change to Classic';
-//     button.onclick = drawClassicChart;
-//   }
 
     function drawClassicChart() {
         var classicChart = new google.visualization.ColumnChart(chartDiv);
