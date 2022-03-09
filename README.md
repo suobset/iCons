@@ -17,9 +17,13 @@ A website which was created as an extension to our Poster. Our Research was "Fil
 
 The main poster along with the research data and the sources can be viewed <a href="https://docs.google.com/presentation/d/1Rl3o4Oow5fyl0XPS_FKG08Z8-gC7tRm8D_qi6X6LMBE/edit?usp=sharing">here</a>. The website was created as a companion to go alongside said poster. The link was given to all before the presentatioon, and the audience could play around with the website while listening about our research.
 
+<a href=https://raw.githubusercontent.com/suobset/iCons/main/iCons1-CS2/assets/iCons1_CS2_Poster.pdf>Click here for the Poster in PDF Format</a>
+
+<a href="https://github.com/suobset/iCons/blob/main/iCons1-CS2/assets/iCons1_CS2_Poster.pdf">Click here if the above link does not work</a>
+
 <a href="https://suobset.github.io/iCons/iCons1-CS2/">Click here for the website</a>
 
-<a href="https://youtu.be/21I9cp4u-rc">Click here for the Presentation</a>
+<a href="https://youtu.be/21I9cp4u-rc">Click here for the Video Presentation</a>
 
 All the code for the website is in the "iCons1-CS2" folder of the parent Github repository of this website, or alternatively you can also <a href="https://github.com/suobset/iCons">Click Here</a>
 
