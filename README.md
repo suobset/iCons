@@ -37,4 +37,14 @@ All the code for the website is in the "iCons1-CS2" folder of the parent Github 
 
 Here is <a href="https://youtu.be/CubmiskVxps">the presentation</a>.
 
+## iCons 2: Museum of Science
+
+A group project to map the Boston T and judge it's accessibility
+
+<a href="https://suobset.github.io/iCons/iCons2-MoS/index.html">Here is the Website with the Map and scores</a>
+
+<a href="https://github.com/suobset/iCons2-MoS">Repository with R code and GIS data for this project</a>
+
+Final report and video coming soon
+
 -Kush
