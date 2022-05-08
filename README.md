@@ -39,13 +39,18 @@ Here is <a href="https://youtu.be/CubmiskVxps">the presentation</a>.
 
 ## iCons 2: Museum of Science
 
-A group project to map the Boston T and judge it's accessibility
+A group project to map the Boston T and judge it's accessibility. The project uses two repositories:
+
+* ```suobset/iCons2-MoS``` for R data, GIS data, manipulation, creation, and literally almost everything
+* "iCons2-MoS" subfolder of this current parent repository, only to export ```suobset/iCons2-MoS``` as a webpage and host it on GitHub Pages. Alternatively, <a href="https://github.com/suobset/iCons/iCons2-MoS">Click Here</a>.
 
 <a href="https://suobset.github.io/iCons/iCons2-MoS/index.html">Here is the Website with the Map and scores</a>
 
 <a href="https://github.com/suobset/iCons2-MoS">Repository with R code and GIS data for this project</a>
 
 <a href="https://raw.githubusercontent.com/suobset/iCons/main/iCons2-MoS/assets/I2E%20-%20Final%20Report.pdf">Final Report</a>
+
+<a href="https://github.com/suobset/iCons/blob/main/iCons2-MoS/assets/I2E%20-%20Final%20Report.pdf">View Final Report in a Web Browser</a>
 
 <a href="https://www.youtube.com/watch?v=ATjTuNsuwFk">Video</a>
 
