@@ -5,11 +5,15 @@
 
 This is a repository to hold all Code/Software related contributions to projects I have done under the <b>Integrated Concentration in Science (iCons)</b> Program along with the College of Natural Sciences at University of Massachusetts, Amherst. Mostly Web Dev. 
 
+All of these projects can be found in the <a href="https://icons.cns.umass.edu/innovation-portal/search">Official UMass iCons Innovation Portal</a>.
+
 ## iCons 1: Case Study 1 (Team 4 COVID Meta Analysis)
 
 A presentation conducting a meta analysis to determine which countries had the best response to COVID-19 between March - May 2020.
 
 <a href="https://youtu.be/WA1klH7U9Wo">Presentation Video link</a>.
+
+<a href="https://icons.cns.umass.edu/innovation-portal/1751-the-promise-of-hydrogen-energy">umass.edu Entry</a>
 
 ## iCons 1: Case Study 2 (Team 6 Hydrogen Viewer)
 
