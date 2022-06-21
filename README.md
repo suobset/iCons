@@ -7,6 +7,8 @@ This is a repository to hold all Code/Software related contributions to projects
 
 All of these projects can be found in the <a href="https://icons.cns.umass.edu/innovation-portal/search">Official UMass iCons Innovation Portal</a>.
 
+<a href="https://icons.cns.umass.edu/innovation-portal/search?keywords=kushagra">Filtered list</a>
+
 ## iCons 1: Case Study 1 (Team 4 COVID Meta Analysis)
 
 A presentation conducting a meta analysis to determine which countries had the best response to COVID-19 between March - May 2020.
