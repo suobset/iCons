@@ -60,7 +60,7 @@ All the code for the website is in the "iCons1-CS2" folder of the parent Github 
 
 A presentation conducting a meta analysis to determine which countries had the best response to COVID-19 between March - May 2020.
 
-<a href="https://icons.cns.umass.edu/innovation-portal/1751-the-promise-of-hydrogen-energy">Official UMass Entry (iCons Innovation Portal)</a>.
+<a href="https://icons.cns.umass.edu/innovation-portal/2126-analyzing-covid-19-response-trends-across-different-countries">Official UMass Entry (iCons Innovation Portal)</a>.
 
 ![qq2](https://user-images.githubusercontent.com/73229775/175075821-118aaecf-21e7-43f9-9590-07b915ee15bf.png)
 
