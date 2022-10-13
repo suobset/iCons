@@ -4,7 +4,7 @@
 
 ### UPDATE | October 7, 2022
 
-#### All Research Works Formally Listed Under ORCiD: 
+#### All Research Works Formally Listed Under ORCID: 
 <a href="https://orcid.org/0000-0003-0656-5478">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
 https://orcid.org/0000-0003-0656-5478
