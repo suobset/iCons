@@ -37,6 +37,8 @@ A group project to map the Boston T and judge it's accessibility. The project us
 
 <a href="https://github.com/suobset/iCons2-MoS">Repository with R code and GIS data for this project</a>
 
+<a href="https://www.umass.edu/news/article/umass-icons-students-partner-museum-science-boston-tackle-climate-justice">Featured in UMass Amherst News</a>
+
 ## iCons 2: Case Study 1
 
 An individual project to create an interactive visualization to showcase the development and adoption of Flow Batteries. 
