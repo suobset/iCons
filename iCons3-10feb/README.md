@@ -1,4 +1,4 @@
-# Seb and Kush: iCons 2 min proj proposal??
+# Seb and Kush: iCons 3; 1 min proj proposal??
 
 * assets
   * dataframes and csv stuff
