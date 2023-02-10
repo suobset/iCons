@@ -177,8 +177,8 @@ google.charts.load('current', {'packages':['corechart']});
 
         var options = {
           title: 'Demand and Original Generation for New England Region \n Total Renewable Generation: 286,679 MWh \n Total Load: 2,641,650 MWh',
-          hAxis: {title: 'Year',  titleTextStyle: {color: '#333'}},
-          vAxis: {minValue: 0}
+          hAxis: {title: 'Time (Hover Cursor Over Graph for exact readings)',  titleTextStyle: {color: '#333'}},
+          vAxis: {title: 'MWh', minValue: 0}
         };
 
         var chart = new google.visualization.AreaChart(document.getElementById('chart_div_1'));

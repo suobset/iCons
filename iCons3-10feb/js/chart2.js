@@ -177,8 +177,8 @@ google.charts.load('current', {'packages':['corechart']});
 
         var options = {
           title: 'Demand and Increased Generation for New England (Scale Factor: 11.5183140376519)\n Assume Battery Efficiency: 80%',
-          hAxis: {title: 'Year',  titleTextStyle: {color: '#333'}},
-          vAxis: {minValue: 0}
+          hAxis: {title: 'Time (Hover Cursor Over Graph for exact readings)',  titleTextStyle: {color: '#333'}},
+          vAxis: {title: 'MWh', minValue: 0}
         };
 
         var chart = new google.visualization.AreaChart(document.getElementById('chart_div_2'));
