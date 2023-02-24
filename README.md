@@ -22,6 +22,10 @@ This page mainly serves as a means to collate all my projects and those links in
 
 ![ss](https://user-images.githubusercontent.com/73229775/175075177-a9728232-a4e9-4c68-a60d-4ae02ba388eb.png)
 
+## In Progress: iCons 3
+
+Visit Project Website for Updates: https://suobset.github.io/iCons3
+
 ## iCons 2: Museum of Science
 
 A group project to map the Boston T and judge it's accessibility. The project uses two repositories:
