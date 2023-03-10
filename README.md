@@ -2,9 +2,17 @@
 
 ### <a href="https://skushagra.com/">Know more about me!!!</a>
 
-### UPDATE | October 7, 2022
+### UPDATES
 
-#### All Research Works Formally Listed Under ORCID: 
+#### March 9, 2023
+
+My <a href="https://icons.cns.umass.edu/student/profiles/kushagra-srivastava">UMass iCons Student Profile Page.</a>
+
+Currently working on my <a href="https://suobset.github.io/iCons3">iCons 3 Project Linked Here</a>.
+
+#### October 7, 2022
+
+##### All Research Works Formally Listed Under ORCID: 
 <a href="https://orcid.org/0000-0003-0656-5478">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
 https://orcid.org/0000-0003-0656-5478
