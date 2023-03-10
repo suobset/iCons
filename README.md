@@ -10,6 +10,10 @@ My <a href="https://icons.cns.umass.edu/student/profiles/kushagra-srivastava">UM
 
 Currently working on my <a href="https://suobset.github.io/iCons3">iCons 3 Project Linked Here</a>.
 
+#### February 10, 2023
+
+Mini <a href="https://suobset.github.io/iCons/iCons3-10feb/"> iCons 3 Pitch</a> with <a href="https://www.linkedin.com/in/sebastianarmstrong/">Sebastian Armstrong</a>.
+
 #### October 7, 2022
 
 ##### All Research Works Formally Listed Under ORCID: 
