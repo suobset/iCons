@@ -1,0 +1,1 @@
+window.location.href = "https://skushagra.com/docs/research/icons"
