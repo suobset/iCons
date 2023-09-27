@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "RUST + C Trace",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Trace tool for the languages."
   }
 }

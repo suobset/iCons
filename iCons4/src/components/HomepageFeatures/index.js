@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Point 1',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Lorem Ipsum Dolor sit amet the quick brown fox jumps over the lazy dog icons stands for integrated concentration in STEM. 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Point 2',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Lorem Ipsum Dolor sit amet the quick brown fox jumps over the lazy dog icons stands for integrated concentration in STEM.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Point 3',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Lorem Ipsum Dolor sit amet the quick brown fox jumps over the lazy dog icons stands for integrated concentration in STEM.
       </>
     ),
   },
