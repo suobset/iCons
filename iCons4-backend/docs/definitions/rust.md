@@ -48,7 +48,7 @@ Rust's syntax is similar to C and C++, but with some distinctive features:
 
 In Rust, variables are immutable by default. To make a variable mutable, you must explicitly declare it as such using the `mut` keyword:
 
-```rust
+```rs
 let x = 42;         // Immutable variable
 let mut y = 42;     // Mutable variable
 fn add(a: i32, b: i32) -> i32 {
@@ -59,7 +59,7 @@ fn add(a: i32, b: i32) -> i32 {
 
 Functions in Rust are defined using the fn keyword. They can take parameters and return values:
 
-```rust
+```rs
 fn main() {
     let s1 = String::from("Hello");    // s1 owns the String
     let s2 = s1;                       // Ownership transferred to s2, s1 is no longer valid
