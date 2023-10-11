@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://suobset.github.io/iCons/iCons4/blog</id>
-    <title>iCons 4 | Thesis Showcase Blog</title>
+    <title>LLVM Compilation Performance Metrics Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://suobset.github.io/iCons/iCons4/blog"/>
-    <subtitle>iCons 4 | Thesis Showcase Blog</subtitle>
+    <subtitle>LLVM Compilation Performance Metrics Blog</subtitle>
     <icon>https://suobset.github.io/iCons/iCons4/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>

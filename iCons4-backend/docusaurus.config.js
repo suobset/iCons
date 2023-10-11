@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'iCons 4 | Thesis Showcase',
-  tagline: 'Kush Srivastava | Fall 2023',
+  title: 'LLVM Compilation Performance Metrics',
+  tagline: 'Kush Srivastava | Fall 2023 iCons 4',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Kush S. | iCons 4',
+        title: 'LLVM Metrics',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
