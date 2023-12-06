@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunki_cons_4=self.webpackChunki_cons_4||[]).push([[390],{8681:o=>{o.exports=JSON.parse('{"permalink":"/iCons/iCons4/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
