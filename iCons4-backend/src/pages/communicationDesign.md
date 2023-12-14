@@ -24,7 +24,19 @@ This is not to say that C++ is a "bad, outdated language". Simply put, most low 
 
 By comparing the performance differences between the two languages, we can determine the Return on Investment, should an undertaking be made to refactor code into the new language.
 
-## Hypothesis 1: Lower the Barrier of Entry to Low-Level Development
+## Hypothesis 1: Environmental Impacts
+
+According to [Energy Innovation](https://energyinnovation.org/2020/03/17/how-much-energy-do-data-centers-really-use/), global data centers consumed about 205 terawatt-hours (TWh) of electric power, or about 1% of Global Consumer Electricity Consumption.
+
+Let us put this in perspective: given the world population, servers alone accounted for the electricity that would have been used by 70,000,000 people. This number is about twice the population of Canada, about 65% of Mexico's Population, and about 4 times the population of Australia.
+
+Now, let us assume (hypothetically), that we have moved all low level systems to RUST, which means that all servers in the world run on RUST now. While this is a bit flawed in its nature, let us also assume that there is a direct co-relation between energy consumption and the effectiveness of a language.
+
+If RUST enables, through it's various carefully-constructed safety paradigms, about 5% more efficiency in servers, this would result in savings of about 10.25 terawatt-hours of electricity. That number is greater than the electricity used in about [119 countries of the world](https://en.wikipedia.org/wiki/List_of_countries_by_electricity_consumption), even while having taken only conservative metrics, since inter-connection of servers through Networking, and a higher efficiency of consumer electronics (or client devices) has not been taken into consideration.
+
+RUST would enable the same infrastructure to server exactly the bandwidth it is serving currently, while automatically providing back electricity worth of powering such a high number of countries. Moreover, the same infrastructure can also be utilized into serving an even higher bandwidth without putting new hardware into place, thus providing immense future-proofing and reliability.
+
+## Hypothesis 2: Lower the Barrier of Entry to Low-Level Development
 
 Low Level Systems: including, but not limited to, CPU/GPU Architectures, Compilers, Operating Systems, Networking Interfaces, Communication Protocols, and the like are a culmination of decades of work, most of which really gained traction in 1970s. As a result, there exists a high amount of legacy code, which can be unreadable and intimidating: thus making the development process inaccessible to many.
 
@@ -167,17 +179,58 @@ If this undertaking of shifting away from C++ into RUST is fruitful, developers 
 
 These are some of the many benefits that developers can expect. However, there's more...
 
-## Hypothesis 2: Environmental Impacts
+## How do we go about it?
 
-According to [Energy Innovation](https://energyinnovation.org/2020/03/17/how-much-energy-do-data-centers-really-use/), global data centers consumed about 205 terawatt-hours (TWh) of electric power, or about 1% of Global Consumer Electricity Consumption.
+During compilation, every programming language outputs a file called an assembly. For the x86 architecture, this assembly consists of 81 operations and 6 registers, and any combination of these yield to teh functioning of a program.
 
-Let us put this in perspective: given the world population, servers alone accounted for the electricity that would have been used by 70,000,000 people. This number is about twice the population of Canada, about 65% of Mexico's Population, and about 4 times the population of Australia.
+Since we want a platform agnostic way to measuring languages (so nothing that can be solved by throwing more hardware at the problem), we trace the execution of this assembly to find logical differences in how the two programming languages execute the same program. If one language uses more operations, then it performs worse. To do so, I am building my "x86 Asm Tracer", documentation for which can be found on the rest of the site.
 
-Now, let us assume (hypothetically), that we have moved all low level systems to RUST, which means that all servers in the world run on RUST now. While this is a bit flawed in its nature, let us also assume that there is a direct co-relation between energy consumption and the effectiveness of a language.
+![x86 Asm Tracer](./assets-why/5.png)
 
-If RUST enables, through it's various carefully-constructed safety paradigms, about 5% more efficiency in servers, this would result in savings of about 10.25 terawatt-hours of electricity. That number is greater than the electricity used in about [119 countries of the world](https://en.wikipedia.org/wiki/List_of_countries_by_electricity_consumption), even while having taken only conservative metrics, since inter-connection of servers through Networking, and a higher efficiency of consumer electronics (or client devices) has not been taken into consideration.
+As the assembly executes, we can see via GDB the current line it is at. I have written a Python program, that latches on to GDB and just writes down every command executed on a text file (displayed in the front of that page). 
 
-RUST would enable the same infrastructure to server exactly the bandwidth it is serving currently, while automatically providing back electricity worth of powering such a high number of countries. Moreover, the same infrastructure can also be utilized into serving an even higher bandwidth without putting new hardware into place, thus providing immense future-proofing and reliability.
+```py
+import gdb
+
+# Define the file path where you want to save the log
+log_file_path = "./gdb.txt"
+
+# Initialize a flag to track whether a 'jne' or 'jge' instruction was executed
+jmp_detected = False
+
+def log_jmp_event(event):
+    global jmp_detected  # Use the global flag to track if 'jne' or 'jge' was detected
+    pc = int(gdb.parse_and_eval("$pc"))
+    instruction = gdb.execute("x/i " + hex(pc), to_string=True)
+    
+    if "jne" in instruction or "jge" in instruction:
+        jmp_detected = True
+        with open(log_file_path, "a") as log_file:
+            log_file.write(f"{hex(pc)}: {instruction}\n")
+
+# Connect the stop event to the log_jmp_event function
+gdb.events.stop.connect(log_jmp_event)
+
+# Define a command to check if 'jne' or 'jge' was executed and write to the log file
+class CheckJmpCommand(gdb.Command):
+    def __init__(self):
+        super(CheckJmpCommand, self).__init__("checkjmp", gdb.COMMAND_USER)
+
+    def invoke(self, arg, from_tty):
+        global jmp_detected
+        with open(log_file_path, "a") as log_file:
+            if jmp_detected:
+                log_file.write("jne/jge was executed.\n")
+            else:
+                log_file.write("jne/jge was NOT executed.\n")
+        jmp_detected = False  # Reset the flag for the next check
+
+CheckJmpCommand()
+```
+
+This way, we can see the specific number of operations executed to run the same program, written on two different languages. We can compare this "trace" for both the languages, and determine which is faster performing. However, there can be caveats that have to be taken into account: for example, RUST's security may mean more operations take place, but it provides more peace of mind.
+
+This is a tradeoff that will have to be looked into at all times.
 
 ## Conclusion
 
@@ -186,3 +239,9 @@ In conclusion, this project holds significant promise for the digital developmen
 First, the project aims to lower the barrier of entry to low-level development by demonstrating how RUST's open-source nature, standardized behavior across platforms, and enhanced memory management can make low-level development more accessible and efficient. Shifting away from C++ to RUST could result in more readable code, faster kernel updates, increased security, and improved performance without the need for hardware upgrades.
 
 Secondly, the environmental impact is a substantial consideration. If RUST, with its efficiency gains, were to become the standard for low-level systems, it could lead to massive energy savings, potentially surpassing the electricity consumption of many countries. This transition to RUST would not only reduce energy consumption but also offer future-proofing benefits, ensuring reliable infrastructure. Overall, this project is poised to benefit developers, users, and the environment by enhancing efficiency and sustainability in low-level systems.
+
+## Final Addition
+
+I gave a 1 minute pitch on this project for iCons 4, and have attached it below :)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oN9MKmiI1G4?si=teqXrn_0IZzwrpV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
