@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'LLVM Compilation Performance Metrics',
-  tagline: 'Kush Srivastava | Fall 2023 iCons 4',
+  tagline: 'Kush Srivastava | Fall 2023 iCons 4 | CHC Honors Thesis',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -40,9 +40,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
         },
-        blog: {
-          showReadingTime: true,
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -68,8 +66,9 @@ const config = {
             position: 'left',
             label: 'Research',
           },
-		{to: '/communicationDesign', label: 'About The Project', position: 'left'},
-          {to: '/blog', label: 'Blog', position: 'left'},
+		      {to: '/communicationDesign', label: 'About The Project', position: 'left'},
+          {to: 'https://github.com/cics-syslab/RUST-Tracing-Tool', label: 'Repository', position: 'left'},
+          {to: 'https://skushagra.com', label: 'Personal Website', position: 'right'},
           {
             href: 'https://github.com/suobset/iCons',
             label: 'Source',
