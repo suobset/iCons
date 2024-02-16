@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunki_cons_4=self.webpackChunki_cons_4||[]).push([[3300],{8453:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/iCons/iCons4/blog/tags/facebook","allTagsPath":"/iCons/iCons4/blog/tags","count":1}')}}]);

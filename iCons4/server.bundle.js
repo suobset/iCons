@@ -7429,171 +7429,6 @@ Object.defineProperty(module, 'exports', {
 
 /***/ }),
 
-/***/ 7435:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
-/* harmony export */   "default": () => (/* binding */ MDXContent),
-/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
-/* harmony export */   metadata: () => (/* binding */ metadata),
-/* harmony export */   toc: () => (/* binding */ toc)
-/* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
-/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={};const contentTitle=undefined;const metadata={"type":"mdx","permalink":"/iCons/iCons4/communicationDesign","source":"@site/src/pages/communicationDesign.md","description":"Disclaimer: All general-purpose graphics on this page were generated using Microsoft's Bing AI. For graphics taken from a specific source (such as charts), appropriate citation (including self-citation) has been given below the same.","frontMatter":{}};const toc=[{value:'First, Some Background',id:'first-some-background',level:2},{value:'Hypothesis 1: Environmental Impacts',id:'hypothesis-1-environmental-impacts',level:2},{value:'Hypothesis 2: Lower the Barrier of Entry to Low-Level Development',id:'hypothesis-2-lower-the-barrier-of-entry-to-low-level-development',level:2},{value:'How do we go about it?',id:'how-do-we-go-about-it',level:2},{value:'Conclusion',id:'conclusion',level:2},{value:'Final Addition',id:'final-addition',level:2}];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Disclaimer: All general-purpose graphics on this page were generated using `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://bing.com"},`Microsoft's Bing AI`),`. For graphics taken from a specific source (such as charts), appropriate citation (including self-citation) has been given below the same.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"why-is-this-project-significant"},`Why is this project significant.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Intro",src:(__webpack_require__(4557)/* ["default"] */ .Z),width:"1024",height:"1024"})),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The following project, while accessible to everyone, is mainly targeted towards the millions of developers creating digital products on the daily. We attempt to reform low level systems in servers and mainframes, in an effort to have userland applications work more efficiently, increase server bandwidth, and give a little bit back to the environment.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Let's dive a little bit into each of these:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"first-some-background"},`First, Some Background`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This project attempts to compare and contrast performance differences between RUST and C++, two low level languages that were created at different points of time, and with different goals in mind.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`While C++ was developed as an incremental upgrade to C, it follows a lot of compiler conventions from the 90s and has not changed much in structure. C++ is prone to various errors if users are not mindful: memory leaks, segmentation faults, kernel errors, and so on. Moreover, being an incremental upgrade to an already old language, C++ can sometimes not be the most efficient language out there.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`On the other hand, we have RUST: a language whose development started in 2010, and is continuing today. RUST attempts to employ stricter typesetting, better error tracking, and more stringent memory usage to run more efficiently.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"C++",src:(__webpack_require__(1984)/* ["default"] */ .Z),width:"529",height:"179"})),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Credits: `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://developer.ibm.com/articles/os-developers-know-rust/"},`IBM: Why You Should Learn The RUSt Programming Language.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This is not to say that C++ is a "bad, outdated language". Simply put, most low level systems today still run on C++, mainly because the cost of refactoring to RUST is enormous, and benefits unknown.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`By comparing the performance differences between the two languages, we can determine the Return on Investment, should an undertaking be made to refactor code into the new language.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"hypothesis-1-environmental-impacts"},`Hypothesis 1: Environmental Impacts`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`According to `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://energyinnovation.org/2020/03/17/how-much-energy-do-data-centers-really-use/"},`Energy Innovation`),`, global data centers consumed about 205 terawatt-hours (TWh) of electric power, or about 1% of Global Consumer Electricity Consumption.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Let us put this in perspective: given the world population, servers alone accounted for the electricity that would have been used by 70,000,000 people. This number is about twice the population of Canada, about 65% of Mexico's Population, and about 4 times the population of Australia.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Now, let us assume (hypothetically), that we have moved all low level systems to RUST, which means that all servers in the world run on RUST now. While this is a bit flawed in its nature, let us also assume that there is a direct co-relation between energy consumption and the effectiveness of a language.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`If RUST enables, through it's various carefully-constructed safety paradigms, about 5% more efficiency in servers, this would result in savings of about 10.25 terawatt-hours of electricity. That number is greater than the electricity used in about `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://en.wikipedia.org/wiki/List_of_countries_by_electricity_consumption"},`119 countries of the world`),`, even while having taken only conservative metrics, since inter-connection of servers through Networking, and a higher efficiency of consumer electronics (or client devices) has not been taken into consideration.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`RUST would enable the same infrastructure to server exactly the bandwidth it is serving currently, while automatically providing back electricity worth of powering such a high number of countries. Moreover, the same infrastructure can also be utilized into serving an even higher bandwidth without putting new hardware into place, thus providing immense future-proofing and reliability.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"hypothesis-2-lower-the-barrier-of-entry-to-low-level-development"},`Hypothesis 2: Lower the Barrier of Entry to Low-Level Development`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Low Level Systems: including, but not limited to, CPU/GPU Architectures, Compilers, Operating Systems, Networking Interfaces, Communication Protocols, and the like are a culmination of decades of work, most of which really gained traction in 1970s. As a result, there exists a high amount of legacy code, which can be unreadable and intimidating: thus making the development process inaccessible to many.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The manner in which languages such as C/C++ behave can also differ between systems, which is a result of the time that they were created in. Free/Libre, or Open Source software did not quite exist: which meant that companies shipping computer systems had full control over how a certain language would behave on their system. As a result, C behaves differently on different kernels, even today.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`There are currently tremendous amounts of versions of C in circulation, and this is before we get into the forks of this language (such as Arduino-C, Objective-C, C#, and so on).`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`RUST was developed from day 1 as an open source project, placing proper standardization across platforms. RUST behaves exactly the same, on every single piece of hardware. Thus, this lowers the barrier of entry incredibly. Paired with incredible documentation, and a unified compilation process on every system, RUST makes low level development significantly easier to novices and professionals alike.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`On top of C++, RUST provides the following benefits (from the `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://doc.rust-lang.org/rustdoc/what-is-rustdoc.html"},`RUST Documentation`),`):`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ul",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`RUST has a more strong typesetting that prevents common errors such as NULL Pointer referencing, memory leaks, buffer overflows, and race conditions. Using the concept of ownership and borrowing to manage memory and resources during compilation, RUST can theoritically execute equally complex programs while using lesser resources.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`RUST allows for more concise code, which makes readability easier for developers. Since low level systems get super complicated to execute even the most basic operations, the cleaner code syntax of RUST is crucial for continued development with the shortest learning curve. The syntax allows for less complexity, thus allowing for updates in low level code at a faster pace.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`RUST is designed for parallel processing and concurrency, which means that any code written is extensible to any system imaginable: ranging from a Raspberry Pi to an IBM Mainframe.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},` Security Example: Race Conditions: `)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`For example, here are code snippets in C and Rust that deliberately create a race condition, highlighting how C++ allows it while Rust prevents it with an error.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`A race condition is a software flaw that occurs when the behavior of a program depends on the timing and order of execution of multiple concurrent operations, leading to unpredictable and often unintended outcomes. We will see a live version of said unpredictable outcomes with C++, and see how RUST fixes this flaw.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Let's start with C++:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre","className":"language-c"},`// Race Condition Demo, written by Kush.
-#include <stdio.h>
-#include <stdlib.h>
-#include <pthread.h>
-
-int shared_variable = 0;
-
-void *increment(void *arg) {
-    for (int i = 0; i < 1000000; i++) {
-        shared_variable++;
-        }
-        return NULL;
-        }
-
-        int main() {
-            pthread_t thread1, thread2;
-
-            if (pthread_create(&thread1, NULL, increment, NULL) != 0) {
-                perror("pthread_create");
-                return 1;
-            }
-
-            if (pthread_create(&thread2, NULL, increment, NULL) != 0) {
-                perror("pthread_create");
-                return 1;
-            }
-
-            pthread_join(thread1, NULL);
-            pthread_join(thread2, NULL);
-
-            printf("Shared variable: %d\\n", shared_variable);
-
-            return 0;
-        }
-
-`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`In the C code, two threads are incrementing the shared_variable concurrently, leading to a race condition where the final value is unpredictable. However, C will let us run this with no issues or errors, as demonstrated below 10 times on my own system:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre","className":"language-bash"},`suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ gcc race.c
-suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ ./a.out
-Shared variable: 1138441
-suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ ./a.out
-Shared variable: 1339034
-suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ ./a.out
-Shared variable: 1070599
-suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ ./a.out
-Shared variable: 1103020
-suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ ./a.out
-Shared variable: 1073974
-suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ ./a.out
-Shared variable: 1233980
-suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ ./a.out
-Shared variable: 1403249
-suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ ./a.out
-Shared variable: 1200399
-suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ ./a.out
-Shared variable: 1036593
-suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ ./a.out
-Shared variable: 1115206
-suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$
-`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Now, let us try this with RUST:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre","className":"language-c"},`// Race Condition Demo, written by Kush
-use std::thread;
-
-fn main() {
-    let mut shared_variable = 0;
-
-    let thread1 = thread::spawn(|| {
-        for _ in 0..1_000_000 {
-            shared_variable += 1;
-        }
-    });
-
-    let thread2 = thread::spawn(|| {
-        for _ in 0..1_000_000 {
-            shared_variable += 1;
-        }
-    });
-
-    thread1.join().unwrap();
-    thread2.join().unwrap();
-
-    println!("Shared variable: {}", shared_variable);
-}
-`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`In the Rust code, the same scenario is presented, but Rust's ownership and borrowing system will prevent the code from compiling, raising an error like:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre","className":"language-bash"},`error[E0502]: cannot borrow \`shared_variable\` as mutable because it is also borrowed as immutable
- --> src/main.rs:9:13
-  |
-7 |     let thread1 = thread::spawn(|| {
-  |                  ---------------- immutable borrow occurs here
-8 |         for _ in 0..1_000_000 {
-9 |             shared_variable += 1;
-  |             ^^^^^^^^^^^^^^ mutable borrow occurs here
-...
-15|     thread1.join().unwrap();
-  |     ------------------------ mutable borrow later used here
-`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`If this undertaking of shifting away from C++ into RUST is fruitful, developers can expect:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ul",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`More readable, and less legacy code.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`Faster kernel updates, and a higher ability to contribute to kernel source code.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`More security in kernel code: since it becomes less prone to memory leaks, kernel panics, and the like. This also results in more reliable systems, overall.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`Performance advantages in low level systems would result in faster performance of userland applications, without making a single change to any piece of code.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`Increase bandwidth of servers, without paying for any newer servers.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`These are some of the many benefits that developers can expect. However, there's more...`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"how-do-we-go-about-it"},`How do we go about it?`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`During compilation, every programming language outputs a file called an assembly. For the x86 architecture, this assembly consists of 81 operations and 6 registers, and any combination of these yield to teh functioning of a program.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Since we want a platform agnostic way to measuring languages (so nothing that can be solved by throwing more hardware at the problem), we trace the execution of this assembly to find logical differences in how the two programming languages execute the same program. If one language uses more operations, then it performs worse. To do so, I am building my "x86 Asm Tracer", documentation for which can be found on the rest of the site.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"x86 Asm Tracer",src:(__webpack_require__(5969)/* ["default"] */ .Z),width:"2000",height:"1125"})),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`As the assembly executes, we can see via GDB the current line it is at. I have written a Python program, that latches on to GDB and just writes down every command executed on a text file (displayed in the front of that page). `),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre","className":"language-py"},`import gdb
-
-# Define the file path where you want to save the log
-log_file_path = "./gdb.txt"
-
-# Initialize a flag to track whether a 'jne' or 'jge' instruction was executed
-jmp_detected = False
-
-def log_jmp_event(event):
-    global jmp_detected  # Use the global flag to track if 'jne' or 'jge' was detected
-    pc = int(gdb.parse_and_eval("$pc"))
-    instruction = gdb.execute("x/i " + hex(pc), to_string=True)
-    
-    if "jne" in instruction or "jge" in instruction:
-        jmp_detected = True
-        with open(log_file_path, "a") as log_file:
-            log_file.write(f"{hex(pc)}: {instruction}\\n")
-
-# Connect the stop event to the log_jmp_event function
-gdb.events.stop.connect(log_jmp_event)
-
-# Define a command to check if 'jne' or 'jge' was executed and write to the log file
-class CheckJmpCommand(gdb.Command):
-    def __init__(self):
-        super(CheckJmpCommand, self).__init__("checkjmp", gdb.COMMAND_USER)
-
-    def invoke(self, arg, from_tty):
-        global jmp_detected
-        with open(log_file_path, "a") as log_file:
-            if jmp_detected:
-                log_file.write("jne/jge was executed.\\n")
-            else:
-                log_file.write("jne/jge was NOT executed.\\n")
-        jmp_detected = False  # Reset the flag for the next check
-
-CheckJmpCommand()
-`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This way, we can see the specific number of operations executed to run the same program, written on two different languages. We can compare this "trace" for both the languages, and determine which is faster performing. However, there can be caveats that have to be taken into account: for example, RUST's security may mean more operations take place, but it provides more peace of mind.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This is a tradeoff that will have to be looked into at all times.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"conclusion"},`Conclusion`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`In conclusion, this project holds significant promise for the digital development community and the broader environment. By comparing the performance differences between the low-level languages C++ and RUST, it seeks to address multiple critical aspects:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`First, the project aims to lower the barrier of entry to low-level development by demonstrating how RUST's open-source nature, standardized behavior across platforms, and enhanced memory management can make low-level development more accessible and efficient. Shifting away from C++ to RUST could result in more readable code, faster kernel updates, increased security, and improved performance without the need for hardware upgrades.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Secondly, the environmental impact is a substantial consideration. If RUST, with its efficiency gains, were to become the standard for low-level systems, it could lead to massive energy savings, potentially surpassing the electricity consumption of many countries. This transition to RUST would not only reduce energy consumption but also offer future-proofing benefits, ensuring reliable infrastructure. Overall, this project is poised to benefit developers, users, and the environment by enhancing efficiency and sustainability in low-level systems.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"final-addition"},`Final Addition`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`I gave a 1 minute pitch on this project for iCons 4, and have attached it below :)`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("iframe",{width:"560",height:"315",src:"https://www.youtube.com/embed/oN9MKmiI1G4?si=teqXrn_0IZzwrpV2",title:"YouTube video player",frameborder:"0",allow:"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",allowfullscreen:true}));};MDXContent.isMDXComponent=true;
-
-/***/ }),
-
-/***/ 3123:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
-/* harmony export */   "default": () => (/* binding */ MDXContent),
-/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
-/* harmony export */   metadata: () => (/* binding */ metadata),
-/* harmony export */   toc: () => (/* binding */ toc)
-/* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
-/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={title:'Markdown page example'};const contentTitle='Markdown page example';const metadata={"type":"mdx","permalink":"/iCons/iCons4/markdown-page","source":"@site/src/pages/markdown-page.md","title":"Markdown page example","description":"You don't need React to write simple standalone pages.","frontMatter":{"title":"Markdown page example"}};const toc=[];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"markdown-page-example"},`Markdown page example`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`You don't need React to write simple standalone pages.`));};MDXContent.isMDXComponent=true;
-
-/***/ }),
-
 /***/ 5688:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
@@ -7663,9 +7498,9 @@ function _interopRequireWildcard(obj, nodeInterop) {
 var lib = __webpack_require__(8356);
 var lib_default = /*#__PURE__*/__webpack_require__.n(lib);
 ;// CONCATENATED MODULE: ./.docusaurus/routesChunkNames.json
-const routesChunkNames_namespaceObject = JSON.parse('{"/iCons/iCons4/blog-e30":{"__comp":"a6aa9e1f","__context":{"plugin":"4245bb85"},"sidebar":"814f3328","items":[{"content":"7661071f"},{"content":"f4f34a3a"},{"content":"8717b14a"},{"content":"925b3f96"}],"metadata":"499bb455"},"/iCons/iCons4/blog/archive-e82":{"__comp":"9e4087bc","__context":{"plugin":"4245bb85"},"archive":"e444dba8"},"/iCons/iCons4/blog/first-blog-post-6f7":{"__comp":"ccc49370","__context":{"plugin":"4245bb85"},"sidebar":"814f3328","content":"e273c56f"},"/iCons/iCons4/blog/long-blog-post-071":{"__comp":"ccc49370","__context":{"plugin":"4245bb85"},"sidebar":"814f3328","content":"73664a40"},"/iCons/iCons4/blog/mdx-blog-post-7f5":{"__comp":"ccc49370","__context":{"plugin":"4245bb85"},"sidebar":"814f3328","content":"59362658"},"/iCons/iCons4/blog/tags-8af":{"__comp":"01a85c17","__context":{"plugin":"4245bb85"},"sidebar":"814f3328","tags":"cdd94902"},"/iCons/iCons4/blog/tags/docusaurus-bca":{"__comp":"6875c492","__context":{"plugin":"4245bb85"},"sidebar":"814f3328","items":[{"content":"7661071f"},{"content":"f4f34a3a"},{"content":"8717b14a"},{"content":"925b3f96"}],"tag":"7630ac7d","listMetadata":"6698d2af"},"/iCons/iCons4/blog/tags/facebook-abe":{"__comp":"6875c492","__context":{"plugin":"4245bb85"},"sidebar":"814f3328","items":[{"content":"7661071f"}],"tag":"0ce916fa","listMetadata":"9f83268b"},"/iCons/iCons4/blog/tags/hello-a33":{"__comp":"6875c492","__context":{"plugin":"4245bb85"},"sidebar":"814f3328","items":[{"content":"7661071f"},{"content":"8717b14a"}],"tag":"914bb54b","listMetadata":"184e4c43"},"/iCons/iCons4/blog/tags/hola-59a":{"__comp":"6875c492","__context":{"plugin":"4245bb85"},"sidebar":"814f3328","items":[{"content":"925b3f96"}],"tag":"c142bf9a","listMetadata":"84949c73"},"/iCons/iCons4/blog/welcome-9dd":{"__comp":"ccc49370","__context":{"plugin":"4245bb85"},"sidebar":"814f3328","content":"d9f32620"},"/iCons/iCons4/communicationDesign-a98":{"__comp":"1f391b9e","__context":{"plugin":"5fab062b"},"content":"0e5d29c6"},"/iCons/iCons4/markdown-page-b36":{"__comp":"1f391b9e","__context":{"plugin":"5fab062b"},"content":"393be207"},"/iCons/iCons4/docs-ae8":{"__comp":"1be78505","__context":{"plugin":"218d86b1"},"versionMetadata":"935f2afb"},"/iCons/iCons4/docs/category/definitions-b79":{"__comp":"14eb3368","categoryGeneratedIndex":"406ef954"},"/iCons/iCons4/docs/category/thesis-milestones-983":{"__comp":"14eb3368","categoryGeneratedIndex":"b0083a3a"},"/iCons/iCons4/docs/definitions/cpp-e9a":{"__comp":"17896441","content":"4f2c5a9d"},"/iCons/iCons4/docs/definitions/llvm-4d0":{"__comp":"17896441","content":"b2e03007"},"/iCons/iCons4/docs/definitions/rust-c4d":{"__comp":"17896441","content":"7fbde740"},"/iCons/iCons4/docs/definitions/x86-2fa":{"__comp":"17896441","content":"afc412d1"},"/iCons/iCons4/docs/definitions/x86asm-1eb":{"__comp":"17896441","content":"302ee866"},"/iCons/iCons4/docs/intro-2a9":{"__comp":"17896441","content":"0e384e19"},"/iCons/iCons4/docs/thesis/sem1-175":{"__comp":"17896441","content":"81cbbac2"},"/iCons/iCons4/-a6f":{"__comp":"c4f5d8e4","__context":{"plugin":"5fab062b"},"config":"5e9f5e1a"}}');
+const routesChunkNames_namespaceObject = JSON.parse('{"/iCons/iCons4/communicationDesign-de8":{"__comp":"1f391b9e","__context":{"plugin":"7eb8c35b"},"content":"0e5d29c6"},"/iCons/iCons4/markdown-page-b70":{"__comp":"1f391b9e","__context":{"plugin":"7eb8c35b"},"content":"393be207"},"/iCons/iCons4/docs-e97":{"__comp":"1be78505","__context":{"plugin":"0745401a"},"versionMetadata":"935f2afb"},"/iCons/iCons4/docs/category/definitions-b79":{"__comp":"14eb3368","categoryGeneratedIndex":"406ef954"},"/iCons/iCons4/docs/category/thesis-milestones-983":{"__comp":"14eb3368","categoryGeneratedIndex":"b0083a3a"},"/iCons/iCons4/docs/definitions/cpp-e9a":{"__comp":"17896441","content":"4f2c5a9d"},"/iCons/iCons4/docs/definitions/llvm-4d0":{"__comp":"17896441","content":"b2e03007"},"/iCons/iCons4/docs/definitions/rust-c4d":{"__comp":"17896441","content":"7fbde740"},"/iCons/iCons4/docs/definitions/x86-2fa":{"__comp":"17896441","content":"afc412d1"},"/iCons/iCons4/docs/definitions/x86asm-1eb":{"__comp":"17896441","content":"302ee866"},"/iCons/iCons4/docs/intro-2a9":{"__comp":"17896441","content":"0e384e19"},"/iCons/iCons4/docs/thesis/pt2init-b0e":{"__comp":"17896441","content":"c1ca8d8d"},"/iCons/iCons4/docs/thesis/sem1-175":{"__comp":"17896441","content":"81cbbac2"},"/iCons/iCons4/docs/thesis/syslab-a34":{"__comp":"17896441","content":"d93564cb"},"/iCons/iCons4/-32a":{"__comp":"c4f5d8e4","__context":{"plugin":"7eb8c35b"},"config":"5e9f5e1a"}}');
 ;// CONCATENATED MODULE: ./.docusaurus/registry.js
-/* harmony default export */ const registry = ({'01a85c17':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1745))),'@theme/BlogTagsListPage',/*require.resolve*/(1745)],'0ce916fa':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8453))),'~blog/default/i-cons-i-cons-4-blog-tags-facebook-733.json',/*require.resolve*/(8453)],'0e384e19':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9881))),'@site/docs/intro.md',/*require.resolve*/(9881)],'0e5d29c6':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7435))),'@site/src/pages/communicationDesign.md',/*require.resolve*/(7435)],'14eb3368':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2422))),'@theme/DocCategoryGeneratedIndexPage',/*require.resolve*/(2422)],'17896441':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3154))),'@theme/DocItem',/*require.resolve*/(3154)],'184e4c43':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9432))),'~blog/default/i-cons-i-cons-4-blog-tags-hello-fa7-list.json',/*require.resolve*/(9432)],'1be78505':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1551))),'@theme/DocPage',/*require.resolve*/(1551)],'1f391b9e':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8651))),'@theme/MDXPage',/*require.resolve*/(8651)],'218d86b1':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3769))),'/home/suobset/iCons/iCons4-backend/.docusaurus/docusaurus-plugin-content-docs/default/plugin-route-context-module-100.json',/*require.resolve*/(3769)],'302ee866':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5719))),'@site/docs/definitions/x86asm.md',/*require.resolve*/(5719)],'393be207':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3123))),'@site/src/pages/markdown-page.md',/*require.resolve*/(3123)],'406ef954':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9737))),'~docs/default/category-iconsicons-4-docs-tutorialsidebar-category-definitions-fb7.json',/*require.resolve*/(9737)],'4245bb85':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4469))),'/home/suobset/iCons/iCons4-backend/.docusaurus/docusaurus-plugin-content-blog/default/plugin-route-context-module-100.json',/*require.resolve*/(4469)],'499bb455':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1867))),'~blog/default/i-cons-i-cons-4-blog-e3d.json',/*require.resolve*/(1867)],'4f2c5a9d':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5798))),'@site/docs/definitions/cpp.md',/*require.resolve*/(5798)],'59362658':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8642))),'@site/blog/2021-08-01-mdx-blog-post.mdx',/*require.resolve*/(8642)],'5e9f5e1a':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6809))),'@generated/docusaurus.config',/*require.resolve*/(6809)],'5fab062b':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5745))),'/home/suobset/iCons/iCons4-backend/.docusaurus/docusaurus-plugin-content-pages/default/plugin-route-context-module-100.json',/*require.resolve*/(5745)],'6698d2af':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5970))),'~blog/default/i-cons-i-cons-4-blog-tags-docusaurus-030-list.json',/*require.resolve*/(5970)],'6875c492':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1714))),'@theme/BlogTagsPostsPage',/*require.resolve*/(1714)],'73664a40':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1976))),'@site/blog/2019-05-29-long-blog-post.md',/*require.resolve*/(1976)],'7630ac7d':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8516))),'~blog/default/i-cons-i-cons-4-blog-tags-docusaurus-030.json',/*require.resolve*/(8516)],'7661071f':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6911))),'@site/blog/2021-08-26-welcome/index.md?truncated=true',/*require.resolve*/(6911)],'7fbde740':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7844))),'@site/docs/definitions/rust.md',/*require.resolve*/(7844)],'814f3328':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5641))),'~blog/default/blog-post-list-prop-default.json',/*require.resolve*/(5641)],'81cbbac2':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2279))),'@site/docs/thesis/sem1.md',/*require.resolve*/(2279)],'84949c73':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8681))),'~blog/default/i-cons-i-cons-4-blog-tags-hola-710-list.json',/*require.resolve*/(8681)],'8717b14a':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3352))),'@site/blog/2019-05-29-long-blog-post.md?truncated=true',/*require.resolve*/(3352)],'914bb54b':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(794))),'~blog/default/i-cons-i-cons-4-blog-tags-hello-fa7.json',/*require.resolve*/(794)],'925b3f96':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8856))),'@site/blog/2019-05-28-first-blog-post.md?truncated=true',/*require.resolve*/(8856)],'935f2afb':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1109))),'~docs/default/version-current-metadata-prop-751.json',/*require.resolve*/(1109)],'9e4087bc':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3169))),'@theme/BlogArchivePage',/*require.resolve*/(3169)],'9f83268b':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(380))),'~blog/default/i-cons-i-cons-4-blog-tags-facebook-733-list.json',/*require.resolve*/(380)],'a6aa9e1f':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(46))),'@theme/BlogListPage',/*require.resolve*/(46)],'afc412d1':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2965))),'@site/docs/definitions/x86.md',/*require.resolve*/(2965)],'b0083a3a':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3896))),'~docs/default/category-iconsicons-4-docs-tutorialsidebar-category-thesis-milestones-f73.json',/*require.resolve*/(3896)],'b2e03007':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4196))),'@site/docs/definitions/llvm.md',/*require.resolve*/(4196)],'c142bf9a':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5088))),'~blog/default/i-cons-i-cons-4-blog-tags-hola-710.json',/*require.resolve*/(5088)],'c4f5d8e4':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4669))),'@site/src/pages/index.js',/*require.resolve*/(4669)],'ccc49370':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5203))),'@theme/BlogPostPage',/*require.resolve*/(5203)],'cdd94902':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8860))),'~blog/default/i-cons-i-cons-4-blog-tags-tags-e68.json',/*require.resolve*/(8860)],'d9f32620':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9384))),'@site/blog/2021-08-26-welcome/index.md',/*require.resolve*/(9384)],'e273c56f':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1947))),'@site/blog/2019-05-28-first-blog-post.md',/*require.resolve*/(1947)],'e444dba8':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7802))),'~blog/default/i-cons-i-cons-4-blog-archive-037.json',/*require.resolve*/(7802)],'f4f34a3a':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5145))),'@site/blog/2021-08-01-mdx-blog-post.mdx?truncated=true',/*require.resolve*/(5145)]});
+/* harmony default export */ const registry = ({'0745401a':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3769))),'/workspaces/iCons/iCons4-backend/.docusaurus/docusaurus-plugin-content-docs/default/plugin-route-context-module-100.json',/*require.resolve*/(3769)],'0e384e19':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9881))),'@site/docs/intro.md',/*require.resolve*/(9881)],'0e5d29c6':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1961))),'@site/src/pages/communicationDesign.md',/*require.resolve*/(1961)],'14eb3368':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2422))),'@theme/DocCategoryGeneratedIndexPage',/*require.resolve*/(2422)],'17896441':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8493))),'@theme/DocItem',/*require.resolve*/(8493)],'1be78505':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1551))),'@theme/DocPage',/*require.resolve*/(1551)],'1f391b9e':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(8651))),'@theme/MDXPage',/*require.resolve*/(8651)],'302ee866':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5719))),'@site/docs/definitions/x86asm.md',/*require.resolve*/(5719)],'393be207':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9286))),'@site/src/pages/markdown-page.md',/*require.resolve*/(9286)],'406ef954':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9737))),'~docs/default/category-iconsicons-4-docs-tutorialsidebar-category-definitions-fb7.json',/*require.resolve*/(9737)],'4f2c5a9d':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5798))),'@site/docs/definitions/cpp.md',/*require.resolve*/(5798)],'5e9f5e1a':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(6809))),'@generated/docusaurus.config',/*require.resolve*/(6809)],'7eb8c35b':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(5745))),'/workspaces/iCons/iCons4-backend/.docusaurus/docusaurus-plugin-content-pages/default/plugin-route-context-module-100.json',/*require.resolve*/(5745)],'7fbde740':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(7844))),'@site/docs/definitions/rust.md',/*require.resolve*/(7844)],'81cbbac2':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2279))),'@site/docs/thesis/sem1.md',/*require.resolve*/(2279)],'935f2afb':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(1109))),'~docs/default/version-current-metadata-prop-751.json',/*require.resolve*/(1109)],'afc412d1':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(2965))),'@site/docs/definitions/x86.md',/*require.resolve*/(2965)],'b0083a3a':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(3896))),'~docs/default/category-iconsicons-4-docs-tutorialsidebar-category-thesis-milestones-f73.json',/*require.resolve*/(3896)],'b2e03007':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4196))),'@site/docs/definitions/llvm.md',/*require.resolve*/(4196)],'c1ca8d8d':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9485))),'@site/docs/thesis/pt2init.md',/*require.resolve*/(9485)],'c4f5d8e4':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(4669))),'@site/src/pages/index.js',/*require.resolve*/(4669)],'d93564cb':[()=>Promise.resolve().then(()=>_interopRequireWildcard(__webpack_require__(9009))),'@site/docs/thesis/syslab.md',/*require.resolve*/(9009)]});
 ;// CONCATENATED MODULE: ./node_modules/@docusaurus/core/lib/client/theme-fallback/Loading/index.js
 /**
  * Copyright (c) Facebook, Inc. and its affiliates.
@@ -7727,7 +7562,7 @@ if(typeof chunk==='object'||typeof chunk==='function'){Object.keys(loadedModule)
 let val=loadedModules;const keyPaths=keyPath.split('.');keyPaths.slice(0,-1).forEach(k=>{val=val[k];});val[keyPaths[keyPaths.length-1]]=chunk;});/* eslint-disable no-underscore-dangle */const Component=loadedModules.__comp;delete loadedModules.__comp;const routeContext=loadedModules.__context;delete loadedModules.__context;/* eslint-enable no-underscore-dangle */ // Is there any way to put this RouteContextProvider upper in the tree?
 return/*#__PURE__*/react.createElement(client_routeContext/* RouteContextProvider */.z,{value:routeContext},/*#__PURE__*/react.createElement(Component,(0,esm_extends/* default */.Z)({},loadedModules,props)));}});}
 ;// CONCATENATED MODULE: ./.docusaurus/routes.js
-/* harmony default export */ const routes = ([{path:'/iCons/iCons4/blog',component:ComponentCreator('/iCons/iCons4/blog','e30'),exact:true},{path:'/iCons/iCons4/blog/archive',component:ComponentCreator('/iCons/iCons4/blog/archive','e82'),exact:true},{path:'/iCons/iCons4/blog/first-blog-post',component:ComponentCreator('/iCons/iCons4/blog/first-blog-post','6f7'),exact:true},{path:'/iCons/iCons4/blog/long-blog-post',component:ComponentCreator('/iCons/iCons4/blog/long-blog-post','071'),exact:true},{path:'/iCons/iCons4/blog/mdx-blog-post',component:ComponentCreator('/iCons/iCons4/blog/mdx-blog-post','7f5'),exact:true},{path:'/iCons/iCons4/blog/tags',component:ComponentCreator('/iCons/iCons4/blog/tags','8af'),exact:true},{path:'/iCons/iCons4/blog/tags/docusaurus',component:ComponentCreator('/iCons/iCons4/blog/tags/docusaurus','bca'),exact:true},{path:'/iCons/iCons4/blog/tags/facebook',component:ComponentCreator('/iCons/iCons4/blog/tags/facebook','abe'),exact:true},{path:'/iCons/iCons4/blog/tags/hello',component:ComponentCreator('/iCons/iCons4/blog/tags/hello','a33'),exact:true},{path:'/iCons/iCons4/blog/tags/hola',component:ComponentCreator('/iCons/iCons4/blog/tags/hola','59a'),exact:true},{path:'/iCons/iCons4/blog/welcome',component:ComponentCreator('/iCons/iCons4/blog/welcome','9dd'),exact:true},{path:'/iCons/iCons4/communicationDesign',component:ComponentCreator('/iCons/iCons4/communicationDesign','a98'),exact:true},{path:'/iCons/iCons4/markdown-page',component:ComponentCreator('/iCons/iCons4/markdown-page','b36'),exact:true},{path:'/iCons/iCons4/docs',component:ComponentCreator('/iCons/iCons4/docs','ae8'),routes:[{path:'/iCons/iCons4/docs/category/definitions',component:ComponentCreator('/iCons/iCons4/docs/category/definitions','b79'),exact:true,sidebar:"tutorialSidebar"},{path:'/iCons/iCons4/docs/category/thesis-milestones',component:ComponentCreator('/iCons/iCons4/docs/category/thesis-milestones','983'),exact:true,sidebar:"tutorialSidebar"},{path:'/iCons/iCons4/docs/definitions/cpp',component:ComponentCreator('/iCons/iCons4/docs/definitions/cpp','e9a'),exact:true,sidebar:"tutorialSidebar"},{path:'/iCons/iCons4/docs/definitions/llvm',component:ComponentCreator('/iCons/iCons4/docs/definitions/llvm','4d0'),exact:true,sidebar:"tutorialSidebar"},{path:'/iCons/iCons4/docs/definitions/rust',component:ComponentCreator('/iCons/iCons4/docs/definitions/rust','c4d'),exact:true,sidebar:"tutorialSidebar"},{path:'/iCons/iCons4/docs/definitions/x86',component:ComponentCreator('/iCons/iCons4/docs/definitions/x86','2fa'),exact:true,sidebar:"tutorialSidebar"},{path:'/iCons/iCons4/docs/definitions/x86asm',component:ComponentCreator('/iCons/iCons4/docs/definitions/x86asm','1eb'),exact:true,sidebar:"tutorialSidebar"},{path:'/iCons/iCons4/docs/intro',component:ComponentCreator('/iCons/iCons4/docs/intro','2a9'),exact:true,sidebar:"tutorialSidebar"},{path:'/iCons/iCons4/docs/thesis/sem1',component:ComponentCreator('/iCons/iCons4/docs/thesis/sem1','175'),exact:true,sidebar:"tutorialSidebar"}]},{path:'/iCons/iCons4/',component:ComponentCreator('/iCons/iCons4/','a6f'),exact:true},{path:'*',component:ComponentCreator('*')}]);
+/* harmony default export */ const routes = ([{path:'/iCons/iCons4/communicationDesign',component:ComponentCreator('/iCons/iCons4/communicationDesign','de8'),exact:true},{path:'/iCons/iCons4/markdown-page',component:ComponentCreator('/iCons/iCons4/markdown-page','b70'),exact:true},{path:'/iCons/iCons4/docs',component:ComponentCreator('/iCons/iCons4/docs','e97'),routes:[{path:'/iCons/iCons4/docs/category/definitions',component:ComponentCreator('/iCons/iCons4/docs/category/definitions','b79'),exact:true,sidebar:"tutorialSidebar"},{path:'/iCons/iCons4/docs/category/thesis-milestones',component:ComponentCreator('/iCons/iCons4/docs/category/thesis-milestones','983'),exact:true,sidebar:"tutorialSidebar"},{path:'/iCons/iCons4/docs/definitions/cpp',component:ComponentCreator('/iCons/iCons4/docs/definitions/cpp','e9a'),exact:true,sidebar:"tutorialSidebar"},{path:'/iCons/iCons4/docs/definitions/llvm',component:ComponentCreator('/iCons/iCons4/docs/definitions/llvm','4d0'),exact:true,sidebar:"tutorialSidebar"},{path:'/iCons/iCons4/docs/definitions/rust',component:ComponentCreator('/iCons/iCons4/docs/definitions/rust','c4d'),exact:true,sidebar:"tutorialSidebar"},{path:'/iCons/iCons4/docs/definitions/x86',component:ComponentCreator('/iCons/iCons4/docs/definitions/x86','2fa'),exact:true,sidebar:"tutorialSidebar"},{path:'/iCons/iCons4/docs/definitions/x86asm',component:ComponentCreator('/iCons/iCons4/docs/definitions/x86asm','1eb'),exact:true,sidebar:"tutorialSidebar"},{path:'/iCons/iCons4/docs/intro',component:ComponentCreator('/iCons/iCons4/docs/intro','2a9'),exact:true,sidebar:"tutorialSidebar"},{path:'/iCons/iCons4/docs/thesis/pt2init',component:ComponentCreator('/iCons/iCons4/docs/thesis/pt2init','b0e'),exact:true,sidebar:"tutorialSidebar"},{path:'/iCons/iCons4/docs/thesis/sem1',component:ComponentCreator('/iCons/iCons4/docs/thesis/sem1','175'),exact:true,sidebar:"tutorialSidebar"},{path:'/iCons/iCons4/docs/thesis/syslab',component:ComponentCreator('/iCons/iCons4/docs/thesis/syslab','a34'),exact:true,sidebar:"tutorialSidebar"}]},{path:'/iCons/iCons4/',component:ComponentCreator('/iCons/iCons4/','32a'),exact:true},{path:'*',component:ComponentCreator('*')}]);
 
 /***/ }),
 
@@ -7793,13 +7628,13 @@ var react = __webpack_require__(7294);
 // EXTERNAL MODULE: ./.docusaurus/docusaurus.config.mjs
 var docusaurus_config = __webpack_require__(6809);
 ;// CONCATENATED MODULE: ./.docusaurus/globalData.json
-const globalData_namespaceObject = JSON.parse('{"docusaurus-plugin-content-docs":{"default":{"path":"/iCons/iCons4/docs","versions":[{"name":"current","label":"Next","isLast":true,"path":"/iCons/iCons4/docs","mainDocId":"intro","docs":[{"id":"definitions/cpp","path":"/iCons/iCons4/docs/definitions/cpp","sidebar":"tutorialSidebar"},{"id":"definitions/llvm","path":"/iCons/iCons4/docs/definitions/llvm","sidebar":"tutorialSidebar"},{"id":"definitions/rust","path":"/iCons/iCons4/docs/definitions/rust","sidebar":"tutorialSidebar"},{"id":"definitions/x86","path":"/iCons/iCons4/docs/definitions/x86","sidebar":"tutorialSidebar"},{"id":"definitions/x86asm","path":"/iCons/iCons4/docs/definitions/x86asm","sidebar":"tutorialSidebar"},{"id":"intro","path":"/iCons/iCons4/docs/intro","sidebar":"tutorialSidebar"},{"id":"thesis/sem1","path":"/iCons/iCons4/docs/thesis/sem1","sidebar":"tutorialSidebar"},{"id":"/category/definitions","path":"/iCons/iCons4/docs/category/definitions","sidebar":"tutorialSidebar"},{"id":"/category/thesis-milestones","path":"/iCons/iCons4/docs/category/thesis-milestones","sidebar":"tutorialSidebar"}],"draftIds":[],"sidebars":{"tutorialSidebar":{"link":{"path":"/iCons/iCons4/docs/intro","label":"intro"}}}}],"breadcrumbs":true}}}');
+const globalData_namespaceObject = JSON.parse('{"docusaurus-plugin-content-docs":{"default":{"path":"/iCons/iCons4/docs","versions":[{"name":"current","label":"Next","isLast":true,"path":"/iCons/iCons4/docs","mainDocId":"intro","docs":[{"id":"definitions/cpp","path":"/iCons/iCons4/docs/definitions/cpp","sidebar":"tutorialSidebar"},{"id":"definitions/llvm","path":"/iCons/iCons4/docs/definitions/llvm","sidebar":"tutorialSidebar"},{"id":"definitions/rust","path":"/iCons/iCons4/docs/definitions/rust","sidebar":"tutorialSidebar"},{"id":"definitions/x86","path":"/iCons/iCons4/docs/definitions/x86","sidebar":"tutorialSidebar"},{"id":"definitions/x86asm","path":"/iCons/iCons4/docs/definitions/x86asm","sidebar":"tutorialSidebar"},{"id":"intro","path":"/iCons/iCons4/docs/intro","sidebar":"tutorialSidebar"},{"id":"thesis/pt2init","path":"/iCons/iCons4/docs/thesis/pt2init","sidebar":"tutorialSidebar"},{"id":"thesis/sem1","path":"/iCons/iCons4/docs/thesis/sem1","sidebar":"tutorialSidebar"},{"id":"thesis/syslab","path":"/iCons/iCons4/docs/thesis/syslab","sidebar":"tutorialSidebar"},{"id":"/category/definitions","path":"/iCons/iCons4/docs/category/definitions","sidebar":"tutorialSidebar"},{"id":"/category/thesis-milestones","path":"/iCons/iCons4/docs/category/thesis-milestones","sidebar":"tutorialSidebar"}],"draftIds":[],"sidebars":{"tutorialSidebar":{"link":{"path":"/iCons/iCons4/docs/intro","label":"intro"}}}}],"breadcrumbs":true}}}');
 ;// CONCATENATED MODULE: ./.docusaurus/i18n.json
 const i18n_namespaceObject = JSON.parse('{"defaultLocale":"en","locales":["en"],"path":"i18n","currentLocale":"en","localeConfigs":{"en":{"label":"English","direction":"ltr","htmlLang":"en","calendar":"gregory","path":"en"}}}');
 // EXTERNAL MODULE: ./.docusaurus/codeTranslations.json
 var codeTranslations = __webpack_require__(7529);
 ;// CONCATENATED MODULE: ./.docusaurus/site-metadata.json
-const site_metadata_namespaceObject = JSON.parse('{"docusaurusVersion":"2.4.3","siteVersion":"0.0.0","pluginVersions":{"docusaurus-plugin-content-docs":{"type":"package","name":"@docusaurus/plugin-content-docs","version":"2.4.3"},"docusaurus-plugin-content-blog":{"type":"package","name":"@docusaurus/plugin-content-blog","version":"2.4.3"},"docusaurus-plugin-content-pages":{"type":"package","name":"@docusaurus/plugin-content-pages","version":"2.4.3"},"docusaurus-plugin-sitemap":{"type":"package","name":"@docusaurus/plugin-sitemap","version":"2.4.3"},"docusaurus-theme-classic":{"type":"package","name":"@docusaurus/theme-classic","version":"2.4.3"}}}');
+const site_metadata_namespaceObject = JSON.parse('{"docusaurusVersion":"2.4.3","siteVersion":"0.0.0","pluginVersions":{"docusaurus-plugin-content-docs":{"type":"package","name":"@docusaurus/plugin-content-docs","version":"2.4.3"},"docusaurus-plugin-content-pages":{"type":"package","name":"@docusaurus/plugin-content-pages","version":"2.4.3"},"docusaurus-plugin-sitemap":{"type":"package","name":"@docusaurus/plugin-sitemap","version":"2.4.3"},"docusaurus-theme-classic":{"type":"package","name":"@docusaurus/theme-classic","version":"2.4.3"}}}');
 ;// CONCATENATED MODULE: ./node_modules/@docusaurus/core/lib/client/docusaurusContext.js
 /**
  * Copyright (c) Facebook, Inc. and its affiliates.
@@ -9703,423 +9538,6 @@ __webpack_require__(6726)(`./prism-${lang}`);});delete globalThis.Prism;}
 
 /***/ }),
 
-/***/ 3169:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (/* binding */ BlogArchive)
-/* harmony export */ });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var _docusaurus_Link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9038);
-/* harmony import */ var _docusaurus_Translate__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5999);
-/* harmony import */ var _docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(1944);
-/* harmony import */ var _theme_Layout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(5086);
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function Year({year,posts}){return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(react__WEBPACK_IMPORTED_MODULE_0__.Fragment,null,/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h3",null,year),/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("ul",null,posts.map(post=>/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li",{key:post.metadata.date},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_docusaurus_Link__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z,{to:post.metadata.permalink},post.metadata.formattedDate," - ",post.metadata.title)))));}function YearsSection({years}){return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("section",{className:"margin-vert--lg"},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div",{className:"container"},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div",{className:"row"},years.map((_props,idx)=>/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div",{key:idx,className:"col col--4 margin-vert--lg"},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(Year,_props))))));}function listPostsByYears(blogPosts){const postsByYear=blogPosts.reduceRight((posts,post)=>{const year=post.metadata.date.split('-')[0];const yearPosts=posts.get(year)??[];return posts.set(year,[post,...yearPosts]);},new Map());return Array.from(postsByYear,([year,posts])=>({year,posts}));}function BlogArchive({archive}){const title=(0,_docusaurus_Translate__WEBPACK_IMPORTED_MODULE_2__/* .translate */ .I)({id:'theme.blog.archive.title',message:'Archive',description:'The page & hero title of the blog archive page'});const description=(0,_docusaurus_Translate__WEBPACK_IMPORTED_MODULE_2__/* .translate */ .I)({id:'theme.blog.archive.description',message:'Archive',description:'The page & hero description of the blog archive page'});const years=listPostsByYears(archive.blogPosts);return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(react__WEBPACK_IMPORTED_MODULE_0__.Fragment,null,/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_4__/* .PageMetadata */ .d,{title:title,description:description}),/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_theme_Layout__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z,null,/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("header",{className:"hero hero--primary"},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div",{className:"container"},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h1",{className:"hero__title"},title),/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p",{className:"hero__subtitle"},description))),/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("main",null,years.length>0&&/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(YearsSection,{years:years}))));}
-
-/***/ }),
-
-/***/ 2021:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-
-// EXPORTS
-__webpack_require__.d(__webpack_exports__, {
-  Z: () => (/* binding */ BlogLayout)
-});
-
-// EXTERNAL MODULE: ./node_modules/react/index.js
-var react = __webpack_require__(7294);
-// EXTERNAL MODULE: ./node_modules/clsx/dist/clsx.m.js
-var clsx_m = __webpack_require__(6010);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/Layout/index.js + 53 modules
-var Layout = __webpack_require__(5086);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-common/lib/hooks/useWindowSize.js
-var useWindowSize = __webpack_require__(7524);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/core/lib/client/exports/Link.js + 1 modules
-var Link = __webpack_require__(9038);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/core/lib/client/exports/Translate.js + 1 modules
-var Translate = __webpack_require__(5999);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogSidebar/Desktop/styles.module.css
-var styles_module = __webpack_require__(8082);
-var styles_module_default = /*#__PURE__*/__webpack_require__.n(styles_module);
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogSidebar/Desktop/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function BlogSidebarDesktop({sidebar}){return/*#__PURE__*/react.createElement("aside",{className:"col col--3"},/*#__PURE__*/react.createElement("nav",{className:(0,clsx_m/* default */.Z)((styles_module_default()).sidebar,'thin-scrollbar'),"aria-label":(0,Translate/* translate */.I)({id:'theme.blog.sidebar.navAriaLabel',message:'Blog recent posts navigation',description:'The ARIA label for recent posts in the blog sidebar'})},/*#__PURE__*/react.createElement("div",{className:(0,clsx_m/* default */.Z)((styles_module_default()).sidebarItemTitle,'margin-bottom--md')},sidebar.title),/*#__PURE__*/react.createElement("ul",{className:(0,clsx_m/* default */.Z)((styles_module_default()).sidebarItemList,'clean-list')},sidebar.items.map(item=>/*#__PURE__*/react.createElement("li",{key:item.permalink,className:(styles_module_default()).sidebarItem},/*#__PURE__*/react.createElement(Link/* default */.Z,{isNavLink:true,to:item.permalink,className:(styles_module_default()).sidebarItemLink,activeClassName:(styles_module_default()).sidebarItemLinkActive},item.title))))));}
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-common/lib/contexts/navbarSecondaryMenu/content.js
-var content = __webpack_require__(3102);
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogSidebar/Mobile/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function BlogSidebarMobileSecondaryMenu({sidebar}){return/*#__PURE__*/react.createElement("ul",{className:"menu__list"},sidebar.items.map(item=>/*#__PURE__*/react.createElement("li",{key:item.permalink,className:"menu__list-item"},/*#__PURE__*/react.createElement(Link/* default */.Z,{isNavLink:true,to:item.permalink,className:"menu__link",activeClassName:"menu__link--active"},item.title))));}function BlogSidebarMobile(props){return/*#__PURE__*/react.createElement(content/* NavbarSecondaryMenuFiller */.Zo,{component:BlogSidebarMobileSecondaryMenu,props:props});}
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogSidebar/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function BlogSidebar({sidebar}){const windowSize=(0,useWindowSize/* useWindowSize */.i)();if(!sidebar?.items.length){return null;}// Mobile sidebar doesn't need to be server-rendered
-if(windowSize==='mobile'){return/*#__PURE__*/react.createElement(BlogSidebarMobile,{sidebar:sidebar});}return/*#__PURE__*/react.createElement(BlogSidebarDesktop,{sidebar:sidebar});}
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogLayout/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function BlogLayout(props){const{sidebar,toc,children,...layoutProps}=props;const hasSidebar=sidebar&&sidebar.items.length>0;return/*#__PURE__*/react.createElement(Layout/* default */.Z,layoutProps,/*#__PURE__*/react.createElement("div",{className:"container margin-vert--lg"},/*#__PURE__*/react.createElement("div",{className:"row"},/*#__PURE__*/react.createElement(BlogSidebar,{sidebar:sidebar}),/*#__PURE__*/react.createElement("main",{className:(0,clsx_m/* default */.Z)('col',{'col--7':hasSidebar,'col--9 col--offset-1':!hasSidebar}),itemScope:true,itemType:"http://schema.org/Blog"},children),toc&&/*#__PURE__*/react.createElement("div",{className:"col col--2"},toc))));}
-
-/***/ }),
-
-/***/ 46:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (/* binding */ BlogListPage)
-/* harmony export */ });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var clsx__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(6010);
-/* harmony import */ var _docusaurus_useDocusaurusContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2263);
-/* harmony import */ var _docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(1944);
-/* harmony import */ var _docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(5281);
-/* harmony import */ var _theme_BlogLayout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2021);
-/* harmony import */ var _theme_BlogListPaginator__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1158);
-/* harmony import */ var _theme_SearchMetadata__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(197);
-/* harmony import */ var _theme_BlogPostItems__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(9985);
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function BlogListPageMetadata(props){const{metadata}=props;const{siteConfig:{title:siteTitle}}=(0,_docusaurus_useDocusaurusContext__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z)();const{blogDescription,blogTitle,permalink}=metadata;const isBlogOnlyMode=permalink==='/';const title=isBlogOnlyMode?siteTitle:blogTitle;return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(react__WEBPACK_IMPORTED_MODULE_0__.Fragment,null,/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_6__/* .PageMetadata */ .d,{title:title,description:blogDescription}),/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_theme_SearchMetadata__WEBPACK_IMPORTED_MODULE_4__/* ["default"] */ .Z,{tag:"blog_posts_list"}));}function BlogListPageContent(props){const{metadata,items,sidebar}=props;return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_theme_BlogLayout__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z,{sidebar:sidebar},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_theme_BlogPostItems__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .Z,{items:items}),/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_theme_BlogListPaginator__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z,{metadata:metadata}));}function BlogListPage(props){return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_6__/* .HtmlClassNameProvider */ .FG,{className:(0,clsx__WEBPACK_IMPORTED_MODULE_7__/* ["default"] */ .Z)(_docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_8__/* .ThemeClassNames */ .k.wrapper.blogPages,_docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_8__/* .ThemeClassNames */ .k.page.blogListPage)},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(BlogListPageMetadata,props),/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(BlogListPageContent,props));}
-
-/***/ }),
-
-/***/ 1158:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   Z: () => (/* binding */ BlogListPaginator)
-/* harmony export */ });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var _docusaurus_Translate__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5999);
-/* harmony import */ var _theme_PaginatorNavLink__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2244);
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function BlogListPaginator(props){const{metadata}=props;const{previousPage,nextPage}=metadata;return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("nav",{className:"pagination-nav","aria-label":(0,_docusaurus_Translate__WEBPACK_IMPORTED_MODULE_1__/* .translate */ .I)({id:'theme.blog.paginator.navAriaLabel',message:'Blog list page navigation',description:'The ARIA label for the blog pagination'})},previousPage&&/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_theme_PaginatorNavLink__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z,{permalink:previousPage,title:/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_docusaurus_Translate__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z,{id:"theme.blog.paginator.newerEntries",description:"The label used to navigate to the newer blog posts page (previous page)"},"Newer Entries")}),nextPage&&/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_theme_PaginatorNavLink__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z,{permalink:nextPage,title:/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_docusaurus_Translate__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z,{id:"theme.blog.paginator.olderEntries",description:"The label used to navigate to the older blog posts page (next page)"},"Older Entries"),isNext:true}));}
-
-/***/ }),
-
-/***/ 5383:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-
-// EXPORTS
-__webpack_require__.d(__webpack_exports__, {
-  Z: () => (/* binding */ BlogPostItem)
-});
-
-// EXTERNAL MODULE: ./node_modules/react/index.js
-var react = __webpack_require__(7294);
-// EXTERNAL MODULE: ./node_modules/clsx/dist/clsx.m.js
-var clsx_m = __webpack_require__(6010);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-common/lib/contexts/blogPost.js
-var blogPost = __webpack_require__(9460);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/core/lib/client/exports/useBaseUrl.js
-var useBaseUrl = __webpack_require__(4996);
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogPostItem/Container/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function BlogPostItemContainer({children,className}){const{frontMatter,assets,metadata:{description}}=(0,blogPost/* useBlogPost */.C)();const{withBaseUrl}=(0,useBaseUrl/* useBaseUrlUtils */.C)();const image=assets.image??frontMatter.image;const keywords=frontMatter.keywords??[];return/*#__PURE__*/react.createElement("article",{className:className,itemProp:"blogPost",itemScope:true,itemType:"http://schema.org/BlogPosting"},description&&/*#__PURE__*/react.createElement("meta",{itemProp:"description",content:description}),image&&/*#__PURE__*/react.createElement("link",{itemProp:"image",href:withBaseUrl(image,{absolute:true})}),keywords.length>0&&/*#__PURE__*/react.createElement("meta",{itemProp:"keywords",content:keywords.join(',')}),children);}
-// EXTERNAL MODULE: ./node_modules/@docusaurus/core/lib/client/exports/Link.js + 1 modules
-var Link = __webpack_require__(9038);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogPostItem/Header/Title/styles.module.css
-var styles_module = __webpack_require__(2522);
-var styles_module_default = /*#__PURE__*/__webpack_require__.n(styles_module);
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogPostItem/Header/Title/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function BlogPostItemHeaderTitle({className}){const{metadata,isBlogPostPage}=(0,blogPost/* useBlogPost */.C)();const{permalink,title}=metadata;const TitleHeading=isBlogPostPage?'h1':'h2';return/*#__PURE__*/react.createElement(TitleHeading,{className:(0,clsx_m/* default */.Z)((styles_module_default()).title,className),itemProp:"headline"},isBlogPostPage?title:/*#__PURE__*/react.createElement(Link/* default */.Z,{itemProp:"url",to:permalink},title));}
-// EXTERNAL MODULE: ./node_modules/@docusaurus/core/lib/client/exports/Translate.js + 1 modules
-var Translate = __webpack_require__(5999);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-common/lib/utils/usePluralForm.js
-var usePluralForm = __webpack_require__(8824);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogPostItem/Header/Info/styles.module.css
-var Info_styles_module = __webpack_require__(3030);
-var Info_styles_module_default = /*#__PURE__*/__webpack_require__.n(Info_styles_module);
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogPostItem/Header/Info/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */// Very simple pluralization: probably good enough for now
-function useReadingTimePlural(){const{selectMessage}=(0,usePluralForm/* usePluralForm */.c)();return readingTimeFloat=>{const readingTime=Math.ceil(readingTimeFloat);return selectMessage(readingTime,(0,Translate/* translate */.I)({id:'theme.blog.post.readingTime.plurals',description:'Pluralized label for "{readingTime} min read". Use as much plural forms (separated by "|") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)',message:'One min read|{readingTime} min read'},{readingTime}));};}function ReadingTime({readingTime}){const readingTimePlural=useReadingTimePlural();return/*#__PURE__*/react.createElement(react.Fragment,null,readingTimePlural(readingTime));}function Info_Date({date,formattedDate}){return/*#__PURE__*/react.createElement("time",{dateTime:date,itemProp:"datePublished"},formattedDate);}function Spacer(){return/*#__PURE__*/react.createElement(react.Fragment,null,' · ');}function BlogPostItemHeaderInfo({className}){const{metadata}=(0,blogPost/* useBlogPost */.C)();const{date,formattedDate,readingTime}=metadata;return/*#__PURE__*/react.createElement("div",{className:(0,clsx_m/* default */.Z)((Info_styles_module_default()).container,'margin-vert--md',className)},/*#__PURE__*/react.createElement(Info_Date,{date:date,formattedDate:formattedDate}),typeof readingTime!=='undefined'&&/*#__PURE__*/react.createElement(react.Fragment,null,/*#__PURE__*/react.createElement(Spacer,null),/*#__PURE__*/react.createElement(ReadingTime,{readingTime:readingTime})));}
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogPostItem/Header/Author/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function MaybeLink(props){if(props.href){return/*#__PURE__*/react.createElement(Link/* default */.Z,props);}return/*#__PURE__*/react.createElement(react.Fragment,null,props.children);}function BlogPostItemHeaderAuthor({author,className}){const{name,title,url,imageURL,email}=author;const link=url||email&&`mailto:${email}`||undefined;return/*#__PURE__*/react.createElement("div",{className:(0,clsx_m/* default */.Z)('avatar margin-bottom--sm',className)},imageURL&&/*#__PURE__*/react.createElement(MaybeLink,{href:link,className:"avatar__photo-link"},/*#__PURE__*/react.createElement("img",{className:"avatar__photo",src:imageURL,alt:name,itemProp:"image"})),name&&/*#__PURE__*/react.createElement("div",{className:"avatar__intro",itemProp:"author",itemScope:true,itemType:"https://schema.org/Person"},/*#__PURE__*/react.createElement("div",{className:"avatar__name"},/*#__PURE__*/react.createElement(MaybeLink,{href:link,itemProp:"url"},/*#__PURE__*/react.createElement("span",{itemProp:"name"},name))),title&&/*#__PURE__*/react.createElement("small",{className:"avatar__subtitle",itemProp:"description"},title)));}
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogPostItem/Header/Authors/styles.module.css
-var Authors_styles_module = __webpack_require__(8949);
-var Authors_styles_module_default = /*#__PURE__*/__webpack_require__.n(Authors_styles_module);
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogPostItem/Header/Authors/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */// Component responsible for the authors layout
-function BlogPostItemHeaderAuthors({className}){const{metadata:{authors},assets}=(0,blogPost/* useBlogPost */.C)();const authorsCount=authors.length;if(authorsCount===0){return null;}const imageOnly=authors.every(({name})=>!name);return/*#__PURE__*/react.createElement("div",{className:(0,clsx_m/* default */.Z)('margin-top--md margin-bottom--sm',imageOnly?(Authors_styles_module_default()).imageOnlyAuthorRow:'row',className)},authors.map((author,idx)=>/*#__PURE__*/react.createElement("div",{className:(0,clsx_m/* default */.Z)(!imageOnly&&'col col--6',imageOnly?(Authors_styles_module_default()).imageOnlyAuthorCol:(Authors_styles_module_default()).authorCol),key:idx},/*#__PURE__*/react.createElement(BlogPostItemHeaderAuthor,{author:{...author,// Handle author images using relative paths
-imageURL:assets.authorsImageUrls[idx]??author.imageURL}}))));}
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogPostItem/Header/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function BlogPostItemHeader(){return/*#__PURE__*/react.createElement("header",null,/*#__PURE__*/react.createElement(BlogPostItemHeaderTitle,null),/*#__PURE__*/react.createElement(BlogPostItemHeaderInfo,null),/*#__PURE__*/react.createElement(BlogPostItemHeaderAuthors,null));}
-// EXTERNAL MODULE: ./node_modules/@docusaurus/utils-common/lib/index.js
-var lib = __webpack_require__(8780);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/MDXContent/index.js + 29 modules
-var MDXContent = __webpack_require__(1050);
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogPostItem/Content/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function BlogPostItemContent({children,className}){const{isBlogPostPage}=(0,blogPost/* useBlogPost */.C)();return/*#__PURE__*/react.createElement("div",{// This ID is used for the feed generation to locate the main content
-id:isBlogPostPage?lib.blogPostContainerID:undefined,className:(0,clsx_m/* default */.Z)('markdown',className),itemProp:"articleBody"},/*#__PURE__*/react.createElement(MDXContent/* default */.Z,null,children));}
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/EditThisPage/index.js + 1 modules
-var EditThisPage = __webpack_require__(8765);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/TagsListInline/index.js
-var TagsListInline = __webpack_require__(9170);
-// EXTERNAL MODULE: ./node_modules/@babel/runtime/helpers/esm/extends.js
-var esm_extends = __webpack_require__(7462);
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogPostItem/Footer/ReadMoreLink/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function ReadMoreLabel(){return/*#__PURE__*/react.createElement("b",null,/*#__PURE__*/react.createElement(Translate/* default */.Z,{id:"theme.blog.post.readMore",description:"The label used in blog post item excerpts to link to full blog posts"},"Read More"));}function BlogPostItemFooterReadMoreLink(props){const{blogPostTitle,...linkProps}=props;return/*#__PURE__*/react.createElement(Link/* default */.Z,(0,esm_extends/* default */.Z)({"aria-label":(0,Translate/* translate */.I)({message:'Read more about {title}',id:'theme.blog.post.readMoreLabel',description:'The ARIA label for the link to full blog posts from excerpts'},{title:blogPostTitle})},linkProps),/*#__PURE__*/react.createElement(ReadMoreLabel,null));}
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogPostItem/Footer/styles.module.css
-var Footer_styles_module = __webpack_require__(8377);
-var Footer_styles_module_default = /*#__PURE__*/__webpack_require__.n(Footer_styles_module);
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogPostItem/Footer/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function BlogPostItemFooter(){const{metadata,isBlogPostPage}=(0,blogPost/* useBlogPost */.C)();const{tags,title,editUrl,hasTruncateMarker}=metadata;// A post is truncated if it's in the "list view" and it has a truncate marker
-const truncatedPost=!isBlogPostPage&&hasTruncateMarker;const tagsExists=tags.length>0;const renderFooter=tagsExists||truncatedPost||editUrl;if(!renderFooter){return null;}return/*#__PURE__*/react.createElement("footer",{className:(0,clsx_m/* default */.Z)('row docusaurus-mt-lg',isBlogPostPage&&(Footer_styles_module_default()).blogPostFooterDetailsFull)},tagsExists&&/*#__PURE__*/react.createElement("div",{className:(0,clsx_m/* default */.Z)('col',{'col--9':truncatedPost})},/*#__PURE__*/react.createElement(TagsListInline/* default */.Z,{tags:tags})),isBlogPostPage&&editUrl&&/*#__PURE__*/react.createElement("div",{className:"col margin-top--sm"},/*#__PURE__*/react.createElement(EditThisPage/* default */.Z,{editUrl:editUrl})),truncatedPost&&/*#__PURE__*/react.createElement("div",{className:(0,clsx_m/* default */.Z)('col text--right',{'col--3':tagsExists})},/*#__PURE__*/react.createElement(BlogPostItemFooterReadMoreLink,{blogPostTitle:title,to:metadata.permalink})));}
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogPostItem/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */// apply a bottom margin in list view
-function useContainerClassName(){const{isBlogPostPage}=(0,blogPost/* useBlogPost */.C)();return!isBlogPostPage?'margin-bottom--xl':undefined;}function BlogPostItem({children,className}){const containerClassName=useContainerClassName();return/*#__PURE__*/react.createElement(BlogPostItemContainer,{className:(0,clsx_m/* default */.Z)(containerClassName,className)},/*#__PURE__*/react.createElement(BlogPostItemHeader,null),/*#__PURE__*/react.createElement(BlogPostItemContent,null,children),/*#__PURE__*/react.createElement(BlogPostItemFooter,null));}
-
-/***/ }),
-
-/***/ 9985:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   Z: () => (/* binding */ BlogPostItems)
-/* harmony export */ });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var _docusaurus_theme_common_internal__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9460);
-/* harmony import */ var _theme_BlogPostItem__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5383);
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function BlogPostItems({items,component:BlogPostItemComponent=_theme_BlogPostItem__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z}){return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(react__WEBPACK_IMPORTED_MODULE_0__.Fragment,null,items.map(({content:BlogPostContent})=>/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_docusaurus_theme_common_internal__WEBPACK_IMPORTED_MODULE_2__/* .BlogPostProvider */ .n,{key:BlogPostContent.metadata.permalink,content:BlogPostContent},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(BlogPostItemComponent,null,/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(BlogPostContent,null)))));}
-
-/***/ }),
-
-/***/ 5203:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-// ESM COMPAT FLAG
-__webpack_require__.r(__webpack_exports__);
-
-// EXPORTS
-__webpack_require__.d(__webpack_exports__, {
-  "default": () => (/* binding */ BlogPostPage)
-});
-
-// EXTERNAL MODULE: ./node_modules/react/index.js
-var react = __webpack_require__(7294);
-// EXTERNAL MODULE: ./node_modules/clsx/dist/clsx.m.js
-var clsx_m = __webpack_require__(6010);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-common/lib/utils/metadataUtils.js + 2 modules
-var metadataUtils = __webpack_require__(1944);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-common/lib/utils/ThemeClassNames.js
-var ThemeClassNames = __webpack_require__(5281);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-common/lib/contexts/blogPost.js
-var blogPost = __webpack_require__(9460);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogLayout/index.js + 3 modules
-var BlogLayout = __webpack_require__(2021);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogPostItem/index.js + 9 modules
-var BlogPostItem = __webpack_require__(5383);
-// EXTERNAL MODULE: ./node_modules/@babel/runtime/helpers/esm/extends.js
-var esm_extends = __webpack_require__(7462);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/core/lib/client/exports/Translate.js + 1 modules
-var Translate = __webpack_require__(5999);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/PaginatorNavLink/index.js
-var PaginatorNavLink = __webpack_require__(2244);
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogPostPaginator/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function BlogPostPaginator(props){const{nextItem,prevItem}=props;return/*#__PURE__*/react.createElement("nav",{className:"pagination-nav docusaurus-mt-lg","aria-label":(0,Translate/* translate */.I)({id:'theme.blog.post.paginator.navAriaLabel',message:'Blog post page navigation',description:'The ARIA label for the blog posts pagination'})},prevItem&&/*#__PURE__*/react.createElement(PaginatorNavLink/* default */.Z,(0,esm_extends/* default */.Z)({},prevItem,{subLabel:/*#__PURE__*/react.createElement(Translate/* default */.Z,{id:"theme.blog.post.paginator.newerPost",description:"The blog post button label to navigate to the newer/previous post"},"Newer Post")})),nextItem&&/*#__PURE__*/react.createElement(PaginatorNavLink/* default */.Z,(0,esm_extends/* default */.Z)({},nextItem,{subLabel:/*#__PURE__*/react.createElement(Translate/* default */.Z,{id:"theme.blog.post.paginator.olderPost",description:"The blog post button label to navigate to the older/next post"},"Older Post"),isNext:true})));}
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogPostPage/Metadata/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function BlogPostPageMetadata(){const{assets,metadata}=(0,blogPost/* useBlogPost */.C)();const{title,description,date,tags,authors,frontMatter}=metadata;const{keywords}=frontMatter;const image=assets.image??frontMatter.image;return/*#__PURE__*/react.createElement(metadataUtils/* PageMetadata */.d,{title:title,description:description,keywords:keywords,image:image},/*#__PURE__*/react.createElement("meta",{property:"og:type",content:"article"}),/*#__PURE__*/react.createElement("meta",{property:"article:published_time",content:date}),authors.some(author=>author.url)&&/*#__PURE__*/react.createElement("meta",{property:"article:author",content:authors.map(author=>author.url).filter(Boolean).join(',')}),tags.length>0&&/*#__PURE__*/react.createElement("meta",{property:"article:tag",content:tags.map(tag=>tag.label).join(',')}));}
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/TOC/index.js
-var TOC = __webpack_require__(3233);
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogPostPage/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function BlogPostPageContent({sidebar,children}){const{metadata,toc}=(0,blogPost/* useBlogPost */.C)();const{nextItem,prevItem,frontMatter}=metadata;const{hide_table_of_contents:hideTableOfContents,toc_min_heading_level:tocMinHeadingLevel,toc_max_heading_level:tocMaxHeadingLevel}=frontMatter;return/*#__PURE__*/react.createElement(BlogLayout/* default */.Z,{sidebar:sidebar,toc:!hideTableOfContents&&toc.length>0?/*#__PURE__*/react.createElement(TOC/* default */.Z,{toc:toc,minHeadingLevel:tocMinHeadingLevel,maxHeadingLevel:tocMaxHeadingLevel}):undefined},/*#__PURE__*/react.createElement(BlogPostItem/* default */.Z,null,children),(nextItem||prevItem)&&/*#__PURE__*/react.createElement(BlogPostPaginator,{nextItem:nextItem,prevItem:prevItem}));}function BlogPostPage(props){const BlogPostContent=props.content;return/*#__PURE__*/react.createElement(blogPost/* BlogPostProvider */.n,{content:props.content,isBlogPostPage:true},/*#__PURE__*/react.createElement(metadataUtils/* HtmlClassNameProvider */.FG,{className:(0,clsx_m/* default */.Z)(ThemeClassNames/* ThemeClassNames */.k.wrapper.blogPages,ThemeClassNames/* ThemeClassNames */.k.page.blogPostPage)},/*#__PURE__*/react.createElement(BlogPostPageMetadata,null),/*#__PURE__*/react.createElement(BlogPostPageContent,{sidebar:props.sidebar},/*#__PURE__*/react.createElement(BlogPostContent,null))));}
-
-/***/ }),
-
-/***/ 1745:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-// ESM COMPAT FLAG
-__webpack_require__.r(__webpack_exports__);
-
-// EXPORTS
-__webpack_require__.d(__webpack_exports__, {
-  "default": () => (/* binding */ BlogTagsListPage)
-});
-
-// EXTERNAL MODULE: ./node_modules/react/index.js
-var react = __webpack_require__(7294);
-// EXTERNAL MODULE: ./node_modules/clsx/dist/clsx.m.js
-var clsx_m = __webpack_require__(6010);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/core/lib/client/exports/Translate.js + 1 modules
-var Translate = __webpack_require__(5999);
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-common/lib/utils/tagsUtils.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */const translateTagsPageTitle=()=>(0,Translate/* translate */.I)({id:'theme.tags.tagsPageTitle',message:'Tags',description:'The title of the tag list page'});function getTagLetter(tag){return tag[0].toUpperCase();}/**
- * Takes a list of tags (as provided by the content plugins), and groups them by
- * their initials.
- */function listTagsByLetters(tags){const groups={};Object.values(tags).forEach(tag=>{const initial=getTagLetter(tag.label);groups[initial]??=[];groups[initial].push(tag);});return Object.entries(groups)// Sort letters
-.sort(([letter1],[letter2])=>letter1.localeCompare(letter2)).map(([letter,letterTags])=>{// Sort tags inside a letter
-const sortedTags=letterTags.sort((tag1,tag2)=>tag1.label.localeCompare(tag2.label));return{letter,tags:sortedTags};});}
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-common/lib/utils/metadataUtils.js + 2 modules
-var metadataUtils = __webpack_require__(1944);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-common/lib/utils/ThemeClassNames.js
-var ThemeClassNames = __webpack_require__(5281);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogLayout/index.js + 3 modules
-var BlogLayout = __webpack_require__(2021);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/Tag/index.js
-var Tag = __webpack_require__(1783);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/TagsListByLetter/styles.module.css
-var styles_module = __webpack_require__(6569);
-var styles_module_default = /*#__PURE__*/__webpack_require__.n(styles_module);
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/TagsListByLetter/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function TagLetterEntryItem({letterEntry}){return/*#__PURE__*/react.createElement("article",null,/*#__PURE__*/react.createElement("h2",null,letterEntry.letter),/*#__PURE__*/react.createElement("ul",{className:"padding--none"},letterEntry.tags.map(tag=>/*#__PURE__*/react.createElement("li",{key:tag.permalink,className:(styles_module_default()).tag},/*#__PURE__*/react.createElement(Tag/* default */.Z,tag)))),/*#__PURE__*/react.createElement("hr",null));}function TagsListByLetter({tags}){const letterList=listTagsByLetters(tags);return/*#__PURE__*/react.createElement("section",{className:"margin-vert--lg"},letterList.map(letterEntry=>/*#__PURE__*/react.createElement(TagLetterEntryItem,{key:letterEntry.letter,letterEntry:letterEntry})));}
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/SearchMetadata/index.js
-var SearchMetadata = __webpack_require__(197);
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogTagsListPage/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function BlogTagsListPage({tags,sidebar}){const title=translateTagsPageTitle();return/*#__PURE__*/react.createElement(metadataUtils/* HtmlClassNameProvider */.FG,{className:(0,clsx_m/* default */.Z)(ThemeClassNames/* ThemeClassNames */.k.wrapper.blogPages,ThemeClassNames/* ThemeClassNames */.k.page.blogTagsListPage)},/*#__PURE__*/react.createElement(metadataUtils/* PageMetadata */.d,{title:title}),/*#__PURE__*/react.createElement(SearchMetadata/* default */.Z,{tag:"blog_tags_list"}),/*#__PURE__*/react.createElement(BlogLayout/* default */.Z,{sidebar:sidebar},/*#__PURE__*/react.createElement("h1",null,title),/*#__PURE__*/react.createElement(TagsListByLetter,{tags:tags})));}
-
-/***/ }),
-
-/***/ 1714:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (/* binding */ BlogTagsPostsPage)
-/* harmony export */ });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var clsx__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(6010);
-/* harmony import */ var _docusaurus_Translate__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5999);
-/* harmony import */ var _docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8824);
-/* harmony import */ var _docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(1944);
-/* harmony import */ var _docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(5281);
-/* harmony import */ var _docusaurus_Link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9038);
-/* harmony import */ var _theme_BlogLayout__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(2021);
-/* harmony import */ var _theme_BlogListPaginator__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(1158);
-/* harmony import */ var _theme_SearchMetadata__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(197);
-/* harmony import */ var _theme_BlogPostItems__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(9985);
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */// Very simple pluralization: probably good enough for now
-function useBlogPostsPlural(){const{selectMessage}=(0,_docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_7__/* .usePluralForm */ .c)();return count=>selectMessage(count,(0,_docusaurus_Translate__WEBPACK_IMPORTED_MODULE_1__/* .translate */ .I)({id:'theme.blog.post.plurals',description:'Pluralized label for "{count} posts". Use as much plural forms (separated by "|") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)',message:'One post|{count} posts'},{count}));}function useBlogTagsPostsPageTitle(tag){const blogPostsPlural=useBlogPostsPlural();return (0,_docusaurus_Translate__WEBPACK_IMPORTED_MODULE_1__/* .translate */ .I)({id:'theme.blog.tagTitle',description:'The title of the page for a blog tag',message:'{nPosts} tagged with "{tagName}"'},{nPosts:blogPostsPlural(tag.count),tagName:tag.label});}function BlogTagsPostsPageMetadata({tag}){const title=useBlogTagsPostsPageTitle(tag);return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(react__WEBPACK_IMPORTED_MODULE_0__.Fragment,null,/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_8__/* .PageMetadata */ .d,{title:title}),/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_theme_SearchMetadata__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .Z,{tag:"blog_tags_posts"}));}function BlogTagsPostsPageContent({tag,items,sidebar,listMetadata}){const title=useBlogTagsPostsPageTitle(tag);return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_theme_BlogLayout__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z,{sidebar:sidebar},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("header",{className:"margin-bottom--xl"},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h1",null,title),/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_docusaurus_Link__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z,{href:tag.allTagsPath},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_docusaurus_Translate__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z,{id:"theme.tags.tagsPageLink",description:"The label of the link targeting the tag list page"},"View All Tags"))),/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_theme_BlogPostItems__WEBPACK_IMPORTED_MODULE_6__/* ["default"] */ .Z,{items:items}),/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_theme_BlogListPaginator__WEBPACK_IMPORTED_MODULE_4__/* ["default"] */ .Z,{metadata:listMetadata}));}function BlogTagsPostsPage(props){return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_8__/* .HtmlClassNameProvider */ .FG,{className:(0,clsx__WEBPACK_IMPORTED_MODULE_9__/* ["default"] */ .Z)(_docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_10__/* .ThemeClassNames */ .k.wrapper.blogPages,_docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_10__/* .ThemeClassNames */ .k.page.blogTagPostListPage)},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(BlogTagsPostsPageMetadata,props),/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(BlogTagsPostsPageContent,props));}
-
-/***/ }),
-
 /***/ 6982:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
@@ -10231,8 +9649,8 @@ if(!href){return null;}return/*#__PURE__*/react.createElement(CardLayout,{href:h
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */function DocCardListForCurrentSidebarCategory({className}){const category=(0,docsUtils/* useCurrentSidebarCategory */.jA)();return/*#__PURE__*/react.createElement(DocCardList,{items:category.items,className:className});}function DocCardList(props){const{items,className}=props;if(!items){return/*#__PURE__*/react.createElement(DocCardListForCurrentSidebarCategory,props);}const filteredItems=(0,docsUtils/* filterDocCardListItems */.MN)(items);return/*#__PURE__*/react.createElement("section",{className:(0,clsx_m/* default */.Z)('row',className)},filteredItems.map((item,index)=>/*#__PURE__*/react.createElement("article",{key:index,className:"col col--6 margin-bottom--lg"},/*#__PURE__*/react.createElement(DocCard,{item:item}))));}
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/DocPaginator/index.js
-var DocPaginator = __webpack_require__(49);
+// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/DocPaginator/index.js + 1 modules
+var DocPaginator = __webpack_require__(4966);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/DocVersionBanner/index.js
 var DocVersionBanner = __webpack_require__(3120);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/DocVersionBadge/index.js
@@ -10255,7 +9673,7 @@ var DocCategoryGeneratedIndexPage_styles_module_default = /*#__PURE__*/__webpack
 
 /***/ }),
 
-/***/ 3154:
+/***/ 8493:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -10306,8 +9724,8 @@ var reactUtils = __webpack_require__(902);
 var clsx_m = __webpack_require__(6010);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-common/lib/hooks/useWindowSize.js
 var useWindowSize = __webpack_require__(7524);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/DocPaginator/index.js
-var DocPaginator = __webpack_require__(49);
+// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/DocPaginator/index.js + 1 modules
+var DocPaginator = __webpack_require__(4966);
 ;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/DocItem/Paginator/index.js
 /**
  * Copyright (c) Facebook, Inc. and its affiliates.
@@ -10333,26 +9751,61 @@ var Translate = __webpack_require__(5999);
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */function LastUpdatedAtDate({lastUpdatedAt,formattedLastUpdatedAt}){return/*#__PURE__*/react.createElement(Translate/* default */.Z,{id:"theme.lastUpdated.atDate",description:"The words used to describe on which date a page has been last updated",values:{date:/*#__PURE__*/react.createElement("b",null,/*#__PURE__*/react.createElement("time",{dateTime:new Date(lastUpdatedAt*1000).toISOString()},formattedLastUpdatedAt))}},' on {date}');}function LastUpdatedByUser({lastUpdatedBy}){return/*#__PURE__*/react.createElement(Translate/* default */.Z,{id:"theme.lastUpdated.byUser",description:"The words used to describe by who the page has been last updated",values:{user:/*#__PURE__*/react.createElement("b",null,lastUpdatedBy)}},' by {user}');}function LastUpdated({lastUpdatedAt,formattedLastUpdatedAt,lastUpdatedBy}){return/*#__PURE__*/react.createElement("span",{className:ThemeClassNames/* ThemeClassNames */.k.common.lastUpdated},/*#__PURE__*/react.createElement(Translate/* default */.Z,{id:"theme.lastUpdated.lastUpdatedAtBy",description:"The sentence used to display when a page has been last updated, and by who",values:{atDate:lastUpdatedAt&&formattedLastUpdatedAt?/*#__PURE__*/react.createElement(LastUpdatedAtDate,{lastUpdatedAt:lastUpdatedAt,formattedLastUpdatedAt:formattedLastUpdatedAt}):'',byUser:lastUpdatedBy?/*#__PURE__*/react.createElement(LastUpdatedByUser,{lastUpdatedBy:lastUpdatedBy}):''}},'Last updated{atDate}{byUser}'), false&&/*#__PURE__*/0);}
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/EditThisPage/index.js + 1 modules
-var EditThisPage = __webpack_require__(8765);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/TagsListInline/index.js
-var TagsListInline = __webpack_require__(9170);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/DocItem/Footer/styles.module.css
-var styles_module = __webpack_require__(4856);
+// EXTERNAL MODULE: ./node_modules/@babel/runtime/helpers/esm/extends.js
+var esm_extends = __webpack_require__(7462);
+// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/Icon/Edit/styles.module.css
+var styles_module = __webpack_require__(1920);
 var styles_module_default = /*#__PURE__*/__webpack_require__.n(styles_module);
+;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/Icon/Edit/index.js
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */function IconEdit({className,...restProps}){return/*#__PURE__*/react.createElement("svg",(0,esm_extends/* default */.Z)({fill:"currentColor",height:"20",width:"20",viewBox:"0 0 40 40",className:(0,clsx_m/* default */.Z)((styles_module_default()).iconEdit,className),"aria-hidden":"true"},restProps),/*#__PURE__*/react.createElement("g",null,/*#__PURE__*/react.createElement("path",{d:"m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"})));}
+;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/EditThisPage/index.js
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */function EditThisPage({editUrl}){return/*#__PURE__*/react.createElement("a",{href:editUrl,target:"_blank",rel:"noreferrer noopener",className:ThemeClassNames/* ThemeClassNames */.k.common.editThisPage},/*#__PURE__*/react.createElement(IconEdit,null),/*#__PURE__*/react.createElement(Translate/* default */.Z,{id:"theme.common.editThisPage",description:"The link label to edit the current page"},"Edit this page"));}
+// EXTERNAL MODULE: ./node_modules/@docusaurus/core/lib/client/exports/Link.js + 1 modules
+var Link = __webpack_require__(9038);
+// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/Tag/styles.module.css
+var Tag_styles_module = __webpack_require__(2198);
+var Tag_styles_module_default = /*#__PURE__*/__webpack_require__.n(Tag_styles_module);
+;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/Tag/index.js
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */function Tag({permalink,label,count}){return/*#__PURE__*/react.createElement(Link/* default */.Z,{href:permalink,className:(0,clsx_m/* default */.Z)((Tag_styles_module_default()).tag,count?(Tag_styles_module_default()).tagWithCount:(Tag_styles_module_default()).tagRegular)},label,count&&/*#__PURE__*/react.createElement("span",null,count));}
+// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/TagsListInline/styles.module.css
+var TagsListInline_styles_module = __webpack_require__(4211);
+var TagsListInline_styles_module_default = /*#__PURE__*/__webpack_require__.n(TagsListInline_styles_module);
+;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/TagsListInline/index.js
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */function TagsListInline({tags}){return/*#__PURE__*/react.createElement(react.Fragment,null,/*#__PURE__*/react.createElement("b",null,/*#__PURE__*/react.createElement(Translate/* default */.Z,{id:"theme.tags.tagsListLabel",description:"The label alongside a tag list"},"Tags:")),/*#__PURE__*/react.createElement("ul",{className:(0,clsx_m/* default */.Z)((TagsListInline_styles_module_default()).tags,'padding--none','margin-left--sm')},tags.map(({label,permalink:tagPermalink})=>/*#__PURE__*/react.createElement("li",{key:tagPermalink,className:(TagsListInline_styles_module_default()).tag},/*#__PURE__*/react.createElement(Tag,{label:label,permalink:tagPermalink})))));}
+// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/DocItem/Footer/styles.module.css
+var Footer_styles_module = __webpack_require__(4856);
+var Footer_styles_module_default = /*#__PURE__*/__webpack_require__.n(Footer_styles_module);
 ;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/DocItem/Footer/index.js
 /**
  * Copyright (c) Facebook, Inc. and its affiliates.
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
- */function TagsRow(props){return/*#__PURE__*/react.createElement("div",{className:(0,clsx_m/* default */.Z)(ThemeClassNames/* ThemeClassNames */.k.docs.docFooterTagsRow,'row margin-bottom--sm')},/*#__PURE__*/react.createElement("div",{className:"col"},/*#__PURE__*/react.createElement(TagsListInline/* default */.Z,props)));}function EditMetaRow({editUrl,lastUpdatedAt,lastUpdatedBy,formattedLastUpdatedAt}){return/*#__PURE__*/react.createElement("div",{className:(0,clsx_m/* default */.Z)(ThemeClassNames/* ThemeClassNames */.k.docs.docFooterEditMetaRow,'row')},/*#__PURE__*/react.createElement("div",{className:"col"},editUrl&&/*#__PURE__*/react.createElement(EditThisPage/* default */.Z,{editUrl:editUrl})),/*#__PURE__*/react.createElement("div",{className:(0,clsx_m/* default */.Z)('col',(styles_module_default()).lastUpdated)},(lastUpdatedAt||lastUpdatedBy)&&/*#__PURE__*/react.createElement(LastUpdated,{lastUpdatedAt:lastUpdatedAt,formattedLastUpdatedAt:formattedLastUpdatedAt,lastUpdatedBy:lastUpdatedBy})));}function DocItemFooter(){const{metadata}=useDoc();const{editUrl,lastUpdatedAt,formattedLastUpdatedAt,lastUpdatedBy,tags}=metadata;const canDisplayTagsRow=tags.length>0;const canDisplayEditMetaRow=!!(editUrl||lastUpdatedAt||lastUpdatedBy);const canDisplayFooter=canDisplayTagsRow||canDisplayEditMetaRow;if(!canDisplayFooter){return null;}return/*#__PURE__*/react.createElement("footer",{className:(0,clsx_m/* default */.Z)(ThemeClassNames/* ThemeClassNames */.k.docs.docFooter,'docusaurus-mt-lg')},canDisplayTagsRow&&/*#__PURE__*/react.createElement(TagsRow,{tags:tags}),canDisplayEditMetaRow&&/*#__PURE__*/react.createElement(EditMetaRow,{editUrl:editUrl,lastUpdatedAt:lastUpdatedAt,lastUpdatedBy:lastUpdatedBy,formattedLastUpdatedAt:formattedLastUpdatedAt}));}
+ */function TagsRow(props){return/*#__PURE__*/react.createElement("div",{className:(0,clsx_m/* default */.Z)(ThemeClassNames/* ThemeClassNames */.k.docs.docFooterTagsRow,'row margin-bottom--sm')},/*#__PURE__*/react.createElement("div",{className:"col"},/*#__PURE__*/react.createElement(TagsListInline,props)));}function EditMetaRow({editUrl,lastUpdatedAt,lastUpdatedBy,formattedLastUpdatedAt}){return/*#__PURE__*/react.createElement("div",{className:(0,clsx_m/* default */.Z)(ThemeClassNames/* ThemeClassNames */.k.docs.docFooterEditMetaRow,'row')},/*#__PURE__*/react.createElement("div",{className:"col"},editUrl&&/*#__PURE__*/react.createElement(EditThisPage,{editUrl:editUrl})),/*#__PURE__*/react.createElement("div",{className:(0,clsx_m/* default */.Z)('col',(Footer_styles_module_default()).lastUpdated)},(lastUpdatedAt||lastUpdatedBy)&&/*#__PURE__*/react.createElement(LastUpdated,{lastUpdatedAt:lastUpdatedAt,formattedLastUpdatedAt:formattedLastUpdatedAt,lastUpdatedBy:lastUpdatedBy})));}function DocItemFooter(){const{metadata}=useDoc();const{editUrl,lastUpdatedAt,formattedLastUpdatedAt,lastUpdatedBy,tags}=metadata;const canDisplayTagsRow=tags.length>0;const canDisplayEditMetaRow=!!(editUrl||lastUpdatedAt||lastUpdatedBy);const canDisplayFooter=canDisplayTagsRow||canDisplayEditMetaRow;if(!canDisplayFooter){return null;}return/*#__PURE__*/react.createElement("footer",{className:(0,clsx_m/* default */.Z)(ThemeClassNames/* ThemeClassNames */.k.docs.docFooter,'docusaurus-mt-lg')},canDisplayTagsRow&&/*#__PURE__*/react.createElement(TagsRow,{tags:tags}),canDisplayEditMetaRow&&/*#__PURE__*/react.createElement(EditMetaRow,{editUrl:editUrl,lastUpdatedAt:lastUpdatedAt,lastUpdatedBy:lastUpdatedBy,formattedLastUpdatedAt:formattedLastUpdatedAt}));}
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-common/lib/components/Collapsible/index.js
 var Collapsible = __webpack_require__(6043);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/TOCItems/index.js + 3 modules
 var TOCItems = __webpack_require__(3743);
-// EXTERNAL MODULE: ./node_modules/@babel/runtime/helpers/esm/extends.js
-var esm_extends = __webpack_require__(7462);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/TOCCollapsible/CollapseButton/styles.module.css
 var CollapseButton_styles_module = __webpack_require__(3710);
 var CollapseButton_styles_module_default = /*#__PURE__*/__webpack_require__.n(CollapseButton_styles_module);
@@ -10713,23 +10166,40 @@ ThemeClassNames/* ThemeClassNames */.k.wrapper.docsPages,ThemeClassNames/* Theme
 
 /***/ }),
 
-/***/ 49:
+/***/ 4966:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   Z: () => (/* binding */ DocPaginator)
-/* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(7462);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var _docusaurus_Translate__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5999);
-/* harmony import */ var _theme_PaginatorNavLink__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2244);
+
+// EXPORTS
+__webpack_require__.d(__webpack_exports__, {
+  Z: () => (/* binding */ DocPaginator)
+});
+
+// EXTERNAL MODULE: ./node_modules/@babel/runtime/helpers/esm/extends.js
+var esm_extends = __webpack_require__(7462);
+// EXTERNAL MODULE: ./node_modules/react/index.js
+var react = __webpack_require__(7294);
+// EXTERNAL MODULE: ./node_modules/@docusaurus/core/lib/client/exports/Translate.js + 1 modules
+var Translate = __webpack_require__(5999);
+// EXTERNAL MODULE: ./node_modules/clsx/dist/clsx.m.js
+var clsx_m = __webpack_require__(6010);
+// EXTERNAL MODULE: ./node_modules/@docusaurus/core/lib/client/exports/Link.js + 1 modules
+var Link = __webpack_require__(9038);
+;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/PaginatorNavLink/index.js
 /**
  * Copyright (c) Facebook, Inc. and its affiliates.
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
- */function DocPaginator(props){const{previous,next}=props;return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("nav",{className:"pagination-nav docusaurus-mt-lg","aria-label":(0,_docusaurus_Translate__WEBPACK_IMPORTED_MODULE_1__/* .translate */ .I)({id:'theme.docs.paginator.navAriaLabel',message:'Docs pages',description:'The ARIA label for the docs pagination'})},previous&&/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_theme_PaginatorNavLink__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z)({},previous,{subLabel:/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_docusaurus_Translate__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z,{id:"theme.docs.paginator.previous",description:"The label used to navigate to the previous doc"},"Previous")})),next&&/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_theme_PaginatorNavLink__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z)({},next,{subLabel:/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_docusaurus_Translate__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z,{id:"theme.docs.paginator.next",description:"The label used to navigate to the next doc"},"Next"),isNext:true})));}
+ */function PaginatorNavLink(props){const{permalink,title,subLabel,isNext}=props;return/*#__PURE__*/react.createElement(Link/* default */.Z,{className:(0,clsx_m/* default */.Z)('pagination-nav__link',isNext?'pagination-nav__link--next':'pagination-nav__link--prev'),to:permalink},subLabel&&/*#__PURE__*/react.createElement("div",{className:"pagination-nav__sublabel"},subLabel),/*#__PURE__*/react.createElement("div",{className:"pagination-nav__label"},title));}
+;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/DocPaginator/index.js
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */function DocPaginator(props){const{previous,next}=props;return/*#__PURE__*/react.createElement("nav",{className:"pagination-nav docusaurus-mt-lg","aria-label":(0,Translate/* translate */.I)({id:'theme.docs.paginator.navAriaLabel',message:'Docs pages',description:'The ARIA label for the docs pagination'})},previous&&/*#__PURE__*/react.createElement(PaginatorNavLink,(0,esm_extends/* default */.Z)({},previous,{subLabel:/*#__PURE__*/react.createElement(Translate/* default */.Z,{id:"theme.docs.paginator.previous",description:"The label used to navigate to the previous doc"},"Previous")})),next&&/*#__PURE__*/react.createElement(PaginatorNavLink,(0,esm_extends/* default */.Z)({},next,{subLabel:/*#__PURE__*/react.createElement(Translate/* default */.Z,{id:"theme.docs.paginator.next",description:"The label used to navigate to the next doc"},"Next"),isNext:true})));}
 
 /***/ }),
 
@@ -10781,46 +10251,6 @@ const latestVersionSuggestedDoc=latestDocSuggestion??getVersionMainDoc(latestVer
 
 /***/ }),
 
-/***/ 8765:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-
-// EXPORTS
-__webpack_require__.d(__webpack_exports__, {
-  Z: () => (/* binding */ EditThisPage)
-});
-
-// EXTERNAL MODULE: ./node_modules/react/index.js
-var react = __webpack_require__(7294);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/core/lib/client/exports/Translate.js + 1 modules
-var Translate = __webpack_require__(5999);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-common/lib/utils/ThemeClassNames.js
-var ThemeClassNames = __webpack_require__(5281);
-// EXTERNAL MODULE: ./node_modules/@babel/runtime/helpers/esm/extends.js
-var esm_extends = __webpack_require__(7462);
-// EXTERNAL MODULE: ./node_modules/clsx/dist/clsx.m.js
-var clsx_m = __webpack_require__(6010);
-// EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/Icon/Edit/styles.module.css
-var styles_module = __webpack_require__(1920);
-var styles_module_default = /*#__PURE__*/__webpack_require__.n(styles_module);
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/Icon/Edit/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function IconEdit({className,...restProps}){return/*#__PURE__*/react.createElement("svg",(0,esm_extends/* default */.Z)({fill:"currentColor",height:"20",width:"20",viewBox:"0 0 40 40",className:(0,clsx_m/* default */.Z)((styles_module_default()).iconEdit,className),"aria-hidden":"true"},restProps),/*#__PURE__*/react.createElement("g",null,/*#__PURE__*/react.createElement("path",{d:"m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"})));}
-;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/EditThisPage/index.js
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function EditThisPage({editUrl}){return/*#__PURE__*/react.createElement("a",{href:editUrl,target:"_blank",rel:"noreferrer noopener",className:ThemeClassNames/* ThemeClassNames */.k.common.editThisPage},/*#__PURE__*/react.createElement(IconEdit,null),/*#__PURE__*/react.createElement(Translate/* default */.Z,{id:"theme.common.editThisPage",description:"The link label to edit the current page"},"Edit this page"));}
-
-/***/ }),
-
 /***/ 6641:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
@@ -10828,7 +10258,7 @@ var styles_module_default = /*#__PURE__*/__webpack_require__.n(styles_module);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Z: () => (/* binding */ Heading)
 /* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(7462);
+/* harmony import */ var _workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(7462);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
 /* harmony import */ var clsx__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(6010);
 /* harmony import */ var _docusaurus_Translate__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5999);
@@ -10842,7 +10272,7 @@ var styles_module_default = /*#__PURE__*/__webpack_require__.n(styles_module);
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */function Heading({as:As,id,...props}){const{navbar:{hideOnScroll}}=(0,_docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_4__/* .useThemeConfig */ .L)();// H1 headings do not need an id because they don't appear in the TOC.
-if(As==='h1'||!id){return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(As,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .Z)({},props,{id:undefined}));}const anchorTitle=(0,_docusaurus_Translate__WEBPACK_IMPORTED_MODULE_1__/* .translate */ .I)({id:'theme.common.headingLinkTitle',message:'Direct link to {heading}',description:'Title for link to heading'},{heading:typeof props.children==='string'?props.children:id});return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(As,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .Z)({},props,{className:(0,clsx__WEBPACK_IMPORTED_MODULE_6__/* ["default"] */ .Z)('anchor',hideOnScroll?(_styles_module_css__WEBPACK_IMPORTED_MODULE_3___default().anchorWithHideOnScrollNavbar):(_styles_module_css__WEBPACK_IMPORTED_MODULE_3___default().anchorWithStickyNavbar),props.className),id:id}),props.children,/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_docusaurus_Link__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z,{className:"hash-link",to:`#${id}`,"aria-label":anchorTitle,title:anchorTitle},"\u200B"));}
+if(As==='h1'||!id){return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(As,(0,_workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .Z)({},props,{id:undefined}));}const anchorTitle=(0,_docusaurus_Translate__WEBPACK_IMPORTED_MODULE_1__/* .translate */ .I)({id:'theme.common.headingLinkTitle',message:'Direct link to {heading}',description:'Title for link to heading'},{heading:typeof props.children==='string'?props.children:id});return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(As,(0,_workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .Z)({},props,{className:(0,clsx__WEBPACK_IMPORTED_MODULE_6__/* ["default"] */ .Z)('anchor',hideOnScroll?(_styles_module_css__WEBPACK_IMPORTED_MODULE_3___default().anchorWithHideOnScrollNavbar):(_styles_module_css__WEBPACK_IMPORTED_MODULE_3___default().anchorWithStickyNavbar),props.className),id:id}),props.children,/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_docusaurus_Link__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z,{className:"hash-link",to:`#${id}`,"aria-label":anchorTitle,title:anchorTitle},"\u200B"));}
 
 /***/ }),
 
@@ -11465,7 +10895,7 @@ title,description}=props;(0,useKeyboardNavigation/* useKeyboardNavigation */.t)(
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Z: () => (/* binding */ Logo)
 /* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(7462);
+/* harmony import */ var _workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(7462);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
 /* harmony import */ var _docusaurus_Link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9038);
 /* harmony import */ var _docusaurus_useBaseUrl__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4996);
@@ -11483,7 +10913,7 @@ return imageClassName?/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElem
 // an empty string to mark the logo as decorative.
 const fallbackAlt=navbarTitle?'':title;// Use logo alt text if provided (including empty string),
 // and provide a sensible fallback otherwise.
-const alt=logo?.alt??fallbackAlt;return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_docusaurus_Link__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_6__/* ["default"] */ .Z)({to:logoLink},propsRest,logo?.target&&{target:logo.target}),logo&&/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(LogoThemedImage,{logo:logo,alt:alt,imageClassName:imageClassName}),navbarTitle!=null&&/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("b",{className:titleClassName},navbarTitle));}
+const alt=logo?.alt??fallbackAlt;return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_docusaurus_Link__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z,(0,_workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_6__/* ["default"] */ .Z)({to:logoLink},propsRest,logo?.target&&{target:logo.target}),logo&&/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(LogoThemedImage,{logo:logo,alt:alt,imageClassName:imageClassName}),navbarTitle!=null&&/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("b",{className:titleClassName},navbarTitle));}
 
 /***/ }),
 
@@ -12298,25 +11728,6 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 2244:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   Z: () => (/* binding */ PaginatorNavLink)
-/* harmony export */ });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var clsx__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6010);
-/* harmony import */ var _docusaurus_Link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9038);
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function PaginatorNavLink(props){const{permalink,title,subLabel,isNext}=props;return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_docusaurus_Link__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z,{className:(0,clsx__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)('pagination-nav__link',isNext?'pagination-nav__link--next':'pagination-nav__link--prev'),to:permalink},subLabel&&/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div",{className:"pagination-nav__sublabel"},subLabel),/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div",{className:"pagination-nav__label"},title));}
-
-/***/ }),
-
 /***/ 197:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
@@ -12349,7 +11760,7 @@ const language=locale;return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.crea
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Z: () => (/* binding */ TOC)
 /* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(7462);
+/* harmony import */ var _workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(7462);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
 /* harmony import */ var clsx__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6010);
 /* harmony import */ var _theme_TOCItems__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3743);
@@ -12362,7 +11773,7 @@ const language=locale;return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.crea
  * LICENSE file in the root directory of this source tree.
  */// Using a custom className
 // This prevents TOCInline/TOCCollapsible getting highlighted by mistake
-const LINK_CLASS_NAME='table-of-contents__link toc-highlight';const LINK_ACTIVE_CLASS_NAME='table-of-contents__link--active';function TOC({className,...props}){return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div",{className:(0,clsx__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z)((_styles_module_css__WEBPACK_IMPORTED_MODULE_2___default().tableOfContents),'thin-scrollbar',className)},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_theme_TOCItems__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_4__/* ["default"] */ .Z)({},props,{linkClassName:LINK_CLASS_NAME,linkActiveClassName:LINK_ACTIVE_CLASS_NAME})));}
+const LINK_CLASS_NAME='table-of-contents__link toc-highlight';const LINK_ACTIVE_CLASS_NAME='table-of-contents__link--active';function TOC({className,...props}){return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div",{className:(0,clsx__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z)((_styles_module_css__WEBPACK_IMPORTED_MODULE_2___default().tableOfContents),'thin-scrollbar',className)},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_theme_TOCItems__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z,(0,_workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_4__/* ["default"] */ .Z)({},props,{linkClassName:LINK_CLASS_NAME,linkActiveClassName:LINK_ACTIVE_CLASS_NAME})));}
 
 /***/ }),
 
@@ -12469,49 +11880,6 @@ function TOCItemTree({toc,className,linkClassName,isChild}){if(!toc.length){retu
 
 /***/ }),
 
-/***/ 1783:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   Z: () => (/* binding */ Tag)
-/* harmony export */ });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var clsx__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6010);
-/* harmony import */ var _docusaurus_Link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(9038);
-/* harmony import */ var _styles_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2198);
-/* harmony import */ var _styles_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__WEBPACK_IMPORTED_MODULE_2__);
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function Tag({permalink,label,count}){return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_docusaurus_Link__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z,{href:permalink,className:(0,clsx__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z)((_styles_module_css__WEBPACK_IMPORTED_MODULE_2___default().tag),count?(_styles_module_css__WEBPACK_IMPORTED_MODULE_2___default().tagWithCount):(_styles_module_css__WEBPACK_IMPORTED_MODULE_2___default().tagRegular))},label,count&&/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("span",null,count));}
-
-/***/ }),
-
-/***/ 9170:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   Z: () => (/* binding */ TagsListInline)
-/* harmony export */ });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var clsx__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6010);
-/* harmony import */ var _docusaurus_Translate__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5999);
-/* harmony import */ var _theme_Tag__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1783);
-/* harmony import */ var _styles_module_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(4211);
-/* harmony import */ var _styles_module_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_styles_module_css__WEBPACK_IMPORTED_MODULE_3__);
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */function TagsListInline({tags}){return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(react__WEBPACK_IMPORTED_MODULE_0__.Fragment,null,/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("b",null,/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_docusaurus_Translate__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z,{id:"theme.tags.tagsListLabel",description:"The label alongside a tag list"},"Tags:")),/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("ul",{className:(0,clsx__WEBPACK_IMPORTED_MODULE_4__/* ["default"] */ .Z)((_styles_module_css__WEBPACK_IMPORTED_MODULE_3___default().tags),'padding--none','margin-left--sm')},tags.map(({label,permalink:tagPermalink})=>/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li",{key:tagPermalink,className:(_styles_module_css__WEBPACK_IMPORTED_MODULE_3___default().tag)},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_theme_Tag__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z,{label:label,permalink:tagPermalink})))));}
-
-/***/ }),
-
 /***/ 9637:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
@@ -12519,7 +11887,7 @@ function TOCItemTree({toc,className,linkClassName,isChild}){if(!toc.length){retu
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Z: () => (/* binding */ ThemedImage)
 /* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(7462);
+/* harmony import */ var _workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(7462);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
 /* harmony import */ var clsx__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(6010);
 /* harmony import */ var _docusaurus_useIsBrowser__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2389);
@@ -12533,7 +11901,7 @@ function TOCItemTree({toc,className,linkClassName,isChild}){if(!toc.length){retu
  * LICENSE file in the root directory of this source tree.
  */function ThemedImage(props){const isBrowser=(0,_docusaurus_useIsBrowser__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z)();const{colorMode}=(0,_docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_3__/* .useColorMode */ .I)();const{sources,className,alt,...propsRest}=props;const clientThemes=colorMode==='dark'?['dark']:['light'];const renderedSourceNames=isBrowser?clientThemes:// We need to render both images on the server to avoid flash
 // See https://github.com/facebook/docusaurus/pull/3730
-['light','dark'];return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(react__WEBPACK_IMPORTED_MODULE_0__.Fragment,null,renderedSourceNames.map(sourceName=>/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("img",(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_4__/* ["default"] */ .Z)({key:sourceName,src:sources[sourceName],alt:alt,className:(0,clsx__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .Z)((_styles_module_css__WEBPACK_IMPORTED_MODULE_2___default().themedImage),(_styles_module_css__WEBPACK_IMPORTED_MODULE_2___default())[`themedImage--${sourceName}`],className)},propsRest))));}
+['light','dark'];return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(react__WEBPACK_IMPORTED_MODULE_0__.Fragment,null,renderedSourceNames.map(sourceName=>/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("img",(0,_workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_4__/* ["default"] */ .Z)({key:sourceName,src:sources[sourceName],alt:alt,className:(0,clsx__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .Z)((_styles_module_css__WEBPACK_IMPORTED_MODULE_2___default().themedImage),(_styles_module_css__WEBPACK_IMPORTED_MODULE_2___default())[`themedImage--${sourceName}`],className)},propsRest))));}
 
 /***/ }),
 
@@ -12545,7 +11913,7 @@ function TOCItemTree({toc,className,linkClassName,isChild}){if(!toc.length){retu
 /* harmony export */   u: () => (/* binding */ useCollapsible),
 /* harmony export */   z: () => (/* binding */ Collapsible)
 /* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(7462);
+/* harmony import */ var _workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(7462);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
 /* harmony import */ var _docusaurus_ExecutionEnvironment__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(412);
 /* harmony import */ var _utils_accessibilityUtils__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1442);
@@ -12573,7 +11941,7 @@ else{el.style.display='block';requestAnimationFrame(()=>{applyTransitionStyles()
 // "CollapsibleElementType" being a huge union
 ,{ref:collapsibleRef// Refs are contravariant, which is not expressible in TS
 ,style:disableSSRStyle?undefined:getSSRStyle(collapsed),onTransitionEnd:e=>{if(e.propertyName!=='height'){return;}applyCollapsedStyle(collapsibleRef.current,collapsed);onCollapseTransitionEnd?.(collapsed);},className:className},children);}function CollapsibleLazy({collapsed,...props}){const[mounted,setMounted]=(0,react__WEBPACK_IMPORTED_MODULE_0__.useState)(!collapsed);// Updated in effect so that first expansion transition can work
-const[lazyCollapsed,setLazyCollapsed]=(0,react__WEBPACK_IMPORTED_MODULE_0__.useState)(collapsed);(0,react__WEBPACK_IMPORTED_MODULE_0__.useLayoutEffect)(()=>{if(!collapsed){setMounted(true);}},[collapsed]);(0,react__WEBPACK_IMPORTED_MODULE_0__.useLayoutEffect)(()=>{if(mounted){setLazyCollapsed(collapsed);}},[mounted,collapsed]);return mounted?/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(CollapsibleBase,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z)({},props,{collapsed:lazyCollapsed})):null;}/**
+const[lazyCollapsed,setLazyCollapsed]=(0,react__WEBPACK_IMPORTED_MODULE_0__.useState)(collapsed);(0,react__WEBPACK_IMPORTED_MODULE_0__.useLayoutEffect)(()=>{if(!collapsed){setMounted(true);}},[collapsed]);(0,react__WEBPACK_IMPORTED_MODULE_0__.useLayoutEffect)(()=>{if(mounted){setLazyCollapsed(collapsed);}},[mounted,collapsed]);return mounted?/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(CollapsibleBase,(0,_workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z)({},props,{collapsed:lazyCollapsed})):null;}/**
  * A headless component providing smooth and uniform collapsing behavior. The
  * component will be invisible (zero height) when collapsed. Doesn't provide
  * interactivity by itself: collapse state is toggled through props.
@@ -12607,38 +11975,6 @@ false);// Update state after hydration
 // see https://github.com/facebook/docusaurus/issues/3338
 // cSpell:ignore annoucement
 if(viewedId==='annoucement-bar'){viewedId='announcement-bar';}const isNewAnnouncement=id!==viewedId;IdStorage.set(id);if(isNewAnnouncement){setDismissedInStorage(false);}if(isNewAnnouncement||!isDismissedInStorage()){setClosed(false);}},[announcementBar]);return (0,react__WEBPACK_IMPORTED_MODULE_0__.useMemo)(()=>({isActive:!!announcementBar&&!isClosed,close:handleClose}),[announcementBar,isClosed,handleClose]);}function AnnouncementBarProvider({children}){const value=useContextValue();return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(Context.Provider,{value:value},children);}function useAnnouncementBar(){const api=(0,react__WEBPACK_IMPORTED_MODULE_0__.useContext)(Context);if(!api){throw new _utils_reactUtils__WEBPACK_IMPORTED_MODULE_4__/* .ReactContextError */ .i6('AnnouncementBarProvider');}return api;}
-
-/***/ }),
-
-/***/ 9460:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   C: () => (/* binding */ useBlogPost),
-/* harmony export */   n: () => (/* binding */ BlogPostProvider)
-/* harmony export */ });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var _utils_reactUtils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(902);
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */const Context=/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createContext(null);/**
- * Note: we don't use `PropBlogPostContent` as context value on purpose. Metadata is
- * currently stored inside the MDX component, but we may want to change that in
- * the future.
- */function useContextValue({content,isBlogPostPage}){return (0,react__WEBPACK_IMPORTED_MODULE_0__.useMemo)(()=>({metadata:content.metadata,frontMatter:content.frontMatter,assets:content.assets,toc:content.toc,isBlogPostPage}),[content,isBlogPostPage]);}/**
- * This is a very thin layer around the `content` received from the MDX loader.
- * It provides metadata about the blog post to the children tree.
- */function BlogPostProvider({children,content,isBlogPostPage=false}){const contextValue=useContextValue({content,isBlogPostPage});return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(Context.Provider,{value:contextValue},children);}/**
- * Returns the data of the currently browsed blog post. Gives access to
- * front matter, metadata, TOC, etc.
- * When swizzling a low-level component (e.g. the "Edit this page" link)
- * and you need some extra metadata, you don't have to drill the props
- * all the way through the component tree: simply use this hook instead.
- */function useBlogPost(){const blogPost=(0,react__WEBPACK_IMPORTED_MODULE_0__.useContext)(Context);if(blogPost===null){throw new _utils_reactUtils__WEBPACK_IMPORTED_MODULE_1__/* .ReactContextError */ .i6('BlogPostProvider');}return blogPost;}
 
 /***/ }),
 
@@ -13475,51 +12811,6 @@ function createUrl({locale,fullyQualified}){return`${fullyQualified?url:''}${get
 
 /***/ }),
 
-/***/ 8824:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   c: () => (/* binding */ usePluralForm)
-/* harmony export */ });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var _docusaurus_useDocusaurusContext__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2263);
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */// We want to ensurer a stable plural form order in all cases
-// It is more convenient and natural to handle "small values" first
-// See https://twitter.com/sebastienlorber/status/1366820663261077510
-const OrderedPluralForms=['zero','one','two','few','many','other'];function sortPluralForms(pluralForms){return OrderedPluralForms.filter(pf=>pluralForms.includes(pf));}// Hardcoded english/fallback implementation
-const EnglishPluralForms={locale:'en',pluralForms:sortPluralForms(['one','other']),select:count=>count===1?'one':'other'};function createLocalePluralForms(locale){const pluralRules=new Intl.PluralRules(locale);return{locale,pluralForms:sortPluralForms(pluralRules.resolvedOptions().pluralCategories),select:count=>pluralRules.select(count)};}/**
- * Poor man's `PluralSelector` implementation, using an English fallback. We
- * want a lightweight, future-proof and good-enough solution. We don't want a
- * perfect and heavy solution.
- *
- * Docusaurus classic theme has only 2 deeply nested labels requiring complex
- * plural rules. We don't want to use `Intl` + `PluralRules` polyfills + full
- * ICU syntax (react-intl) just for that.
- *
- * Notes:
- * - 2021: 92+% Browsers support `Intl.PluralRules`, and support will increase
- * in the future
- * - NodeJS >= 13 has full ICU support by default
- * - In case of "mismatch" between SSR and Browser ICU support, React keeps
- * working!
- */function useLocalePluralForms(){const{i18n:{currentLocale}}=(0,_docusaurus_useDocusaurusContext__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z)();return (0,react__WEBPACK_IMPORTED_MODULE_0__.useMemo)(()=>{try{return createLocalePluralForms(currentLocale);}catch(err){console.error(`Failed to use Intl.PluralRules for locale "${currentLocale}".
-Docusaurus will fallback to the default (English) implementation.
-Error: ${err.message}
-`);return EnglishPluralForms;}},[currentLocale]);}function selectPluralMessage(pluralMessages,count,localePluralForms){const separator='|';const parts=pluralMessages.split(separator);if(parts.length===1){return parts[0];}if(parts.length>localePluralForms.pluralForms.length){console.error(`For locale=${localePluralForms.locale}, a maximum of ${localePluralForms.pluralForms.length} plural forms are expected (${localePluralForms.pluralForms.join(',')}), but the message contains ${parts.length}: ${pluralMessages}`);}const pluralForm=localePluralForms.select(count);const pluralFormIndex=localePluralForms.pluralForms.indexOf(pluralForm);// In case of not enough plural form messages, we take the last one (other)
-// instead of returning undefined
-return parts[Math.min(pluralFormIndex,parts.length-1)];}/**
- * Reads the current locale and returns an interface very similar to
- * `Intl.PluralRules`.
- */function usePluralForm(){const localePluralForm=useLocalePluralForms();return{selectMessage:(count,pluralMessages)=>selectPluralMessage(pluralMessages,count,localePluralForm)};}
-
-/***/ }),
-
 /***/ 6668:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
@@ -13634,10 +12925,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   metadata: () => (/* binding */ metadata),
 /* harmony export */   toc: () => (/* binding */ toc)
 /* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
+/* harmony import */ var _workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
 /* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
-/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={sidebar_position:2};const contentTitle='C++';const metadata={"unversionedId":"definitions/cpp","id":"definitions/cpp","title":"C++","description":"C++ is a versatile, statically-typed programming language that combines high-level abstractions with low-level system access. It was developed as an extension of the C programming language, adding object-oriented features and other modern concepts. C++ is widely used in a variety of applications, from systems programming to game development and high-performance software.","source":"@site/docs/definitions/cpp.md","sourceDirName":"definitions","slug":"/definitions/cpp","permalink":"/iCons/iCons4/docs/definitions/cpp","draft":false,"tags":[],"version":"current","sidebarPosition":2,"frontMatter":{"sidebar_position":2},"sidebar":"tutorialSidebar","previous":{"title":"RUST","permalink":"/iCons/iCons4/docs/definitions/rust"},"next":{"title":"x86 Architecture","permalink":"/iCons/iCons4/docs/definitions/x86"}};const assets={};const toc=[{value:'Key Features',id:'key-features',level:2},{value:'1. Object-Oriented Programming',id:'1-object-oriented-programming',level:3},{value:'2. Templates',id:'2-templates',level:3},{value:'3. Standard Template Library (STL)',id:'3-standard-template-library-stl',level:3},{value:'4. Low-Level Memory Control',id:'4-low-level-memory-control',level:3},{value:'5. Multiple Inheritance',id:'5-multiple-inheritance',level:3},{value:'6. Operator Overloading',id:'6-operator-overloading',level:3},{value:'Syntax',id:'syntax',level:2},{value:'Variables and Data Types',id:'variables-and-data-types',level:3}];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"c"},`C++`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`C++ is a versatile, statically-typed programming language that combines high-level abstractions with low-level system access. It was developed as an extension of the C programming language, adding object-oriented features and other modern concepts. C++ is widely used in a variety of applications, from systems programming to game development and high-performance software.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This document provides a concise overview of C++, including its key features, syntax, memory management, and unique aspects that make it a powerful and popular choice among developers.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"key-features"},`Key Features`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"1-object-oriented-programming"},`1. Object-Oriented Programming`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`C++ supports object-oriented programming (OOP) concepts such as classes, inheritance, polymorphism, and encapsulation. These features allow for modular and organized code, making it easier to manage complex projects.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"2-templates"},`2. Templates`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Templates in C++ provide a powerful way to write generic code. They allow you to define functions and classes that can work with various data types without sacrificing performance. This is particularly useful for creating data structures and algorithms.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"3-standard-template-library-stl"},`3. Standard Template Library (STL)`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The STL is a collection of template classes and functions in C++. It provides a wide range of data structures (like vectors, lists, and maps) and algorithms (sorting, searching, etc.) that can be used efficiently in your programs.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"4-low-level-memory-control"},`4. Low-Level Memory Control`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`C++ offers direct memory manipulation through pointers and manual memory allocation and deallocation using `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`new`),` and `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`delete`),`. This level of control is essential for systems programming and creating custom data structures.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"5-multiple-inheritance"},`5. Multiple Inheritance`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`C++ allows a class to inherit from multiple base classes. While this feature can be powerful, it should be used carefully to prevent ambiguity and conflicts in your code.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"6-operator-overloading"},`6. Operator Overloading`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`C++ lets you overload operators for user-defined types, allowing you to create custom behaviors for operators like `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`+`),`, `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`-`),`, and `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`*`),`.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"syntax"},`Syntax`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`C++ syntax shares similarities with C, but with additional features for OOP and generic programming:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"variables-and-data-types"},`Variables and Data Types`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`C++ provides a wide range of data types, from the fundamental types like `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`int`),` and `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`double`),` to more complex user-defined classes. Variables can be declared as follows:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre","className":"language-cpp"},`int x = 42;               // Integer variable
+/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={sidebar_position:2};const contentTitle='C++';const metadata={"unversionedId":"definitions/cpp","id":"definitions/cpp","title":"C++","description":"C++ is a versatile, statically-typed programming language that combines high-level abstractions with low-level system access. It was developed as an extension of the C programming language, adding object-oriented features and other modern concepts. C++ is widely used in a variety of applications, from systems programming to game development and high-performance software.","source":"@site/docs/definitions/cpp.md","sourceDirName":"definitions","slug":"/definitions/cpp","permalink":"/iCons/iCons4/docs/definitions/cpp","draft":false,"tags":[],"version":"current","sidebarPosition":2,"frontMatter":{"sidebar_position":2},"sidebar":"tutorialSidebar","previous":{"title":"RUST","permalink":"/iCons/iCons4/docs/definitions/rust"},"next":{"title":"x86 Architecture","permalink":"/iCons/iCons4/docs/definitions/x86"}};const assets={};const toc=[{value:'Key Features',id:'key-features',level:2},{value:'1. Object-Oriented Programming',id:'1-object-oriented-programming',level:3},{value:'2. Templates',id:'2-templates',level:3},{value:'3. Standard Template Library (STL)',id:'3-standard-template-library-stl',level:3},{value:'4. Low-Level Memory Control',id:'4-low-level-memory-control',level:3},{value:'5. Multiple Inheritance',id:'5-multiple-inheritance',level:3},{value:'6. Operator Overloading',id:'6-operator-overloading',level:3},{value:'Syntax',id:'syntax',level:2},{value:'Variables and Data Types',id:'variables-and-data-types',level:3}];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"c"},`C++`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`C++ is a versatile, statically-typed programming language that combines high-level abstractions with low-level system access. It was developed as an extension of the C programming language, adding object-oriented features and other modern concepts. C++ is widely used in a variety of applications, from systems programming to game development and high-performance software.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This document provides a concise overview of C++, including its key features, syntax, memory management, and unique aspects that make it a powerful and popular choice among developers.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"key-features"},`Key Features`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"1-object-oriented-programming"},`1. Object-Oriented Programming`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`C++ supports object-oriented programming (OOP) concepts such as classes, inheritance, polymorphism, and encapsulation. These features allow for modular and organized code, making it easier to manage complex projects.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"2-templates"},`2. Templates`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Templates in C++ provide a powerful way to write generic code. They allow you to define functions and classes that can work with various data types without sacrificing performance. This is particularly useful for creating data structures and algorithms.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"3-standard-template-library-stl"},`3. Standard Template Library (STL)`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The STL is a collection of template classes and functions in C++. It provides a wide range of data structures (like vectors, lists, and maps) and algorithms (sorting, searching, etc.) that can be used efficiently in your programs.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"4-low-level-memory-control"},`4. Low-Level Memory Control`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`C++ offers direct memory manipulation through pointers and manual memory allocation and deallocation using `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`new`),` and `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`delete`),`. This level of control is essential for systems programming and creating custom data structures.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"5-multiple-inheritance"},`5. Multiple Inheritance`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`C++ allows a class to inherit from multiple base classes. While this feature can be powerful, it should be used carefully to prevent ambiguity and conflicts in your code.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"6-operator-overloading"},`6. Operator Overloading`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`C++ lets you overload operators for user-defined types, allowing you to create custom behaviors for operators like `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`+`),`, `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`-`),`, and `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`*`),`.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"syntax"},`Syntax`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`C++ syntax shares similarities with C, but with additional features for OOP and generic programming:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"variables-and-data-types"},`Variables and Data Types`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`C++ provides a wide range of data types, from the fundamental types like `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`int`),` and `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`double`),` to more complex user-defined classes. Variables can be declared as follows:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre","className":"language-cpp"},`int x = 42;               // Integer variable
 double pi = 3.14159265;   // Double-precision floating-point variable
 string name = "John";     // String variable
 
@@ -13676,10 +12967,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   metadata: () => (/* binding */ metadata),
 /* harmony export */   toc: () => (/* binding */ toc)
 /* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
+/* harmony import */ var _workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
 /* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
-/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={sidebar_position:5};const contentTitle='LLVM (Low-Level Virtual Machine)';const metadata={"unversionedId":"definitions/llvm","id":"definitions/llvm","title":"LLVM (Low-Level Virtual Machine)","description":"LLVM, short for Low-Level Virtual Machine, is a versatile and powerful open-source compiler infrastructure. It's designed to optimize and compile high-level programming languages like Rust and C++ into efficient machine code that can run on various hardware platforms. LLVM is instrumental in modern software development, enabling performance optimization and portability.","source":"@site/docs/definitions/llvm.md","sourceDirName":"definitions","slug":"/definitions/llvm","permalink":"/iCons/iCons4/docs/definitions/llvm","draft":false,"tags":[],"version":"current","sidebarPosition":5,"frontMatter":{"sidebar_position":5},"sidebar":"tutorialSidebar","previous":{"title":"x86 Assembly Language","permalink":"/iCons/iCons4/docs/definitions/x86asm"},"next":{"title":"Thesis Milestones","permalink":"/iCons/iCons4/docs/category/thesis-milestones"}};const assets={};const toc=[];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"llvm-low-level-virtual-machine"},`LLVM (Low-Level Virtual Machine)`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`LLVM, short for Low-Level Virtual Machine, is a versatile and powerful open-source compiler infrastructure. It's designed to optimize and compile high-level programming languages like Rust and C++ into efficient machine code that can run on various hardware platforms. LLVM is instrumental in modern software development, enabling performance optimization and portability.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`LLVM's compilation process typically involves several stages:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ol",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ol"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"li"},`Frontend`),`: The frontend is responsible for taking source code written in high-level programming languages like Rust and C++ and parsing it into an intermediate representation (IR). This IR is a low-level, platform-independent code that serves as the common language for further processing.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Rust/C++ Source Code -> Intermediate Representation (IR)`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ol",{"start":2},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ol"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"li"},`Optimizer`),`: LLVM includes a powerful optimizer that takes the IR and applies various optimization techniques to improve code performance. These optimizations may include inlining functions, eliminating dead code, and reordering instructions for better pipelining.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Intermediate Representation (IR) -> Optimized Intermediate Representation (IR)`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ol",{"start":3},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ol"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"li"},`Backend`),`: The backend is responsible for translating the optimized IR into machine code for a specific target architecture, like x86, ARM, or MIPS.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Optimized Intermediate Representation (IR) -> Target-Specific Machine Code`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ol",{"start":4},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ol"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"li"},`Linker`),`: If necessary, LLVM can invoke a linker to combine multiple object files into a single executable. The linker resolves external dependencies and generates the final binary.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Object Files -> Executable Binary`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`LLVM's modular design allows it to support multiple high-level programming languages, making it a preferred choice for a wide range of compilers, including Rust and Clang (for C and C++).`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Here is a complete flowchart of the LLVM Compilation architecture, wherein multiple languages feed their intermediate output to LLVM, and LLVM comes out with uniform Assembly code, which further gets parsed into an executable (program)`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"LLVM Flowchart",src:(__webpack_require__(4353)/* ["default"] */ .Z),width:"558",height:"206"})));};MDXContent.isMDXComponent=true;
+/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={sidebar_position:5};const contentTitle='LLVM (Low-Level Virtual Machine)';const metadata={"unversionedId":"definitions/llvm","id":"definitions/llvm","title":"LLVM (Low-Level Virtual Machine)","description":"LLVM, short for Low-Level Virtual Machine, is a versatile and powerful open-source compiler infrastructure. It's designed to optimize and compile high-level programming languages like Rust and C++ into efficient machine code that can run on various hardware platforms. LLVM is instrumental in modern software development, enabling performance optimization and portability.","source":"@site/docs/definitions/llvm.md","sourceDirName":"definitions","slug":"/definitions/llvm","permalink":"/iCons/iCons4/docs/definitions/llvm","draft":false,"tags":[],"version":"current","sidebarPosition":5,"frontMatter":{"sidebar_position":5},"sidebar":"tutorialSidebar","previous":{"title":"x86 Assembly Language","permalink":"/iCons/iCons4/docs/definitions/x86asm"},"next":{"title":"Thesis Milestones","permalink":"/iCons/iCons4/docs/category/thesis-milestones"}};const assets={};const toc=[];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"llvm-low-level-virtual-machine"},`LLVM (Low-Level Virtual Machine)`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`LLVM, short for Low-Level Virtual Machine, is a versatile and powerful open-source compiler infrastructure. It's designed to optimize and compile high-level programming languages like Rust and C++ into efficient machine code that can run on various hardware platforms. LLVM is instrumental in modern software development, enabling performance optimization and portability.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`LLVM's compilation process typically involves several stages:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ol",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ol"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"li"},`Frontend`),`: The frontend is responsible for taking source code written in high-level programming languages like Rust and C++ and parsing it into an intermediate representation (IR). This IR is a low-level, platform-independent code that serves as the common language for further processing.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Rust/C++ Source Code -> Intermediate Representation (IR)`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ol",{"start":2},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ol"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"li"},`Optimizer`),`: LLVM includes a powerful optimizer that takes the IR and applies various optimization techniques to improve code performance. These optimizations may include inlining functions, eliminating dead code, and reordering instructions for better pipelining.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Intermediate Representation (IR) -> Optimized Intermediate Representation (IR)`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ol",{"start":3},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ol"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"li"},`Backend`),`: The backend is responsible for translating the optimized IR into machine code for a specific target architecture, like x86, ARM, or MIPS.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Optimized Intermediate Representation (IR) -> Target-Specific Machine Code`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ol",{"start":4},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ol"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"li"},`Linker`),`: If necessary, LLVM can invoke a linker to combine multiple object files into a single executable. The linker resolves external dependencies and generates the final binary.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Object Files -> Executable Binary`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`LLVM's modular design allows it to support multiple high-level programming languages, making it a preferred choice for a wide range of compilers, including Rust and Clang (for C and C++).`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Here is a complete flowchart of the LLVM Compilation architecture, wherein multiple languages feed their intermediate output to LLVM, and LLVM comes out with uniform Assembly code, which further gets parsed into an executable (program)`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"LLVM Flowchart",src:(__webpack_require__(8304)/* ["default"] */ .Z),width:"558",height:"206"})));};MDXContent.isMDXComponent=true;
 
 /***/ }),
 
@@ -13696,10 +12987,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   metadata: () => (/* binding */ metadata),
 /* harmony export */   toc: () => (/* binding */ toc)
 /* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
+/* harmony import */ var _workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
 /* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
-/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={sidebar_position:1};const contentTitle='RUST';const metadata={"unversionedId":"definitions/rust","id":"definitions/rust","title":"RUST","description":"Rust is a statically-typed systems programming language known for its emphasis on memory safety, zero-cost abstractions, and high performance. It was first developed by Mozilla and released in 2010. Rust's design goals include providing a safe and concurrent alternative to C and C++, while maintaining low-level control over hardware and system resources.","source":"@site/docs/definitions/rust.md","sourceDirName":"definitions","slug":"/definitions/rust","permalink":"/iCons/iCons4/docs/definitions/rust","draft":false,"tags":[],"version":"current","sidebarPosition":1,"frontMatter":{"sidebar_position":1},"sidebar":"tutorialSidebar","previous":{"title":"Definitions","permalink":"/iCons/iCons4/docs/category/definitions"},"next":{"title":"C++","permalink":"/iCons/iCons4/docs/definitions/cpp"}};const assets={};const toc=[{value:'Key Features',id:'key-features',level:2},{value:'1. Memory Safety',id:'1-memory-safety',level:3},{value:'2. Concurrency',id:'2-concurrency',level:3},{value:'3. Zero-cost Abstractions',id:'3-zero-cost-abstractions',level:3},{value:'4. Ownership System',id:'4-ownership-system',level:3},{value:'5. Pattern Matching',id:'5-pattern-matching',level:3},{value:'6. Cargo',id:'6-cargo',level:3},{value:'Syntax',id:'syntax',level:2},{value:'Variables and Mutability',id:'variables-and-mutability',level:3},{value:'Functions',id:'functions',level:2}];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"rust"},`RUST`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Rust is a statically-typed systems programming language known for its emphasis on memory safety, zero-cost abstractions, and high performance. It was first developed by Mozilla and released in 2010. Rust's design goals include providing a safe and concurrent alternative to C and C++, while maintaining low-level control over hardware and system resources.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This document provides an extensive overview of Rust, covering its core features, syntax, memory management, and unique aspects that set it apart from other programming languages.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"key-features"},`Key Features`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"1-memory-safety"},`1. Memory Safety`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Rust's most significant feature is its focus on memory safety. It eliminates common programming errors like null pointer dereferences and buffer overflows through its ownership system, borrow checker, and lifetime annotations. These mechanisms ensure that memory-related bugs are caught at compile time, rather than causing runtime errors.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"2-concurrency"},`2. Concurrency`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Rust has built-in support for concurrent programming, making it easier to write safe and efficient concurrent code. The `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`async`),` and `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`await`),` keywords allow for asynchronous programming, while Rust's ownership system ensures that data races and deadlocks are prevented.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"3-zero-cost-abstractions"},`3. Zero-cost Abstractions`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Rust provides high-level abstractions without sacrificing performance. The "zero-cost" philosophy means that abstractions like generics, traits, and pattern matching don't introduce runtime overhead.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"4-ownership-system"},`4. Ownership System`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Rust's ownership system is the foundation of its memory safety guarantees. It revolves around three key concepts:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ul",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",{parentName:"li"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`Ownership`),`: Each value in Rust has a single "owner" variable, which is responsible for cleaning up the value when it's no longer needed.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",{parentName:"li"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`Borrowing`),`: Multiple references (either mutable or immutable) to a value can exist simultaneously, but they must follow strict rules to prevent data races.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",{parentName:"li"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`Lifetimes`),`: Lifetimes annotate how long references are valid, ensuring that references don't outlive the data they point to.`))),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"5-pattern-matching"},`5. Pattern Matching`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Rust's pattern matching allows concise and expressive code for handling complex data structures. It's used extensively in control flow and destructuring.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"6-cargo"},`6. Cargo`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Cargo is Rust's package manager and build tool. It simplifies dependency management, building, testing, and publishing Rust projects. It also enforces conventions, making it easy to create and share libraries.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"syntax"},`Syntax`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Rust's syntax is similar to C and C++, but with some distinctive features:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"variables-and-mutability"},`Variables and Mutability`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`In Rust, variables are immutable by default. To make a variable mutable, you must explicitly declare it as such using the `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`mut`),` keyword:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre","className":"language-rs"},`let x = 42;         // Immutable variable
+/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={sidebar_position:1};const contentTitle='RUST';const metadata={"unversionedId":"definitions/rust","id":"definitions/rust","title":"RUST","description":"Rust is a statically-typed systems programming language known for its emphasis on memory safety, zero-cost abstractions, and high performance. It was first developed by Mozilla and released in 2010. Rust's design goals include providing a safe and concurrent alternative to C and C++, while maintaining low-level control over hardware and system resources.","source":"@site/docs/definitions/rust.md","sourceDirName":"definitions","slug":"/definitions/rust","permalink":"/iCons/iCons4/docs/definitions/rust","draft":false,"tags":[],"version":"current","sidebarPosition":1,"frontMatter":{"sidebar_position":1},"sidebar":"tutorialSidebar","previous":{"title":"Definitions","permalink":"/iCons/iCons4/docs/category/definitions"},"next":{"title":"C++","permalink":"/iCons/iCons4/docs/definitions/cpp"}};const assets={};const toc=[{value:'Key Features',id:'key-features',level:2},{value:'1. Memory Safety',id:'1-memory-safety',level:3},{value:'2. Concurrency',id:'2-concurrency',level:3},{value:'3. Zero-cost Abstractions',id:'3-zero-cost-abstractions',level:3},{value:'4. Ownership System',id:'4-ownership-system',level:3},{value:'5. Pattern Matching',id:'5-pattern-matching',level:3},{value:'6. Cargo',id:'6-cargo',level:3},{value:'Syntax',id:'syntax',level:2},{value:'Variables and Mutability',id:'variables-and-mutability',level:3},{value:'Functions',id:'functions',level:2}];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"rust"},`RUST`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Rust is a statically-typed systems programming language known for its emphasis on memory safety, zero-cost abstractions, and high performance. It was first developed by Mozilla and released in 2010. Rust's design goals include providing a safe and concurrent alternative to C and C++, while maintaining low-level control over hardware and system resources.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This document provides an extensive overview of Rust, covering its core features, syntax, memory management, and unique aspects that set it apart from other programming languages.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"key-features"},`Key Features`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"1-memory-safety"},`1. Memory Safety`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Rust's most significant feature is its focus on memory safety. It eliminates common programming errors like null pointer dereferences and buffer overflows through its ownership system, borrow checker, and lifetime annotations. These mechanisms ensure that memory-related bugs are caught at compile time, rather than causing runtime errors.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"2-concurrency"},`2. Concurrency`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Rust has built-in support for concurrent programming, making it easier to write safe and efficient concurrent code. The `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`async`),` and `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`await`),` keywords allow for asynchronous programming, while Rust's ownership system ensures that data races and deadlocks are prevented.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"3-zero-cost-abstractions"},`3. Zero-cost Abstractions`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Rust provides high-level abstractions without sacrificing performance. The "zero-cost" philosophy means that abstractions like generics, traits, and pattern matching don't introduce runtime overhead.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"4-ownership-system"},`4. Ownership System`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Rust's ownership system is the foundation of its memory safety guarantees. It revolves around three key concepts:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ul",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",{parentName:"li"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`Ownership`),`: Each value in Rust has a single "owner" variable, which is responsible for cleaning up the value when it's no longer needed.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",{parentName:"li"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`Borrowing`),`: Multiple references (either mutable or immutable) to a value can exist simultaneously, but they must follow strict rules to prevent data races.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",{parentName:"li"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`Lifetimes`),`: Lifetimes annotate how long references are valid, ensuring that references don't outlive the data they point to.`))),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"5-pattern-matching"},`5. Pattern Matching`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Rust's pattern matching allows concise and expressive code for handling complex data structures. It's used extensively in control flow and destructuring.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"6-cargo"},`6. Cargo`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Cargo is Rust's package manager and build tool. It simplifies dependency management, building, testing, and publishing Rust projects. It also enforces conventions, making it easy to create and share libraries.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"syntax"},`Syntax`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Rust's syntax is similar to C and C++, but with some distinctive features:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"variables-and-mutability"},`Variables and Mutability`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`In Rust, variables are immutable by default. To make a variable mutable, you must explicitly declare it as such using the `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`mut`),` keyword:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre","className":"language-rs"},`let x = 42;         // Immutable variable
 let mut y = 42;     // Mutable variable
 fn add(a: i32, b: i32) -> i32 {
     a + b
@@ -13734,10 +13025,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   metadata: () => (/* binding */ metadata),
 /* harmony export */   toc: () => (/* binding */ toc)
 /* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
+/* harmony import */ var _workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
 /* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
-/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={sidebar_position:3};const contentTitle='x86 Architecture';const metadata={"unversionedId":"definitions/x86","id":"definitions/x86","title":"x86 Architecture","description":"x86 is a widely used computer architecture that encompasses a family of instruction set architectures based on the Intel 8086 CPU. It has evolved over the years and includes several generations, such as the 80286, 80386, 80486, and the more recent x86-64 (also known as AMD64) architecture. x86 is the foundation of the majority of personal computers and servers, running operating systems like Windows and Linux.","source":"@site/docs/definitions/x86.md","sourceDirName":"definitions","slug":"/definitions/x86","permalink":"/iCons/iCons4/docs/definitions/x86","draft":false,"tags":[],"version":"current","sidebarPosition":3,"frontMatter":{"sidebar_position":3},"sidebar":"tutorialSidebar","previous":{"title":"C++","permalink":"/iCons/iCons4/docs/definitions/cpp"},"next":{"title":"x86 Assembly Language","permalink":"/iCons/iCons4/docs/definitions/x86asm"}};const assets={};const toc=[{value:'History',id:'history',level:2},{value:'Key Features',id:'key-features',level:2},{value:'1. CISC Architecture',id:'1-cisc-architecture',level:3},{value:'2. Segmentation',id:'2-segmentation',level:3},{value:'3. Registers',id:'3-registers',level:3},{value:'4. Stack',id:'4-stack',level:3},{value:'5. Memory Addressing Modes',id:'5-memory-addressing-modes',level:3},{value:'6. Protected Mode',id:'6-protected-mode',level:3},{value:'7. x86-64 (AMD64)',id:'7-x86-64-amd64',level:3},{value:'Components',id:'components',level:2},{value:'CPU',id:'cpu',level:3},{value:'Memory',id:'memory',level:3},{value:'Input/Output',id:'inputoutput',level:3},{value:'Interrupts',id:'interrupts',level:3},{value:'Coprocessors',id:'coprocessors',level:3}];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"x86-architecture"},`x86 Architecture`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`x86 is a widely used computer architecture that encompasses a family of instruction set architectures based on the Intel 8086 CPU. It has evolved over the years and includes several generations, such as the 80286, 80386, 80486, and the more recent x86-64 (also known as AMD64) architecture. x86 is the foundation of the majority of personal computers and servers, running operating systems like Windows and Linux.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This document provides a brief overview of the fundamental concepts of x86 architecture, including its history, key features, and components.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"history"},`History`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ul",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",{parentName:"li"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`8086`),`: Introduced in 1978, the Intel 8086 was the first x86 processor, using a 16-bit instruction set and a segmented memory model.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",{parentName:"li"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`80286 (286)`),`: Released in 1982, it was the first x86 chip to support protected mode, allowing for memory protection and multitasking.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",{parentName:"li"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`80386 (386)`),`: Introduced in 1985, it brought 32-bit addressing, virtual memory, and support for multitasking.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",{parentName:"li"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`80486 (486)`),`: Released in 1989, it added an on-chip cache and introduced the concept of pipelining for improved performance.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",{parentName:"li"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`x86-64 (AMD64)`),`: Launched in 2003 by AMD, it extended the architecture to 64-bit, allowing for larger memory addressing and improved performance.`))),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"key-features"},`Key Features`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"1-cisc-architecture"},`1. CISC Architecture`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`x86 follows a Complex Instruction Set Computer (CISC) architecture. This means that it supports a large and diverse set of instructions, making it capable of performing complex operations in a single instruction.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"2-segmentation"},`2. Segmentation`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`x86 uses a segmented memory model where the physical memory is divided into segments. Each segment has a base address and a size, allowing for memory protection.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"3-registers"},`3. Registers`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`x86 processors have several general-purpose registers (like EAX, EBX, ECX, EDX) and segment registers (CS, DS, SS, ES, FS, GS) that play various roles in executing instructions.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"4-stack"},`4. Stack`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The x86 architecture uses a stack for function calls and data storage. The stack pointer (ESP) keeps track of the top of the stack, and operations like push and pop are used for managing the stack.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"5-memory-addressing-modes"},`5. Memory Addressing Modes`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`x86 supports various memory addressing modes, enabling efficient access to memory. Modes include direct, register-indirect, immediate, and indexed addressing.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"6-protected-mode"},`6. Protected Mode`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`x86 processors can operate in protected mode, which provides memory protection and multitasking capabilities. This is essential for modern operating systems.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"7-x86-64-amd64"},`7. x86-64 (AMD64)`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The x86-64 architecture extends the 32-bit x86 architecture to 64 bits, allowing for larger memory addressing, more registers, and improved performance. It remains backward compatible with 32-bit x86 code.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"components"},`Components`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"cpu"},`CPU`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The central processing unit (CPU) is the core of the x86 architecture. It executes instructions, manages registers, and controls the flow of data within the system.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"memory"},`Memory`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Memory in the x86 architecture is divided into segments, each with its base address and size. The architecture supports both physical and virtual memory.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"inputoutput"},`Input/Output`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The Input/Output (I/O) subsystem allows the CPU to communicate with external devices, including storage devices, keyboards, and displays.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"interrupts"},`Interrupts`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Interrupts are essential for handling asynchronous events. x86 processors support a variety of interrupt types, including hardware and software interrupts.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"coprocessors"},`Coprocessors`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`x86 processors often include coprocessors like the Floating-Point Unit (FPU) for handling floating-point arithmetic and the MMX and SSE units for multimedia instructions.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This is a high-level overview of the x86 architecture, which forms the foundation of many modern computing systems. Understanding its key features and components is crucial for anyone working with low-level programming or system development.`));};MDXContent.isMDXComponent=true;
+/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={sidebar_position:3};const contentTitle='x86 Architecture';const metadata={"unversionedId":"definitions/x86","id":"definitions/x86","title":"x86 Architecture","description":"x86 is a widely used computer architecture that encompasses a family of instruction set architectures based on the Intel 8086 CPU. It has evolved over the years and includes several generations, such as the 80286, 80386, 80486, and the more recent x86-64 (also known as AMD64) architecture. x86 is the foundation of the majority of personal computers and servers, running operating systems like Windows and Linux.","source":"@site/docs/definitions/x86.md","sourceDirName":"definitions","slug":"/definitions/x86","permalink":"/iCons/iCons4/docs/definitions/x86","draft":false,"tags":[],"version":"current","sidebarPosition":3,"frontMatter":{"sidebar_position":3},"sidebar":"tutorialSidebar","previous":{"title":"C++","permalink":"/iCons/iCons4/docs/definitions/cpp"},"next":{"title":"x86 Assembly Language","permalink":"/iCons/iCons4/docs/definitions/x86asm"}};const assets={};const toc=[{value:'History',id:'history',level:2},{value:'Key Features',id:'key-features',level:2},{value:'1. CISC Architecture',id:'1-cisc-architecture',level:3},{value:'2. Segmentation',id:'2-segmentation',level:3},{value:'3. Registers',id:'3-registers',level:3},{value:'4. Stack',id:'4-stack',level:3},{value:'5. Memory Addressing Modes',id:'5-memory-addressing-modes',level:3},{value:'6. Protected Mode',id:'6-protected-mode',level:3},{value:'7. x86-64 (AMD64)',id:'7-x86-64-amd64',level:3},{value:'Components',id:'components',level:2},{value:'CPU',id:'cpu',level:3},{value:'Memory',id:'memory',level:3},{value:'Input/Output',id:'inputoutput',level:3},{value:'Interrupts',id:'interrupts',level:3},{value:'Coprocessors',id:'coprocessors',level:3}];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"x86-architecture"},`x86 Architecture`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`x86 is a widely used computer architecture that encompasses a family of instruction set architectures based on the Intel 8086 CPU. It has evolved over the years and includes several generations, such as the 80286, 80386, 80486, and the more recent x86-64 (also known as AMD64) architecture. x86 is the foundation of the majority of personal computers and servers, running operating systems like Windows and Linux.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This document provides a brief overview of the fundamental concepts of x86 architecture, including its history, key features, and components.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"history"},`History`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ul",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",{parentName:"li"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`8086`),`: Introduced in 1978, the Intel 8086 was the first x86 processor, using a 16-bit instruction set and a segmented memory model.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",{parentName:"li"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`80286 (286)`),`: Released in 1982, it was the first x86 chip to support protected mode, allowing for memory protection and multitasking.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",{parentName:"li"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`80386 (386)`),`: Introduced in 1985, it brought 32-bit addressing, virtual memory, and support for multitasking.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",{parentName:"li"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`80486 (486)`),`: Released in 1989, it added an on-chip cache and introduced the concept of pipelining for improved performance.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",{parentName:"li"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`x86-64 (AMD64)`),`: Launched in 2003 by AMD, it extended the architecture to 64-bit, allowing for larger memory addressing and improved performance.`))),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"key-features"},`Key Features`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"1-cisc-architecture"},`1. CISC Architecture`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`x86 follows a Complex Instruction Set Computer (CISC) architecture. This means that it supports a large and diverse set of instructions, making it capable of performing complex operations in a single instruction.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"2-segmentation"},`2. Segmentation`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`x86 uses a segmented memory model where the physical memory is divided into segments. Each segment has a base address and a size, allowing for memory protection.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"3-registers"},`3. Registers`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`x86 processors have several general-purpose registers (like EAX, EBX, ECX, EDX) and segment registers (CS, DS, SS, ES, FS, GS) that play various roles in executing instructions.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"4-stack"},`4. Stack`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The x86 architecture uses a stack for function calls and data storage. The stack pointer (ESP) keeps track of the top of the stack, and operations like push and pop are used for managing the stack.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"5-memory-addressing-modes"},`5. Memory Addressing Modes`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`x86 supports various memory addressing modes, enabling efficient access to memory. Modes include direct, register-indirect, immediate, and indexed addressing.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"6-protected-mode"},`6. Protected Mode`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`x86 processors can operate in protected mode, which provides memory protection and multitasking capabilities. This is essential for modern operating systems.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"7-x86-64-amd64"},`7. x86-64 (AMD64)`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The x86-64 architecture extends the 32-bit x86 architecture to 64 bits, allowing for larger memory addressing, more registers, and improved performance. It remains backward compatible with 32-bit x86 code.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"components"},`Components`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"cpu"},`CPU`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The central processing unit (CPU) is the core of the x86 architecture. It executes instructions, manages registers, and controls the flow of data within the system.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"memory"},`Memory`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Memory in the x86 architecture is divided into segments, each with its base address and size. The architecture supports both physical and virtual memory.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"inputoutput"},`Input/Output`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The Input/Output (I/O) subsystem allows the CPU to communicate with external devices, including storage devices, keyboards, and displays.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"interrupts"},`Interrupts`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Interrupts are essential for handling asynchronous events. x86 processors support a variety of interrupt types, including hardware and software interrupts.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h3",{"id":"coprocessors"},`Coprocessors`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`x86 processors often include coprocessors like the Floating-Point Unit (FPU) for handling floating-point arithmetic and the MMX and SSE units for multimedia instructions.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This is a high-level overview of the x86 architecture, which forms the foundation of many modern computing systems. Understanding its key features and components is crucial for anyone working with low-level programming or system development.`));};MDXContent.isMDXComponent=true;
 
 /***/ }),
 
@@ -13754,10 +13045,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   metadata: () => (/* binding */ metadata),
 /* harmony export */   toc: () => (/* binding */ toc)
 /* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
+/* harmony import */ var _workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
 /* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
-/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={sidebar_position:4};const contentTitle='x86 Assembly Language';const metadata={"unversionedId":"definitions/x86asm","id":"definitions/x86asm","title":"x86 Assembly Language","description":"x86 Assembly Language is a low-level programming language that directly corresponds to the architecture of x86-based processors. It provides a human-readable representation of machine code instructions, enabling programmers to write code that directly controls the CPU and memory. Understanding x86 Assembly is crucial for tasks like system programming, reverse engineering, and optimizing critical software components.","source":"@site/docs/definitions/x86asm.md","sourceDirName":"definitions","slug":"/definitions/x86asm","permalink":"/iCons/iCons4/docs/definitions/x86asm","draft":false,"tags":[],"version":"current","sidebarPosition":4,"frontMatter":{"sidebar_position":4},"sidebar":"tutorialSidebar","previous":{"title":"x86 Architecture","permalink":"/iCons/iCons4/docs/definitions/x86"},"next":{"title":"LLVM (Low-Level Virtual Machine)","permalink":"/iCons/iCons4/docs/definitions/llvm"}};const assets={};const toc=[{value:'History',id:'history',level:2},{value:'Syntax',id:'syntax',level:2},{value:'<strong>Comments:</strong>',id:'comments',level:3},{value:'<strong>Sections:</strong>',id:'sections',level:3},{value:'<strong>Labels:</strong>',id:'labels',level:3},{value:'<strong>Instructions:</strong>',id:'instructions',level:3},{value:'<strong>Registers:</strong>',id:'registers',level:3},{value:'<strong>Instructions:</strong>',id:'instructions-1',level:3},{value:'<strong>Role in Modern Computing:</strong>',id:'role-in-modern-computing',level:3}];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"x86-assembly-language"},`x86 Assembly Language`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`x86 Assembly Language is a low-level programming language that directly corresponds to the architecture of x86-based processors. It provides a human-readable representation of machine code instructions, enabling programmers to write code that directly controls the CPU and memory. Understanding x86 Assembly is crucial for tasks like system programming, reverse engineering, and optimizing critical software components.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This document offers a basic introduction to x86 Assembly, covering its history, syntax, registers, instructions, and its role in modern computing.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"history"},`History`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`x86 Assembly language has a long history, dating back to the original Intel 8086 processor. Over the years, it has evolved to support new features and capabilities, including 32-bit and 64-bit modes. Key developments include:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ul",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"li"},`16-Bit x86 Assembly`),`: Corresponding to the Intel 8086 processor.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"li"},`32-Bit x86 Assembly`),`: Introduced with processors like the Intel 80386, featuring extended registers and instructions.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"li"},`x86-64 Assembly (AMD64)`),`: Extending the architecture to 64 bits, providing more registers and a larger address space.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"syntax"},`Syntax`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`x86 Assembly code is written using a combination of mnemonics, registers, and memory addresses. The basic structure of an x86 Assembly program is:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre","className":"language-s"},`; Comment
+/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={sidebar_position:4};const contentTitle='x86 Assembly Language';const metadata={"unversionedId":"definitions/x86asm","id":"definitions/x86asm","title":"x86 Assembly Language","description":"x86 Assembly Language is a low-level programming language that directly corresponds to the architecture of x86-based processors. It provides a human-readable representation of machine code instructions, enabling programmers to write code that directly controls the CPU and memory. Understanding x86 Assembly is crucial for tasks like system programming, reverse engineering, and optimizing critical software components.","source":"@site/docs/definitions/x86asm.md","sourceDirName":"definitions","slug":"/definitions/x86asm","permalink":"/iCons/iCons4/docs/definitions/x86asm","draft":false,"tags":[],"version":"current","sidebarPosition":4,"frontMatter":{"sidebar_position":4},"sidebar":"tutorialSidebar","previous":{"title":"x86 Architecture","permalink":"/iCons/iCons4/docs/definitions/x86"},"next":{"title":"LLVM (Low-Level Virtual Machine)","permalink":"/iCons/iCons4/docs/definitions/llvm"}};const assets={};const toc=[{value:'History',id:'history',level:2},{value:'Syntax',id:'syntax',level:2},{value:'<strong>Comments:</strong>',id:'comments',level:3},{value:'<strong>Sections:</strong>',id:'sections',level:3},{value:'<strong>Labels:</strong>',id:'labels',level:3},{value:'<strong>Instructions:</strong>',id:'instructions',level:3},{value:'<strong>Registers:</strong>',id:'registers',level:3},{value:'<strong>Instructions:</strong>',id:'instructions-1',level:3},{value:'<strong>Role in Modern Computing:</strong>',id:'role-in-modern-computing',level:3}];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"x86-assembly-language"},`x86 Assembly Language`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`x86 Assembly Language is a low-level programming language that directly corresponds to the architecture of x86-based processors. It provides a human-readable representation of machine code instructions, enabling programmers to write code that directly controls the CPU and memory. Understanding x86 Assembly is crucial for tasks like system programming, reverse engineering, and optimizing critical software components.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This document offers a basic introduction to x86 Assembly, covering its history, syntax, registers, instructions, and its role in modern computing.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"history"},`History`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`x86 Assembly language has a long history, dating back to the original Intel 8086 processor. Over the years, it has evolved to support new features and capabilities, including 32-bit and 64-bit modes. Key developments include:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ul",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"li"},`16-Bit x86 Assembly`),`: Corresponding to the Intel 8086 processor.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"li"},`32-Bit x86 Assembly`),`: Introduced with processors like the Intel 80386, featuring extended registers and instructions.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"li"},`x86-64 Assembly (AMD64)`),`: Extending the architecture to 64 bits, providing more registers and a larger address space.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"syntax"},`Syntax`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`x86 Assembly code is written using a combination of mnemonics, registers, and memory addresses. The basic structure of an x86 Assembly program is:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre","className":"language-s"},`; Comment
 section .data
     ; Data declarations go here
 
@@ -13791,10 +13082,43 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   metadata: () => (/* binding */ metadata),
 /* harmony export */   toc: () => (/* binding */ toc)
 /* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
+/* harmony import */ var _workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
 /* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
-/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={sidebar_position:1};const contentTitle='Introduction';const metadata={"unversionedId":"intro","id":"intro","title":"Introduction","description":"This project mainly compares and contrasts between the RUST Programming Language, and the C++ Programming Language. We focus on the Cargo and Clang Compilers respectively, since they are both based on the LLVM Architecture. Thus, the low-level assembly generated by the LLVM compiler remains uniform between the two languages, and comparisons can be made.","source":"@site/docs/intro.md","sourceDirName":".","slug":"/intro","permalink":"/iCons/iCons4/docs/intro","draft":false,"tags":[],"version":"current","sidebarPosition":1,"frontMatter":{"sidebar_position":1},"sidebar":"tutorialSidebar","next":{"title":"Definitions","permalink":"/iCons/iCons4/docs/category/definitions"}};const assets={};const toc=[{value:'Before we begin: a definition of terms',id:'before-we-begin-a-definition-of-terms',level:2}];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"introduction"},`Introduction`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This project mainly compares and contrasts between the `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`RUST Programming Language`),`, and the `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`C++ Programming Language.`),` We focus on the `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`Cargo and Clang Compilers`),` respectively, since they are both based on the `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`LLVM Architecture.`),` Thus, the low-level assembly generated by the LLVM compiler remains uniform between the two languages, and comparisons can be made.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`We focus on RUST and C++ as they are both languages which are used in low-level systems programming. While the low-level LLVM compiler supports virtually any language, and currently is used for R, Python, Swift, and countless others; RUST and C++ insights give data for low-level programs, i.e. the layer on top of which all other programs are run.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"before-we-begin-a-definition-of-terms"},`Before we begin: a definition of terms`));};MDXContent.isMDXComponent=true;
+/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={sidebar_position:1};const contentTitle='Introduction';const metadata={"unversionedId":"intro","id":"intro","title":"Introduction","description":"This project mainly compares and contrasts between the RUST Programming Language, and the C++ Programming Language. We focus on the Cargo and Clang Compilers respectively, since they are both based on the LLVM Architecture. Thus, the low-level assembly generated by the LLVM compiler remains uniform between the two languages, and comparisons can be made.","source":"@site/docs/intro.md","sourceDirName":".","slug":"/intro","permalink":"/iCons/iCons4/docs/intro","draft":false,"tags":[],"version":"current","sidebarPosition":1,"frontMatter":{"sidebar_position":1},"sidebar":"tutorialSidebar","next":{"title":"Definitions","permalink":"/iCons/iCons4/docs/category/definitions"}};const assets={};const toc=[{value:'Before we begin: a definition of terms',id:'before-we-begin-a-definition-of-terms',level:2}];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"introduction"},`Introduction`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This project mainly compares and contrasts between the `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`RUST Programming Language`),`, and the `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`C++ Programming Language.`),` We focus on the `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`Cargo and Clang Compilers`),` respectively, since they are both based on the `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`LLVM Architecture.`),` Thus, the low-level assembly generated by the LLVM compiler remains uniform between the two languages, and comparisons can be made.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`We focus on RUST and C++ as they are both languages which are used in low-level systems programming. While the low-level LLVM compiler supports virtually any language, and currently is used for R, Python, Swift, and countless others; RUST and C++ insights give data for low-level programs, i.e. the layer on top of which all other programs are run.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"before-we-begin-a-definition-of-terms"},`Before we begin: a definition of terms`));};MDXContent.isMDXComponent=true;
+
+/***/ }),
+
+/***/ 9485:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   assets: () => (/* binding */ assets),
+/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
+/* harmony export */   "default": () => (/* binding */ MDXContent),
+/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
+/* harmony export */   metadata: () => (/* binding */ metadata),
+/* harmony export */   toc: () => (/* binding */ toc)
+/* harmony export */ });
+/* harmony import */ var _workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
+/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
+/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={sidebar_position:3};const contentTitle='Semester 2: Part 2 Initial';const metadata={"unversionedId":"thesis/pt2init","id":"thesis/pt2init","title":"Semester 2: Part 2 Initial","description":"The following is the first presentation during the start of Spring 2024.","source":"@site/docs/thesis/pt2init.md","sourceDirName":"thesis","slug":"/thesis/pt2init","permalink":"/iCons/iCons4/docs/thesis/pt2init","draft":false,"tags":[],"version":"current","sidebarPosition":3,"frontMatter":{"sidebar_position":3},"sidebar":"tutorialSidebar","previous":{"title":"Semester 1: Thesis Presentation","permalink":"/iCons/iCons4/docs/thesis/sem1"}};const assets={};const toc=[{value:'Copyright and Protection Disclaimer',id:'copyright-and-protection-disclaimer',level:2}];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"semester-2-part-2-initial"},`Semester 2: Part 2 Initial`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The following is the first presentation during the start of Spring 2024.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"copyright-and-protection-disclaimer"},`Copyright and Protection Disclaimer`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`Copyright Notice:`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The content and images presented in these slides are the intellectual property of Kushagra Srivastava. All rights are reserved. The reproduction, distribution, or utilization of any part of these slides without the prior written consent of Kushagra Srivastava is strictly prohibited.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`Protected Material:`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`These slides are part of Kushagra Srivastava's Honors Thesis. The information and materials contained herein are protected under intellectual property laws. Any unauthorized use, reproduction, or distribution may violate copyright, trademark, and other laws.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`Usage Authorization:`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`If you wish to use or reproduce any part of these slides for educational or non-commercial purposes, please contact `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://skushagra.com"},`Kushagra Srivastava`),` for authorization.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The code will be released under GNU GPL v3 once ready.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(4514)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(7065)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(545)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(8900)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(7805)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(1154)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(5426)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(5518)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(853)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(5430)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(7586)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(4957)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(5725)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(7685)/* ["default"] */ .Z),width:"2000",height:"1125"})));};MDXContent.isMDXComponent=true;
 
 /***/ }),
 
@@ -13811,41 +13135,41 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   metadata: () => (/* binding */ metadata),
 /* harmony export */   toc: () => (/* binding */ toc)
 /* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
+/* harmony import */ var _workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
 /* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
-/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={sidebar_position:1};const contentTitle='Semester 1: Thesis Presentation';const metadata={"unversionedId":"thesis/sem1","id":"thesis/sem1","title":"Semester 1: Thesis Presentation","description":"The following is the state of everything at the end of Fall 2023.","source":"@site/docs/thesis/sem1.md","sourceDirName":"thesis","slug":"/thesis/sem1","permalink":"/iCons/iCons4/docs/thesis/sem1","draft":false,"tags":[],"version":"current","sidebarPosition":1,"frontMatter":{"sidebar_position":1},"sidebar":"tutorialSidebar","previous":{"title":"Thesis Milestones","permalink":"/iCons/iCons4/docs/category/thesis-milestones"}};const assets={};const toc=[{value:'Copyright and Protection Disclaimer',id:'copyright-and-protection-disclaimer',level:2}];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"semester-1-thesis-presentation"},`Semester 1: Thesis Presentation`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The following is the state of everything at the end of Fall 2023.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"copyright-and-protection-disclaimer"},`Copyright and Protection Disclaimer`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`Copyright Notice:`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The content and images presented in these slides are the intellectual property of Kushagra Srivastava. All rights are reserved. The reproduction, distribution, or utilization of any part of these slides without the prior written consent of Kushagra Srivastava is strictly prohibited.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`Protected Material:`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`These slides are part of Kushagra Srivastava's Honors Thesis Presentation. The information and materials contained herein are protected under intellectual property laws. Any unauthorized use, reproduction, or distribution may violate copyright, trademark, and other laws.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`Usage Authorization:`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`If you wish to use or reproduce any part of these slides for educational or non-commercial purposes, please contact `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://skushagra.com"},`Kushagra Srivastava`),` for authorization.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The code will be released under GNU GPL v3 once ready.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(1385)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(7558)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(9552)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(9494)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(1602)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(5749)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(2523)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(2969)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(8865)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(4635)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(7532)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(6792)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(5649)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(7497)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(9425)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(2632)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(2916)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(8963)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(8575)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(3131)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(3771)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(3938)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(3983)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(4119)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(3252)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(2326)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(8614)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
-`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(5033)/* ["default"] */ .Z),width:"2000",height:"1125"})));};MDXContent.isMDXComponent=true;
+/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={sidebar_position:2};const contentTitle='Semester 1: Thesis Presentation';const metadata={"unversionedId":"thesis/sem1","id":"thesis/sem1","title":"Semester 1: Thesis Presentation","description":"The following is the state of everything at the end of Fall 2023.","source":"@site/docs/thesis/sem1.md","sourceDirName":"thesis","slug":"/thesis/sem1","permalink":"/iCons/iCons4/docs/thesis/sem1","draft":false,"tags":[],"version":"current","sidebarPosition":2,"frontMatter":{"sidebar_position":2},"sidebar":"tutorialSidebar","previous":{"title":"Semester 0: CICS Syslab","permalink":"/iCons/iCons4/docs/thesis/syslab"},"next":{"title":"Semester 2: Part 2 Initial","permalink":"/iCons/iCons4/docs/thesis/pt2init"}};const assets={};const toc=[{value:'Copyright and Protection Disclaimer',id:'copyright-and-protection-disclaimer',level:2}];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"semester-1-thesis-presentation"},`Semester 1: Thesis Presentation`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The following is the state of everything at the end of Fall 2023.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"copyright-and-protection-disclaimer"},`Copyright and Protection Disclaimer`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`Copyright Notice:`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The content and images presented in these slides are the intellectual property of Kushagra Srivastava. All rights are reserved. The reproduction, distribution, or utilization of any part of these slides without the prior written consent of Kushagra Srivastava is strictly prohibited.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`Protected Material:`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`These slides are part of Kushagra Srivastava's Honors Thesis Presentation. The information and materials contained herein are protected under intellectual property laws. Any unauthorized use, reproduction, or distribution may violate copyright, trademark, and other laws.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`Usage Authorization:`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`If you wish to use or reproduce any part of these slides for educational or non-commercial purposes, please contact `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://skushagra.com"},`Kushagra Srivastava`),` for authorization.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The code will be released under GNU GPL v3 once ready.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(6497)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(9932)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(2713)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(2952)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(2873)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(4073)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(8242)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(123)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(1071)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(8175)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(2644)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(4463)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(6334)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(8461)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(2446)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(5896)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(8405)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(542)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(243)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(9526)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(1888)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(6076)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(8061)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(7100)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(6316)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(6908)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(4357)/* ["default"] */ .Z),width:"2000",height:"1125"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(7908)/* ["default"] */ .Z),width:"2000",height:"1125"})));};MDXContent.isMDXComponent=true;
 
 /***/ }),
 
-/***/ 1947:
+/***/ 9009:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -13858,152 +13182,180 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   metadata: () => (/* binding */ metadata),
 /* harmony export */   toc: () => (/* binding */ toc)
 /* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
+/* harmony import */ var _workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
 /* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
-/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={slug:'first-blog-post',title:'First Blog Post',authors:{name:'Gao Wei',title:'Docusaurus Core Team',url:'https://github.com/wgao19',image_url:'https://github.com/wgao19.png'},tags:['hola','docusaurus']};const contentTitle=undefined;const metadata={"permalink":"/iCons/iCons4/blog/first-blog-post","source":"@site/blog/2019-05-28-first-blog-post.md","title":"First Blog Post","description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet","date":"2019-05-28T00:00:00.000Z","formattedDate":"May 28, 2019","tags":[{"label":"hola","permalink":"/iCons/iCons4/blog/tags/hola"},{"label":"docusaurus","permalink":"/iCons/iCons4/blog/tags/docusaurus"}],"readingTime":0.12,"hasTruncateMarker":false,"authors":[{"name":"Gao Wei","title":"Docusaurus Core Team","url":"https://github.com/wgao19","image_url":"https://github.com/wgao19.png","imageURL":"https://github.com/wgao19.png"}],"frontMatter":{"slug":"first-blog-post","title":"First Blog Post","authors":{"name":"Gao Wei","title":"Docusaurus Core Team","url":"https://github.com/wgao19","image_url":"https://github.com/wgao19.png","imageURL":"https://github.com/wgao19.png"},"tags":["hola","docusaurus"]},"prevItem":{"title":"Long Blog Post","permalink":"/iCons/iCons4/blog/long-blog-post"}};const assets={"authorsImageUrls":[undefined]};const toc=[];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet`));};MDXContent.isMDXComponent=true;
+/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={sidebar_position:1};const contentTitle='Semester 0: CICS Syslab';const metadata={"unversionedId":"thesis/syslab","id":"thesis/syslab","title":"Semester 0: CICS Syslab","description":"The following is the first presentation during the very beginning, Spring 2023. These slides were shown in the first CICS Systems Lab Meeting, whe the project was in the very initial stages.","source":"@site/docs/thesis/syslab.md","sourceDirName":"thesis","slug":"/thesis/syslab","permalink":"/iCons/iCons4/docs/thesis/syslab","draft":false,"tags":[],"version":"current","sidebarPosition":1,"frontMatter":{"sidebar_position":1},"sidebar":"tutorialSidebar","previous":{"title":"Thesis Milestones","permalink":"/iCons/iCons4/docs/category/thesis-milestones"},"next":{"title":"Semester 1: Thesis Presentation","permalink":"/iCons/iCons4/docs/thesis/sem1"}};const assets={};const toc=[{value:'Copyright and Protection Disclaimer',id:'copyright-and-protection-disclaimer',level:2}];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"semester-0-cics-syslab"},`Semester 0: CICS Syslab`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The following is the first presentation during the very beginning, Spring 2023. These slides were shown in the first CICS Systems Lab Meeting, whe the project was in the very initial stages.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"copyright-and-protection-disclaimer"},`Copyright and Protection Disclaimer`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`Copyright Notice:`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The content and images presented in these slides are the intellectual property of Kushagra Srivastava. All rights are reserved. The reproduction, distribution, or utilization of any part of these slides without the prior written consent of Kushagra Srivastava is strictly prohibited.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`Protected Material:`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`These slides are part of Kushagra Srivastava's Honors Thesis. The information and materials contained herein are protected under intellectual property laws. Any unauthorized use, reproduction, or distribution may violate copyright, trademark, and other laws.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`Usage Authorization:`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`If you wish to use or reproduce any part of these slides for educational or non-commercial purposes, please contact `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://skushagra.com"},`Kushagra Srivastava`),` for authorization.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The code will be released under GNU GPL v3 once ready.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(7959)/* ["default"] */ .Z),width:"9600",height:"7200"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(2243)/* ["default"] */ .Z),width:"9600",height:"7200"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(8335)/* ["default"] */ .Z),width:"9600",height:"7200"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(3430)/* ["default"] */ .Z),width:"9600",height:"7200"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(1735)/* ["default"] */ .Z),width:"9600",height:"7200"}),`
+`,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Slide",src:(__webpack_require__(3195)/* ["default"] */ .Z),width:"9600",height:"7200"})));};MDXContent.isMDXComponent=true;
 
 /***/ }),
 
-/***/ 8856:
+/***/ 1961:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   assets: () => (/* binding */ assets),
 /* harmony export */   contentTitle: () => (/* binding */ contentTitle),
 /* harmony export */   "default": () => (/* binding */ MDXContent),
 /* harmony export */   frontMatter: () => (/* binding */ frontMatter),
 /* harmony export */   metadata: () => (/* binding */ metadata),
 /* harmony export */   toc: () => (/* binding */ toc)
 /* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
+/* harmony import */ var _workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
 /* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
-/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={slug:'first-blog-post',title:'First Blog Post',authors:{name:'Gao Wei',title:'Docusaurus Core Team',url:'https://github.com/wgao19',image_url:'https://github.com/wgao19.png'},tags:['hola','docusaurus']};const contentTitle=undefined;const metadata={"permalink":"/iCons/iCons4/blog/first-blog-post","source":"@site/blog/2019-05-28-first-blog-post.md","title":"First Blog Post","description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet","date":"2019-05-28T00:00:00.000Z","formattedDate":"May 28, 2019","tags":[{"label":"hola","permalink":"/iCons/iCons4/blog/tags/hola"},{"label":"docusaurus","permalink":"/iCons/iCons4/blog/tags/docusaurus"}],"readingTime":0.12,"hasTruncateMarker":false,"authors":[{"name":"Gao Wei","title":"Docusaurus Core Team","url":"https://github.com/wgao19","image_url":"https://github.com/wgao19.png","imageURL":"https://github.com/wgao19.png"}],"frontMatter":{"slug":"first-blog-post","title":"First Blog Post","authors":{"name":"Gao Wei","title":"Docusaurus Core Team","url":"https://github.com/wgao19","image_url":"https://github.com/wgao19.png","imageURL":"https://github.com/wgao19.png"},"tags":["hola","docusaurus"]},"prevItem":{"title":"Long Blog Post","permalink":"/iCons/iCons4/blog/long-blog-post"}};const assets={"authorsImageUrls":[undefined]};const toc=[];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet`));};MDXContent.isMDXComponent=true;
+/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={};const contentTitle=undefined;const metadata={"type":"mdx","permalink":"/iCons/iCons4/communicationDesign","source":"@site/src/pages/communicationDesign.md","description":"Disclaimer: All general-purpose graphics on this page were generated using Microsoft's Bing AI. For graphics taken from a specific source (such as charts), appropriate citation (including self-citation) has been given below the same.","frontMatter":{}};const toc=[{value:'First, Some Background',id:'first-some-background',level:2},{value:'Hypothesis 1: Environmental Impacts',id:'hypothesis-1-environmental-impacts',level:2},{value:'Hypothesis 2: Lower the Barrier of Entry to Low-Level Development',id:'hypothesis-2-lower-the-barrier-of-entry-to-low-level-development',level:2},{value:'How do we go about it?',id:'how-do-we-go-about-it',level:2},{value:'Conclusion',id:'conclusion',level:2},{value:'Final Addition',id:'final-addition',level:2}];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Disclaimer: All general-purpose graphics on this page were generated using `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://bing.com"},`Microsoft's Bing AI`),`. For graphics taken from a specific source (such as charts), appropriate citation (including self-citation) has been given below the same.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"why-is-this-project-significant"},`Why is this project significant.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Intro",src:(__webpack_require__(3812)/* ["default"] */ .Z),width:"1024",height:"1024"})),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The following project, while accessible to everyone, is mainly targeted towards the millions of developers creating digital products on the daily. We attempt to reform low level systems in servers and mainframes, in an effort to have userland applications work more efficiently, increase server bandwidth, and give a little bit back to the environment.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Let's dive a little bit into each of these:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"first-some-background"},`First, Some Background`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This project attempts to compare and contrast performance differences between RUST and C++, two low level languages that were created at different points of time, and with different goals in mind.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`While C++ was developed as an incremental upgrade to C, it follows a lot of compiler conventions from the 90s and has not changed much in structure. C++ is prone to various errors if users are not mindful: memory leaks, segmentation faults, kernel errors, and so on. Moreover, being an incremental upgrade to an already old language, C++ can sometimes not be the most efficient language out there.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`On the other hand, we have RUST: a language whose development started in 2010, and is continuing today. RUST attempts to employ stricter typesetting, better error tracking, and more stringent memory usage to run more efficiently.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"C++",src:(__webpack_require__(7259)/* ["default"] */ .Z),width:"529",height:"179"})),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Credits: `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://developer.ibm.com/articles/os-developers-know-rust/"},`IBM: Why You Should Learn The RUSt Programming Language.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This is not to say that C++ is a "bad, outdated language". Simply put, most low level systems today still run on C++, mainly because the cost of refactoring to RUST is enormous, and benefits unknown.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`By comparing the performance differences between the two languages, we can determine the Return on Investment, should an undertaking be made to refactor code into the new language.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"hypothesis-1-environmental-impacts"},`Hypothesis 1: Environmental Impacts`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`According to `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://energyinnovation.org/2020/03/17/how-much-energy-do-data-centers-really-use/"},`Energy Innovation`),`, global data centers consumed about 205 terawatt-hours (TWh) of electric power, or about 1% of Global Consumer Electricity Consumption.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Let us put this in perspective: given the world population, servers alone accounted for the electricity that would have been used by 70,000,000 people. This number is about twice the population of Canada, about 65% of Mexico's Population, and about 4 times the population of Australia.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Now, let us assume (hypothetically), that we have moved all low level systems to RUST, which means that all servers in the world run on RUST now. While this is a bit flawed in its nature, let us also assume that there is a direct co-relation between energy consumption and the effectiveness of a language.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`If RUST enables, through it's various carefully-constructed safety paradigms, about 5% more efficiency in servers, this would result in savings of about 10.25 terawatt-hours of electricity. That number is greater than the electricity used in about `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://en.wikipedia.org/wiki/List_of_countries_by_electricity_consumption"},`119 countries of the world`),`, even while having taken only conservative metrics, since inter-connection of servers through Networking, and a higher efficiency of consumer electronics (or client devices) has not been taken into consideration.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`RUST would enable the same infrastructure to server exactly the bandwidth it is serving currently, while automatically providing back electricity worth of powering such a high number of countries. Moreover, the same infrastructure can also be utilized into serving an even higher bandwidth without putting new hardware into place, thus providing immense future-proofing and reliability.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"hypothesis-2-lower-the-barrier-of-entry-to-low-level-development"},`Hypothesis 2: Lower the Barrier of Entry to Low-Level Development`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Low Level Systems: including, but not limited to, CPU/GPU Architectures, Compilers, Operating Systems, Networking Interfaces, Communication Protocols, and the like are a culmination of decades of work, most of which really gained traction in 1970s. As a result, there exists a high amount of legacy code, which can be unreadable and intimidating: thus making the development process inaccessible to many.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The manner in which languages such as C/C++ behave can also differ between systems, which is a result of the time that they were created in. Free/Libre, or Open Source software did not quite exist: which meant that companies shipping computer systems had full control over how a certain language would behave on their system. As a result, C behaves differently on different kernels, even today.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`There are currently tremendous amounts of versions of C in circulation, and this is before we get into the forks of this language (such as Arduino-C, Objective-C, C#, and so on).`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`RUST was developed from day 1 as an open source project, placing proper standardization across platforms. RUST behaves exactly the same, on every single piece of hardware. Thus, this lowers the barrier of entry incredibly. Paired with incredible documentation, and a unified compilation process on every system, RUST makes low level development significantly easier to novices and professionals alike.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`On top of C++, RUST provides the following benefits (from the `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://doc.rust-lang.org/rustdoc/what-is-rustdoc.html"},`RUST Documentation`),`):`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ul",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`RUST has a more strong typesetting that prevents common errors such as NULL Pointer referencing, memory leaks, buffer overflows, and race conditions. Using the concept of ownership and borrowing to manage memory and resources during compilation, RUST can theoritically execute equally complex programs while using lesser resources.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`RUST allows for more concise code, which makes readability easier for developers. Since low level systems get super complicated to execute even the most basic operations, the cleaner code syntax of RUST is crucial for continued development with the shortest learning curve. The syntax allows for less complexity, thus allowing for updates in low level code at a faster pace.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`RUST is designed for parallel processing and concurrency, which means that any code written is extensible to any system imaginable: ranging from a Raspberry Pi to an IBM Mainframe.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},` Security Example: Race Conditions: `)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`For example, here are code snippets in C and Rust that deliberately create a race condition, highlighting how C++ allows it while Rust prevents it with an error.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`A race condition is a software flaw that occurs when the behavior of a program depends on the timing and order of execution of multiple concurrent operations, leading to unpredictable and often unintended outcomes. We will see a live version of said unpredictable outcomes with C++, and see how RUST fixes this flaw.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Let's start with C++:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre","className":"language-c"},`// Race Condition Demo, written by Kush.
+#include <stdio.h>
+#include <stdlib.h>
+#include <pthread.h>
+
+int shared_variable = 0;
+
+void *increment(void *arg) {
+    for (int i = 0; i < 1000000; i++) {
+        shared_variable++;
+        }
+        return NULL;
+        }
+
+        int main() {
+            pthread_t thread1, thread2;
+
+            if (pthread_create(&thread1, NULL, increment, NULL) != 0) {
+                perror("pthread_create");
+                return 1;
+            }
+
+            if (pthread_create(&thread2, NULL, increment, NULL) != 0) {
+                perror("pthread_create");
+                return 1;
+            }
+
+            pthread_join(thread1, NULL);
+            pthread_join(thread2, NULL);
+
+            printf("Shared variable: %d\\n", shared_variable);
+
+            return 0;
+        }
+
+`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`In the C code, two threads are incrementing the shared_variable concurrently, leading to a race condition where the final value is unpredictable. However, C will let us run this with no issues or errors, as demonstrated below 10 times on my own system:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre","className":"language-bash"},`suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ gcc race.c
+suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ ./a.out
+Shared variable: 1138441
+suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ ./a.out
+Shared variable: 1339034
+suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ ./a.out
+Shared variable: 1070599
+suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ ./a.out
+Shared variable: 1103020
+suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ ./a.out
+Shared variable: 1073974
+suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ ./a.out
+Shared variable: 1233980
+suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ ./a.out
+Shared variable: 1403249
+suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ ./a.out
+Shared variable: 1200399
+suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ ./a.out
+Shared variable: 1036593
+suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$ ./a.out
+Shared variable: 1115206
+suobset@Kush-Surface:/mnt/c/Users/kushd/Documents/GitHub/temp$
+`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Now, let us try this with RUST:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre","className":"language-c"},`// Race Condition Demo, written by Kush
+use std::thread;
+
+fn main() {
+    let mut shared_variable = 0;
+
+    let thread1 = thread::spawn(|| {
+        for _ in 0..1_000_000 {
+            shared_variable += 1;
+        }
+    });
+
+    let thread2 = thread::spawn(|| {
+        for _ in 0..1_000_000 {
+            shared_variable += 1;
+        }
+    });
+
+    thread1.join().unwrap();
+    thread2.join().unwrap();
+
+    println!("Shared variable: {}", shared_variable);
+}
+`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`In the Rust code, the same scenario is presented, but Rust's ownership and borrowing system will prevent the code from compiling, raising an error like:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre","className":"language-bash"},`error[E0502]: cannot borrow \`shared_variable\` as mutable because it is also borrowed as immutable
+ --> src/main.rs:9:13
+  |
+7 |     let thread1 = thread::spawn(|| {
+  |                  ---------------- immutable borrow occurs here
+8 |         for _ in 0..1_000_000 {
+9 |             shared_variable += 1;
+  |             ^^^^^^^^^^^^^^ mutable borrow occurs here
+...
+15|     thread1.join().unwrap();
+  |     ------------------------ mutable borrow later used here
+`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`If this undertaking of shifting away from C++ into RUST is fruitful, developers can expect:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ul",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`More readable, and less legacy code.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`Faster kernel updates, and a higher ability to contribute to kernel source code.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`More security in kernel code: since it becomes less prone to memory leaks, kernel panics, and the like. This also results in more reliable systems, overall.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`Performance advantages in low level systems would result in faster performance of userland applications, without making a single change to any piece of code.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`Increase bandwidth of servers, without paying for any newer servers.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`These are some of the many benefits that developers can expect. However, there's more...`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"how-do-we-go-about-it"},`How do we go about it?`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`During compilation, every programming language outputs a file called an assembly. For the x86 architecture, this assembly consists of 81 operations and 6 registers, and any combination of these yield to teh functioning of a program.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Since we want a platform agnostic way to measuring languages (so nothing that can be solved by throwing more hardware at the problem), we trace the execution of this assembly to find logical differences in how the two programming languages execute the same program. If one language uses more operations, then it performs worse. To do so, I am building my "x86 Asm Tracer", documentation for which can be found on the rest of the site.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"x86 Asm Tracer",src:(__webpack_require__(7883)/* ["default"] */ .Z),width:"2000",height:"1125"})),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`As the assembly executes, we can see via GDB the current line it is at. I have written a Python program, that latches on to GDB and just writes down every command executed on a text file (displayed in the front of that page). `),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre","className":"language-py"},`import gdb
+
+# Define the file path where you want to save the log
+log_file_path = "./gdb.txt"
+
+# Initialize a flag to track whether a 'jne' or 'jge' instruction was executed
+jmp_detected = False
+
+def log_jmp_event(event):
+    global jmp_detected  # Use the global flag to track if 'jne' or 'jge' was detected
+    pc = int(gdb.parse_and_eval("$pc"))
+    instruction = gdb.execute("x/i " + hex(pc), to_string=True)
+    
+    if "jne" in instruction or "jge" in instruction:
+        jmp_detected = True
+        with open(log_file_path, "a") as log_file:
+            log_file.write(f"{hex(pc)}: {instruction}\\n")
+
+# Connect the stop event to the log_jmp_event function
+gdb.events.stop.connect(log_jmp_event)
+
+# Define a command to check if 'jne' or 'jge' was executed and write to the log file
+class CheckJmpCommand(gdb.Command):
+    def __init__(self):
+        super(CheckJmpCommand, self).__init__("checkjmp", gdb.COMMAND_USER)
+
+    def invoke(self, arg, from_tty):
+        global jmp_detected
+        with open(log_file_path, "a") as log_file:
+            if jmp_detected:
+                log_file.write("jne/jge was executed.\\n")
+            else:
+                log_file.write("jne/jge was NOT executed.\\n")
+        jmp_detected = False  # Reset the flag for the next check
+
+CheckJmpCommand()
+`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This way, we can see the specific number of operations executed to run the same program, written on two different languages. We can compare this "trace" for both the languages, and determine which is faster performing. However, there can be caveats that have to be taken into account: for example, RUST's security may mean more operations take place, but it provides more peace of mind.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This is a tradeoff that will have to be looked into at all times.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"conclusion"},`Conclusion`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`In conclusion, this project holds significant promise for the digital development community and the broader environment. By comparing the performance differences between the low-level languages C++ and RUST, it seeks to address multiple critical aspects:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`First, the project aims to lower the barrier of entry to low-level development by demonstrating how RUST's open-source nature, standardized behavior across platforms, and enhanced memory management can make low-level development more accessible and efficient. Shifting away from C++ to RUST could result in more readable code, faster kernel updates, increased security, and improved performance without the need for hardware upgrades.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Secondly, the environmental impact is a substantial consideration. If RUST, with its efficiency gains, were to become the standard for low-level systems, it could lead to massive energy savings, potentially surpassing the electricity consumption of many countries. This transition to RUST would not only reduce energy consumption but also offer future-proofing benefits, ensuring reliable infrastructure. Overall, this project is poised to benefit developers, users, and the environment by enhancing efficiency and sustainability in low-level systems.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"final-addition"},`Final Addition`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`I gave a 1 minute pitch on this project for iCons 4, and have attached it below :)`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("iframe",{width:"560",height:"315",src:"https://www.youtube.com/embed/oN9MKmiI1G4?si=teqXrn_0IZzwrpV2",title:"YouTube video player",frameborder:"0",allow:"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",allowfullscreen:true}));};MDXContent.isMDXComponent=true;
 
 /***/ }),
 
-/***/ 1976:
+/***/ 9286:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   assets: () => (/* binding */ assets),
 /* harmony export */   contentTitle: () => (/* binding */ contentTitle),
 /* harmony export */   "default": () => (/* binding */ MDXContent),
 /* harmony export */   frontMatter: () => (/* binding */ frontMatter),
 /* harmony export */   metadata: () => (/* binding */ metadata),
 /* harmony export */   toc: () => (/* binding */ toc)
 /* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
+/* harmony import */ var _workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
 /* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
-/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={slug:'long-blog-post',title:'Long Blog Post',authors:'endi',tags:['hello','docusaurus']};const contentTitle=undefined;const metadata={"permalink":"/iCons/iCons4/blog/long-blog-post","source":"@site/blog/2019-05-29-long-blog-post.md","title":"Long Blog Post","description":"This is the summary of a very long blog post,","date":"2019-05-29T00:00:00.000Z","formattedDate":"May 29, 2019","tags":[{"label":"hello","permalink":"/iCons/iCons4/blog/tags/hello"},{"label":"docusaurus","permalink":"/iCons/iCons4/blog/tags/docusaurus"}],"readingTime":2.05,"hasTruncateMarker":true,"authors":[{"name":"Endilie Yacop Sucipto","title":"Maintainer of Docusaurus","url":"https://github.com/endiliey","imageURL":"https://github.com/endiliey.png","key":"endi"}],"frontMatter":{"slug":"long-blog-post","title":"Long Blog Post","authors":"endi","tags":["hello","docusaurus"]},"prevItem":{"title":"MDX Blog Post","permalink":"/iCons/iCons4/blog/mdx-blog-post"},"nextItem":{"title":"First Blog Post","permalink":"/iCons/iCons4/blog/first-blog-post"}};const assets={"authorsImageUrls":[undefined]};const toc=[];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This is the summary of a very long blog post,`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Use a `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`<!--`),` `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`truncate`),` `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`-->`),` comment to limit blog post size in the list view.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet`));};MDXContent.isMDXComponent=true;
-
-/***/ }),
-
-/***/ 3352:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   assets: () => (/* binding */ assets),
-/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
-/* harmony export */   "default": () => (/* binding */ MDXContent),
-/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
-/* harmony export */   metadata: () => (/* binding */ metadata),
-/* harmony export */   toc: () => (/* binding */ toc)
-/* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
-/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={slug:'long-blog-post',title:'Long Blog Post',authors:'endi',tags:['hello','docusaurus']};const contentTitle=undefined;const metadata={"permalink":"/iCons/iCons4/blog/long-blog-post","source":"@site/blog/2019-05-29-long-blog-post.md","title":"Long Blog Post","description":"This is the summary of a very long blog post,","date":"2019-05-29T00:00:00.000Z","formattedDate":"May 29, 2019","tags":[{"label":"hello","permalink":"/iCons/iCons4/blog/tags/hello"},{"label":"docusaurus","permalink":"/iCons/iCons4/blog/tags/docusaurus"}],"readingTime":2.05,"hasTruncateMarker":true,"authors":[{"name":"Endilie Yacop Sucipto","title":"Maintainer of Docusaurus","url":"https://github.com/endiliey","imageURL":"https://github.com/endiliey.png","key":"endi"}],"frontMatter":{"slug":"long-blog-post","title":"Long Blog Post","authors":"endi","tags":["hello","docusaurus"]},"prevItem":{"title":"MDX Blog Post","permalink":"/iCons/iCons4/blog/mdx-blog-post"},"nextItem":{"title":"First Blog Post","permalink":"/iCons/iCons4/blog/first-blog-post"}};const assets={"authorsImageUrls":[undefined]};const toc=[];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`This is the summary of a very long blog post,`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Use a `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`<!--`),` `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`truncate`),` `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`-->`),` comment to limit blog post size in the list view.`));};MDXContent.isMDXComponent=true;
-
-/***/ }),
-
-/***/ 8642:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   assets: () => (/* binding */ assets),
-/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
-/* harmony export */   "default": () => (/* binding */ MDXContent),
-/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
-/* harmony export */   metadata: () => (/* binding */ metadata),
-/* harmony export */   toc: () => (/* binding */ toc)
-/* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
-/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={slug:'mdx-blog-post',title:'MDX Blog Post',authors:['slorber'],tags:['docusaurus']};const contentTitle=undefined;const metadata={"permalink":"/iCons/iCons4/blog/mdx-blog-post","source":"@site/blog/2021-08-01-mdx-blog-post.mdx","title":"MDX Blog Post","description":"Blog posts support Docusaurus Markdown features, such as MDX.","date":"2021-08-01T00:00:00.000Z","formattedDate":"August 1, 2021","tags":[{"label":"docusaurus","permalink":"/iCons/iCons4/blog/tags/docusaurus"}],"readingTime":0.175,"hasTruncateMarker":false,"authors":[{"name":"Sébastien Lorber","title":"Docusaurus maintainer","url":"https://sebastienlorber.com","imageURL":"https://github.com/slorber.png","key":"slorber"}],"frontMatter":{"slug":"mdx-blog-post","title":"MDX Blog Post","authors":["slorber"],"tags":["docusaurus"]},"prevItem":{"title":"Welcome","permalink":"/iCons/iCons4/blog/welcome"},"nextItem":{"title":"Long Blog Post","permalink":"/iCons/iCons4/blog/long-blog-post"}};const assets={"authorsImageUrls":[undefined]};const toc=[];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Blog posts support `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://docusaurus.io/docs/markdown-features"},`Docusaurus Markdown features`),`, such as `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://mdxjs.com/"},`MDX`),`.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("admonition",{"type":"tip"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",{parentName:"admonition"},`Use the power of React to create interactive blog posts.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",{parentName:"admonition"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre","className":"language-js"},`<button onClick={() => alert('button clicked!')}>Click me!</button>
-`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("button",{onClick:()=>alert('button clicked!')},"Click me!")));};MDXContent.isMDXComponent=true;
-
-/***/ }),
-
-/***/ 5145:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   assets: () => (/* binding */ assets),
-/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
-/* harmony export */   "default": () => (/* binding */ MDXContent),
-/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
-/* harmony export */   metadata: () => (/* binding */ metadata),
-/* harmony export */   toc: () => (/* binding */ toc)
-/* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
-/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={slug:'mdx-blog-post',title:'MDX Blog Post',authors:['slorber'],tags:['docusaurus']};const contentTitle=undefined;const metadata={"permalink":"/iCons/iCons4/blog/mdx-blog-post","source":"@site/blog/2021-08-01-mdx-blog-post.mdx","title":"MDX Blog Post","description":"Blog posts support Docusaurus Markdown features, such as MDX.","date":"2021-08-01T00:00:00.000Z","formattedDate":"August 1, 2021","tags":[{"label":"docusaurus","permalink":"/iCons/iCons4/blog/tags/docusaurus"}],"readingTime":0.175,"hasTruncateMarker":false,"authors":[{"name":"Sébastien Lorber","title":"Docusaurus maintainer","url":"https://sebastienlorber.com","imageURL":"https://github.com/slorber.png","key":"slorber"}],"frontMatter":{"slug":"mdx-blog-post","title":"MDX Blog Post","authors":["slorber"],"tags":["docusaurus"]},"prevItem":{"title":"Welcome","permalink":"/iCons/iCons4/blog/welcome"},"nextItem":{"title":"Long Blog Post","permalink":"/iCons/iCons4/blog/long-blog-post"}};const assets={"authorsImageUrls":[undefined]};const toc=[];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Blog posts support `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://docusaurus.io/docs/markdown-features"},`Docusaurus Markdown features`),`, such as `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://mdxjs.com/"},`MDX`),`.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("admonition",{"type":"tip"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",{parentName:"admonition"},`Use the power of React to create interactive blog posts.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",{parentName:"admonition"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre","className":"language-js"},`<button onClick={() => alert('button clicked!')}>Click me!</button>
-`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("button",{onClick:()=>alert('button clicked!')},"Click me!")));};MDXContent.isMDXComponent=true;
-
-/***/ }),
-
-/***/ 9384:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   assets: () => (/* binding */ assets),
-/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
-/* harmony export */   "default": () => (/* binding */ MDXContent),
-/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
-/* harmony export */   metadata: () => (/* binding */ metadata),
-/* harmony export */   toc: () => (/* binding */ toc)
-/* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
-/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={slug:'welcome',title:'Welcome',authors:['slorber','yangshun'],tags:['facebook','hello','docusaurus']};const contentTitle=undefined;const metadata={"permalink":"/iCons/iCons4/blog/welcome","source":"@site/blog/2021-08-26-welcome/index.md","title":"Welcome","description":"Docusaurus blogging features are powered by the blog plugin.","date":"2021-08-26T00:00:00.000Z","formattedDate":"August 26, 2021","tags":[{"label":"facebook","permalink":"/iCons/iCons4/blog/tags/facebook"},{"label":"hello","permalink":"/iCons/iCons4/blog/tags/hello"},{"label":"docusaurus","permalink":"/iCons/iCons4/blog/tags/docusaurus"}],"readingTime":0.405,"hasTruncateMarker":false,"authors":[{"name":"Sébastien Lorber","title":"Docusaurus maintainer","url":"https://sebastienlorber.com","imageURL":"https://github.com/slorber.png","key":"slorber"},{"name":"Yangshun Tay","title":"Front End Engineer @ Facebook","url":"https://github.com/yangshun","imageURL":"https://github.com/yangshun.png","key":"yangshun"}],"frontMatter":{"slug":"welcome","title":"Welcome","authors":["slorber","yangshun"],"tags":["facebook","hello","docusaurus"]},"nextItem":{"title":"MDX Blog Post","permalink":"/iCons/iCons4/blog/mdx-blog-post"}};const assets={"authorsImageUrls":[undefined,undefined]};const toc=[];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://docusaurus.io/docs/blog"},`Docusaurus blogging features`),` are powered by the `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog"},`blog plugin`),`.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Simply add Markdown files (or folders) to the `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`blog`),` directory.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Regular blog authors can be added to `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`authors.yml`),`.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The blog post date can be extracted from filenames, such as:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ul",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"li"},`2019-05-30-welcome.md`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"li"},`2019-05-30-welcome/index.md`))),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`A blog post folder can be convenient to co-locate blog post images:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Docusaurus Plushie",src:(__webpack_require__(9960)/* ["default"] */ .Z),width:"1500",height:"500"})),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The blog supports tags as well!`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`And if you don't want a blog`),`: just delete this directory, and use `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`blog: false`),` in your Docusaurus config.`));};MDXContent.isMDXComponent=true;
-
-/***/ }),
-
-/***/ 6911:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   assets: () => (/* binding */ assets),
-/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
-/* harmony export */   "default": () => (/* binding */ MDXContent),
-/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
-/* harmony export */   metadata: () => (/* binding */ metadata),
-/* harmony export */   toc: () => (/* binding */ toc)
-/* harmony export */ });
-/* harmony import */ var _home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
-/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={slug:'welcome',title:'Welcome',authors:['slorber','yangshun'],tags:['facebook','hello','docusaurus']};const contentTitle=undefined;const metadata={"permalink":"/iCons/iCons4/blog/welcome","source":"@site/blog/2021-08-26-welcome/index.md","title":"Welcome","description":"Docusaurus blogging features are powered by the blog plugin.","date":"2021-08-26T00:00:00.000Z","formattedDate":"August 26, 2021","tags":[{"label":"facebook","permalink":"/iCons/iCons4/blog/tags/facebook"},{"label":"hello","permalink":"/iCons/iCons4/blog/tags/hello"},{"label":"docusaurus","permalink":"/iCons/iCons4/blog/tags/docusaurus"}],"readingTime":0.405,"hasTruncateMarker":false,"authors":[{"name":"Sébastien Lorber","title":"Docusaurus maintainer","url":"https://sebastienlorber.com","imageURL":"https://github.com/slorber.png","key":"slorber"},{"name":"Yangshun Tay","title":"Front End Engineer @ Facebook","url":"https://github.com/yangshun","imageURL":"https://github.com/yangshun.png","key":"yangshun"}],"frontMatter":{"slug":"welcome","title":"Welcome","authors":["slorber","yangshun"],"tags":["facebook","hello","docusaurus"]},"nextItem":{"title":"MDX Blog Post","permalink":"/iCons/iCons4/blog/mdx-blog-post"}};const assets={"authorsImageUrls":[undefined,undefined]};const toc=[];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_home_suobset_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://docusaurus.io/docs/blog"},`Docusaurus blogging features`),` are powered by the `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"p","href":"https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog"},`blog plugin`),`.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Simply add Markdown files (or folders) to the `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`blog`),` directory.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Regular blog authors can be added to `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`authors.yml`),`.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The blog post date can be extracted from filenames, such as:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ul",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"li"},`2019-05-30-welcome.md`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"li"},`2019-05-30-welcome/index.md`))),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`A blog post folder can be convenient to co-locate blog post images:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"Docusaurus Plushie",src:(__webpack_require__(9960)/* ["default"] */ .Z),width:"1500",height:"500"})),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`The blog supports tags as well!`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`And if you don't want a blog`),`: just delete this directory, and use `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("inlineCode",{parentName:"p"},`blog: false`),` in your Docusaurus config.`));};MDXContent.isMDXComponent=true;
+/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={title:'Markdown page example'};const contentTitle='Markdown page example';const metadata={"type":"mdx","permalink":"/iCons/iCons4/markdown-page","source":"@site/src/pages/markdown-page.md","title":"Markdown page example","description":"You don't need React to write simple standalone pages.","frontMatter":{"title":"Markdown page example"}};const toc=[];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent({components,...props}){return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_workspaces_iCons_iCons4_backend_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"markdown-page-example"},`Markdown page example`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`You don't need React to write simple standalone pages.`));};MDXContent.isMDXComponent=true;
 
 /***/ }),
 
@@ -29030,68 +28382,6 @@ module.exports = {
 
 /***/ }),
 
-/***/ 8377:
-/***/ ((module) => {
-
-// Exports
-module.exports = {
-	"blogPostFooterDetailsFull": `blogPostFooterDetailsFull_mRVl`
-};
-
-
-/***/ }),
-
-/***/ 8949:
-/***/ ((module) => {
-
-// Exports
-module.exports = {
-	"authorCol": `authorCol_Hf19`,
-	"imageOnlyAuthorRow": `imageOnlyAuthorRow_pa_O`,
-	"imageOnlyAuthorCol": `imageOnlyAuthorCol_G86a`
-};
-
-
-/***/ }),
-
-/***/ 3030:
-/***/ ((module) => {
-
-// Exports
-module.exports = {
-	"container": `container_mt6G`
-};
-
-
-/***/ }),
-
-/***/ 2522:
-/***/ ((module) => {
-
-// Exports
-module.exports = {
-	"title": `title_f1Hy`
-};
-
-
-/***/ }),
-
-/***/ 8082:
-/***/ ((module) => {
-
-// Exports
-module.exports = {
-	"sidebar": `sidebar_re4s`,
-	"sidebarItemTitle": `sidebarItemTitle_pO2u`,
-	"sidebarItemList": `sidebarItemList_Yudw`,
-	"sidebarItem": `sidebarItem__DBe`,
-	"sidebarItemLink": `sidebarItemLink_mo7H`,
-	"sidebarItemLinkActive": `sidebarItemLinkActive_I1ZP`
-};
-
-
-/***/ }),
-
 /***/ 1633:
 /***/ ((module) => {
 
@@ -29579,17 +28869,6 @@ module.exports = {
 	"tag": `tag_zVej`,
 	"tagRegular": `tagRegular_sFm0`,
 	"tagWithCount": `tagWithCount_h2kH`
-};
-
-
-/***/ }),
-
-/***/ 6569:
-/***/ ((module) => {
-
-// Exports
-module.exports = {
-	"tag": `tag_Nnez`
 };
 
 
@@ -66347,18 +65626,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 9960:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg");
-
-/***/ }),
-
-/***/ 4353:
+/***/ 8304:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66369,7 +65637,227 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 1385:
+/***/ 4514:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/01-88341fb94ec046c672f95bbd3909c8b5.png");
+
+/***/ }),
+
+/***/ 7065:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/02-b3fd4455563dfcdc0b1ccf690a306180.png");
+
+/***/ }),
+
+/***/ 545:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/03-720f981d2afdbaecc3585a95bc655a3b.png");
+
+/***/ }),
+
+/***/ 8900:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/04-82892ab8fcc096aa26fcb3de8bc4afb0.png");
+
+/***/ }),
+
+/***/ 7805:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/05-27aa96f2358a894b2015dda641ce76f8.png");
+
+/***/ }),
+
+/***/ 1154:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/06-a8b2551fcab7123e67879df47709a923.png");
+
+/***/ }),
+
+/***/ 5426:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/07-4e2e603d7e016b806093a4329d35e8dd.png");
+
+/***/ }),
+
+/***/ 5518:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/08-2de595ea4341ed8644036f57006f2160.png");
+
+/***/ }),
+
+/***/ 853:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/09-236c3ede7785c89f5eb711d03292e285.png");
+
+/***/ }),
+
+/***/ 5430:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/10-c7f1c02eb2ceafc967f317b99077bee9.png");
+
+/***/ }),
+
+/***/ 7586:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/11-9acacc4b98a3c9483c93a7f0f7bdc276.png");
+
+/***/ }),
+
+/***/ 4957:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/12-6d35c699ff2aa880081e83a4f99e5d8b.png");
+
+/***/ }),
+
+/***/ 5725:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/13-760622396e00564106ba9c8074d3151f.png");
+
+/***/ }),
+
+/***/ 7685:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/14-8fa9bb3157f7be4b72093c601a116a0e.png");
+
+/***/ }),
+
+/***/ 7959:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/SysLab1-1-3138de3945002b71ebb1bcb3d0969326.png");
+
+/***/ }),
+
+/***/ 2243:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/SysLab1-2-7aec5d8808ab57616239ead3249b19c7.png");
+
+/***/ }),
+
+/***/ 8335:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/SysLab1-3-a986366c3d9b697090dc250b411c842b.png");
+
+/***/ }),
+
+/***/ 3430:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/SysLab1-4-04d4adaaa3b6e3a965cedf64aa582fd8.png");
+
+/***/ }),
+
+/***/ 1735:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/SysLab1-5-6f754321ddd4454a69823cc55e957b8f.png");
+
+/***/ }),
+
+/***/ 3195:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/SysLab1-6-de6dca83ad83ef1e278e7a160e94113d.png");
+
+/***/ }),
+
+/***/ 6497:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66380,7 +65868,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 7558:
+/***/ 9932:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66391,7 +65879,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 9552:
+/***/ 2713:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66402,7 +65890,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 9494:
+/***/ 2952:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66413,7 +65901,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 1602:
+/***/ 2873:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66424,7 +65912,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 5749:
+/***/ 4073:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66435,7 +65923,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 2523:
+/***/ 8242:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66446,7 +65934,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 2969:
+/***/ 123:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66457,7 +65945,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 8865:
+/***/ 1071:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66468,7 +65956,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 4635:
+/***/ 8175:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66479,7 +65967,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 7532:
+/***/ 2644:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66490,7 +65978,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 6792:
+/***/ 4463:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66501,7 +65989,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 5649:
+/***/ 6334:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66512,7 +66000,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 7497:
+/***/ 8461:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66523,7 +66011,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 9425:
+/***/ 2446:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66534,7 +66022,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 2632:
+/***/ 5896:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66545,7 +66033,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 2916:
+/***/ 8405:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66556,7 +66044,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 8963:
+/***/ 542:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66567,7 +66055,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 8575:
+/***/ 243:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66578,7 +66066,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 3131:
+/***/ 9526:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66589,7 +66077,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 3771:
+/***/ 1888:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66600,7 +66088,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 3938:
+/***/ 6076:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66611,7 +66099,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 3983:
+/***/ 8061:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66622,7 +66110,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 4119:
+/***/ 7100:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66633,7 +66121,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 3252:
+/***/ 6316:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66644,7 +66132,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 2326:
+/***/ 6908:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66655,7 +66143,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 8614:
+/***/ 4357:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66666,7 +66154,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 5033:
+/***/ 7908:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66677,7 +66165,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 4557:
+/***/ 3812:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66688,7 +66176,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 1984:
+/***/ 7259:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -66699,7 +66187,7 @@ exports.fromPromise = function (fn) {
 
 /***/ }),
 
-/***/ 5969:
+/***/ 7883:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -98203,7 +97691,7 @@ __webpack_require__.r(__webpack_exports__);
  */
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   "title": "LLVM Compilation Performance Metrics",
-  "tagline": "Kush Srivastava | Fall 2023 iCons 4",
+  "tagline": "Kush Srivastava | Fall 2023 iCons 4 | CHC Honors Thesis",
   "favicon": "img/favicon.ico",
   "url": "https://suobset.github.io",
   "baseUrl": "/iCons/iCons4/",
@@ -98224,13 +97712,11 @@ __webpack_require__.r(__webpack_exports__);
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/suobset/iCons/iCons4-backend/sidebars.js"
+          "sidebarPath": "/workspaces/iCons/iCons4-backend/sidebars.js"
         },
-        "blog": {
-          "showReadingTime": true
-        },
+        "blog": false,
         "theme": {
-          "customCss": "/home/suobset/iCons/iCons4-backend/src/css/custom.css"
+          "customCss": "/workspaces/iCons/iCons4-backend/src/css/custom.css"
         }
       }
     ]
@@ -98256,9 +97742,14 @@ __webpack_require__.r(__webpack_exports__);
           "position": "left"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
+          "to": "https://github.com/cics-syslab/RUST-Tracing-Tool",
+          "label": "Repository",
           "position": "left"
+        },
+        {
+          "to": "https://skushagra.com",
+          "label": "Personal Website",
+          "position": "right"
         },
         {
           "href": "https://github.com/suobset/iCons",
@@ -98307,7 +97798,7 @@ __webpack_require__.r(__webpack_exports__);
           ]
         }
       ],
-      "copyright": "Copyright © 2023 Kush S."
+      "copyright": "Copyright © 2024 Kush S."
     },
     "prism": {
       "theme": {
@@ -98661,110 +98152,6 @@ module.exports = {};
 
 /***/ }),
 
-/***/ 5641:
-/***/ ((module) => {
-
-"use strict";
-module.exports = JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/iCons/iCons4/blog/welcome"},{"title":"MDX Blog Post","permalink":"/iCons/iCons4/blog/mdx-blog-post"},{"title":"Long Blog Post","permalink":"/iCons/iCons4/blog/long-blog-post"},{"title":"First Blog Post","permalink":"/iCons/iCons4/blog/first-blog-post"}]}');
-
-/***/ }),
-
-/***/ 7802:
-/***/ ((module) => {
-
-"use strict";
-module.exports = JSON.parse('{"blogPosts":[{"id":"welcome","metadata":{"permalink":"/iCons/iCons4/blog/welcome","source":"@site/blog/2021-08-26-welcome/index.md","title":"Welcome","description":"Docusaurus blogging features are powered by the blog plugin.","date":"2021-08-26T00:00:00.000Z","formattedDate":"August 26, 2021","tags":[{"label":"facebook","permalink":"/iCons/iCons4/blog/tags/facebook"},{"label":"hello","permalink":"/iCons/iCons4/blog/tags/hello"},{"label":"docusaurus","permalink":"/iCons/iCons4/blog/tags/docusaurus"}],"readingTime":0.405,"hasTruncateMarker":false,"authors":[{"name":"Sébastien Lorber","title":"Docusaurus maintainer","url":"https://sebastienlorber.com","imageURL":"https://github.com/slorber.png","key":"slorber"},{"name":"Yangshun Tay","title":"Front End Engineer @ Facebook","url":"https://github.com/yangshun","imageURL":"https://github.com/yangshun.png","key":"yangshun"}],"frontMatter":{"slug":"welcome","title":"Welcome","authors":["slorber","yangshun"],"tags":["facebook","hello","docusaurus"]},"nextItem":{"title":"MDX Blog Post","permalink":"/iCons/iCons4/blog/mdx-blog-post"}},"content":"[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\\n\\nSimply add Markdown files (or folders) to the `blog` directory.\\n\\nRegular blog authors can be added to `authors.yml`.\\n\\nThe blog post date can be extracted from filenames, such as:\\n\\n- `2019-05-30-welcome.md`\\n- `2019-05-30-welcome/index.md`\\n\\nA blog post folder can be convenient to co-locate blog post images:\\n\\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\\n\\nThe blog supports tags as well!\\n\\n**And if you don\'t want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."},{"id":"mdx-blog-post","metadata":{"permalink":"/iCons/iCons4/blog/mdx-blog-post","source":"@site/blog/2021-08-01-mdx-blog-post.mdx","title":"MDX Blog Post","description":"Blog posts support Docusaurus Markdown features, such as MDX.","date":"2021-08-01T00:00:00.000Z","formattedDate":"August 1, 2021","tags":[{"label":"docusaurus","permalink":"/iCons/iCons4/blog/tags/docusaurus"}],"readingTime":0.175,"hasTruncateMarker":false,"authors":[{"name":"Sébastien Lorber","title":"Docusaurus maintainer","url":"https://sebastienlorber.com","imageURL":"https://github.com/slorber.png","key":"slorber"}],"frontMatter":{"slug":"mdx-blog-post","title":"MDX Blog Post","authors":["slorber"],"tags":["docusaurus"]},"prevItem":{"title":"Welcome","permalink":"/iCons/iCons4/blog/welcome"},"nextItem":{"title":"Long Blog Post","permalink":"/iCons/iCons4/blog/long-blog-post"}},"content":"Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\\n\\n:::tip\\n\\nUse the power of React to create interactive blog posts.\\n\\n```js\\n<button onClick={() => alert(\'button clicked!\')}>Click me!</button>\\n```\\n\\n<button onClick={() => alert(\'button clicked!\')}>Click me!</button>\\n\\n:::"},{"id":"long-blog-post","metadata":{"permalink":"/iCons/iCons4/blog/long-blog-post","source":"@site/blog/2019-05-29-long-blog-post.md","title":"Long Blog Post","description":"This is the summary of a very long blog post,","date":"2019-05-29T00:00:00.000Z","formattedDate":"May 29, 2019","tags":[{"label":"hello","permalink":"/iCons/iCons4/blog/tags/hello"},{"label":"docusaurus","permalink":"/iCons/iCons4/blog/tags/docusaurus"}],"readingTime":2.05,"hasTruncateMarker":true,"authors":[{"name":"Endilie Yacop Sucipto","title":"Maintainer of Docusaurus","url":"https://github.com/endiliey","imageURL":"https://github.com/endiliey.png","key":"endi"}],"frontMatter":{"slug":"long-blog-post","title":"Long Blog Post","authors":"endi","tags":["hello","docusaurus"]},"prevItem":{"title":"MDX Blog Post","permalink":"/iCons/iCons4/blog/mdx-blog-post"},"nextItem":{"title":"First Blog Post","permalink":"/iCons/iCons4/blog/first-blog-post"}},"content":"This is the summary of a very long blog post,\\n\\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\\n\\n<!--truncate-->\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"},{"id":"first-blog-post","metadata":{"permalink":"/iCons/iCons4/blog/first-blog-post","source":"@site/blog/2019-05-28-first-blog-post.md","title":"First Blog Post","description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet","date":"2019-05-28T00:00:00.000Z","formattedDate":"May 28, 2019","tags":[{"label":"hola","permalink":"/iCons/iCons4/blog/tags/hola"},{"label":"docusaurus","permalink":"/iCons/iCons4/blog/tags/docusaurus"}],"readingTime":0.12,"hasTruncateMarker":false,"authors":[{"name":"Gao Wei","title":"Docusaurus Core Team","url":"https://github.com/wgao19","image_url":"https://github.com/wgao19.png","imageURL":"https://github.com/wgao19.png"}],"frontMatter":{"slug":"first-blog-post","title":"First Blog Post","authors":{"name":"Gao Wei","title":"Docusaurus Core Team","url":"https://github.com/wgao19","image_url":"https://github.com/wgao19.png","imageURL":"https://github.com/wgao19.png"},"tags":["hola","docusaurus"]},"prevItem":{"title":"Long Blog Post","permalink":"/iCons/iCons4/blog/long-blog-post"}},"content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"}]}');
-
-/***/ }),
-
-/***/ 1867:
-/***/ ((module) => {
-
-"use strict";
-module.exports = JSON.parse('{"permalink":"/iCons/iCons4/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}');
-
-/***/ }),
-
-/***/ 5970:
-/***/ ((module) => {
-
-"use strict";
-module.exports = JSON.parse('{"permalink":"/iCons/iCons4/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}');
-
-/***/ }),
-
-/***/ 8516:
-/***/ ((module) => {
-
-"use strict";
-module.exports = JSON.parse('{"label":"docusaurus","permalink":"/iCons/iCons4/blog/tags/docusaurus","allTagsPath":"/iCons/iCons4/blog/tags","count":4}');
-
-/***/ }),
-
-/***/ 380:
-/***/ ((module) => {
-
-"use strict";
-module.exports = JSON.parse('{"permalink":"/iCons/iCons4/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}');
-
-/***/ }),
-
-/***/ 8453:
-/***/ ((module) => {
-
-"use strict";
-module.exports = JSON.parse('{"label":"facebook","permalink":"/iCons/iCons4/blog/tags/facebook","allTagsPath":"/iCons/iCons4/blog/tags","count":1}');
-
-/***/ }),
-
-/***/ 9432:
-/***/ ((module) => {
-
-"use strict";
-module.exports = JSON.parse('{"permalink":"/iCons/iCons4/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}');
-
-/***/ }),
-
-/***/ 794:
-/***/ ((module) => {
-
-"use strict";
-module.exports = JSON.parse('{"label":"hello","permalink":"/iCons/iCons4/blog/tags/hello","allTagsPath":"/iCons/iCons4/blog/tags","count":2}');
-
-/***/ }),
-
-/***/ 8681:
-/***/ ((module) => {
-
-"use strict";
-module.exports = JSON.parse('{"permalink":"/iCons/iCons4/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}');
-
-/***/ }),
-
-/***/ 5088:
-/***/ ((module) => {
-
-"use strict";
-module.exports = JSON.parse('{"label":"hola","permalink":"/iCons/iCons4/blog/tags/hola","allTagsPath":"/iCons/iCons4/blog/tags","count":1}');
-
-/***/ }),
-
-/***/ 8860:
-/***/ ((module) => {
-
-"use strict";
-module.exports = JSON.parse('[{"label":"facebook","permalink":"/iCons/iCons4/blog/tags/facebook","count":1},{"label":"hello","permalink":"/iCons/iCons4/blog/tags/hello","count":2},{"label":"docusaurus","permalink":"/iCons/iCons4/blog/tags/docusaurus","count":4},{"label":"hola","permalink":"/iCons/iCons4/blog/tags/hola","count":1}]');
-
-/***/ }),
-
-/***/ 4469:
-/***/ ((module) => {
-
-"use strict";
-module.exports = JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}');
-
-/***/ }),
-
 /***/ 9737:
 /***/ ((module) => {
 
@@ -98777,7 +98164,7 @@ module.exports = JSON.parse('{"title":"Definitions","description":"Tools of the 
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"title":"Thesis Milestones","description":"This sub-heading holds all thesis milestones. This part is completely in draft mode.","slug":"/category/thesis-milestones","permalink":"/iCons/iCons4/docs/category/thesis-milestones","navigation":{"previous":{"title":"LLVM (Low-Level Virtual Machine)","permalink":"/iCons/iCons4/docs/definitions/llvm"},"next":{"title":"Semester 1: Thesis Presentation","permalink":"/iCons/iCons4/docs/thesis/sem1"}}}');
+module.exports = JSON.parse('{"title":"Thesis Milestones","description":"This sub-heading holds all thesis milestones. This part is completely in draft mode.","slug":"/category/thesis-milestones","permalink":"/iCons/iCons4/docs/category/thesis-milestones","navigation":{"previous":{"title":"LLVM (Low-Level Virtual Machine)","permalink":"/iCons/iCons4/docs/definitions/llvm"},"next":{"title":"Semester 0: CICS Syslab","permalink":"/iCons/iCons4/docs/thesis/syslab"}}}');
 
 /***/ }),
 
@@ -98793,7 +98180,7 @@ module.exports = JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"defa
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"pluginId":"default","version":"current","label":"Next","banner":null,"badge":false,"noIndex":false,"className":"docs-version-current","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"Introduction","href":"/iCons/iCons4/docs/intro","docId":"intro"},{"type":"category","label":"Definitions","collapsible":true,"collapsed":true,"items":[{"type":"link","label":"RUST","href":"/iCons/iCons4/docs/definitions/rust","docId":"definitions/rust"},{"type":"link","label":"C++","href":"/iCons/iCons4/docs/definitions/cpp","docId":"definitions/cpp"},{"type":"link","label":"x86 Architecture","href":"/iCons/iCons4/docs/definitions/x86","docId":"definitions/x86"},{"type":"link","label":"x86 Assembly Language","href":"/iCons/iCons4/docs/definitions/x86asm","docId":"definitions/x86asm"},{"type":"link","label":"LLVM (Low-Level Virtual Machine)","href":"/iCons/iCons4/docs/definitions/llvm","docId":"definitions/llvm"}],"href":"/iCons/iCons4/docs/category/definitions"},{"type":"category","label":"Thesis Milestones","collapsible":true,"collapsed":true,"items":[{"type":"link","label":"Semester 1: Thesis Presentation","href":"/iCons/iCons4/docs/thesis/sem1","docId":"thesis/sem1"}],"href":"/iCons/iCons4/docs/category/thesis-milestones"}]},"docs":{"definitions/cpp":{"id":"definitions/cpp","title":"C++","description":"C++ is a versatile, statically-typed programming language that combines high-level abstractions with low-level system access. It was developed as an extension of the C programming language, adding object-oriented features and other modern concepts. C++ is widely used in a variety of applications, from systems programming to game development and high-performance software.","sidebar":"tutorialSidebar"},"definitions/llvm":{"id":"definitions/llvm","title":"LLVM (Low-Level Virtual Machine)","description":"LLVM, short for Low-Level Virtual Machine, is a versatile and powerful open-source compiler infrastructure. It\'s designed to optimize and compile high-level programming languages like Rust and C++ into efficient machine code that can run on various hardware platforms. LLVM is instrumental in modern software development, enabling performance optimization and portability.","sidebar":"tutorialSidebar"},"definitions/rust":{"id":"definitions/rust","title":"RUST","description":"Rust is a statically-typed systems programming language known for its emphasis on memory safety, zero-cost abstractions, and high performance. It was first developed by Mozilla and released in 2010. Rust\'s design goals include providing a safe and concurrent alternative to C and C++, while maintaining low-level control over hardware and system resources.","sidebar":"tutorialSidebar"},"definitions/x86":{"id":"definitions/x86","title":"x86 Architecture","description":"x86 is a widely used computer architecture that encompasses a family of instruction set architectures based on the Intel 8086 CPU. It has evolved over the years and includes several generations, such as the 80286, 80386, 80486, and the more recent x86-64 (also known as AMD64) architecture. x86 is the foundation of the majority of personal computers and servers, running operating systems like Windows and Linux.","sidebar":"tutorialSidebar"},"definitions/x86asm":{"id":"definitions/x86asm","title":"x86 Assembly Language","description":"x86 Assembly Language is a low-level programming language that directly corresponds to the architecture of x86-based processors. It provides a human-readable representation of machine code instructions, enabling programmers to write code that directly controls the CPU and memory. Understanding x86 Assembly is crucial for tasks like system programming, reverse engineering, and optimizing critical software components.","sidebar":"tutorialSidebar"},"intro":{"id":"intro","title":"Introduction","description":"This project mainly compares and contrasts between the RUST Programming Language, and the C++ Programming Language. We focus on the Cargo and Clang Compilers respectively, since they are both based on the LLVM Architecture. Thus, the low-level assembly generated by the LLVM compiler remains uniform between the two languages, and comparisons can be made.","sidebar":"tutorialSidebar"},"thesis/sem1":{"id":"thesis/sem1","title":"Semester 1: Thesis Presentation","description":"The following is the state of everything at the end of Fall 2023.","sidebar":"tutorialSidebar"}}}');
+module.exports = JSON.parse('{"pluginId":"default","version":"current","label":"Next","banner":null,"badge":false,"noIndex":false,"className":"docs-version-current","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"Introduction","href":"/iCons/iCons4/docs/intro","docId":"intro"},{"type":"category","label":"Definitions","collapsible":true,"collapsed":true,"items":[{"type":"link","label":"RUST","href":"/iCons/iCons4/docs/definitions/rust","docId":"definitions/rust"},{"type":"link","label":"C++","href":"/iCons/iCons4/docs/definitions/cpp","docId":"definitions/cpp"},{"type":"link","label":"x86 Architecture","href":"/iCons/iCons4/docs/definitions/x86","docId":"definitions/x86"},{"type":"link","label":"x86 Assembly Language","href":"/iCons/iCons4/docs/definitions/x86asm","docId":"definitions/x86asm"},{"type":"link","label":"LLVM (Low-Level Virtual Machine)","href":"/iCons/iCons4/docs/definitions/llvm","docId":"definitions/llvm"}],"href":"/iCons/iCons4/docs/category/definitions"},{"type":"category","label":"Thesis Milestones","collapsible":true,"collapsed":true,"items":[{"type":"link","label":"Semester 0: CICS Syslab","href":"/iCons/iCons4/docs/thesis/syslab","docId":"thesis/syslab"},{"type":"link","label":"Semester 1: Thesis Presentation","href":"/iCons/iCons4/docs/thesis/sem1","docId":"thesis/sem1"},{"type":"link","label":"Semester 2: Part 2 Initial","href":"/iCons/iCons4/docs/thesis/pt2init","docId":"thesis/pt2init"}],"href":"/iCons/iCons4/docs/category/thesis-milestones"}]},"docs":{"definitions/cpp":{"id":"definitions/cpp","title":"C++","description":"C++ is a versatile, statically-typed programming language that combines high-level abstractions with low-level system access. It was developed as an extension of the C programming language, adding object-oriented features and other modern concepts. C++ is widely used in a variety of applications, from systems programming to game development and high-performance software.","sidebar":"tutorialSidebar"},"definitions/llvm":{"id":"definitions/llvm","title":"LLVM (Low-Level Virtual Machine)","description":"LLVM, short for Low-Level Virtual Machine, is a versatile and powerful open-source compiler infrastructure. It\'s designed to optimize and compile high-level programming languages like Rust and C++ into efficient machine code that can run on various hardware platforms. LLVM is instrumental in modern software development, enabling performance optimization and portability.","sidebar":"tutorialSidebar"},"definitions/rust":{"id":"definitions/rust","title":"RUST","description":"Rust is a statically-typed systems programming language known for its emphasis on memory safety, zero-cost abstractions, and high performance. It was first developed by Mozilla and released in 2010. Rust\'s design goals include providing a safe and concurrent alternative to C and C++, while maintaining low-level control over hardware and system resources.","sidebar":"tutorialSidebar"},"definitions/x86":{"id":"definitions/x86","title":"x86 Architecture","description":"x86 is a widely used computer architecture that encompasses a family of instruction set architectures based on the Intel 8086 CPU. It has evolved over the years and includes several generations, such as the 80286, 80386, 80486, and the more recent x86-64 (also known as AMD64) architecture. x86 is the foundation of the majority of personal computers and servers, running operating systems like Windows and Linux.","sidebar":"tutorialSidebar"},"definitions/x86asm":{"id":"definitions/x86asm","title":"x86 Assembly Language","description":"x86 Assembly Language is a low-level programming language that directly corresponds to the architecture of x86-based processors. It provides a human-readable representation of machine code instructions, enabling programmers to write code that directly controls the CPU and memory. Understanding x86 Assembly is crucial for tasks like system programming, reverse engineering, and optimizing critical software components.","sidebar":"tutorialSidebar"},"intro":{"id":"intro","title":"Introduction","description":"This project mainly compares and contrasts between the RUST Programming Language, and the C++ Programming Language. We focus on the Cargo and Clang Compilers respectively, since they are both based on the LLVM Architecture. Thus, the low-level assembly generated by the LLVM compiler remains uniform between the two languages, and comparisons can be made.","sidebar":"tutorialSidebar"},"thesis/pt2init":{"id":"thesis/pt2init","title":"Semester 2: Part 2 Initial","description":"The following is the first presentation during the start of Spring 2024.","sidebar":"tutorialSidebar"},"thesis/sem1":{"id":"thesis/sem1","title":"Semester 1: Thesis Presentation","description":"The following is the state of everything at the end of Fall 2023.","sidebar":"tutorialSidebar"},"thesis/syslab":{"id":"thesis/syslab","title":"Semester 0: CICS Syslab","description":"The following is the first presentation during the very beginning, Spring 2023. These slides were shown in the first CICS Systems Lab Meeting, whe the project was in the very initial stages.","sidebar":"tutorialSidebar"}}}');
 
 /***/ }),
 
