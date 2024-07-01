@@ -1,1 +1,1 @@
-window.location.href = "https://skushagra.com/docs/research/icons"
+window.location.href = "https://skushagra.com/docs/undergraduate/icons"
